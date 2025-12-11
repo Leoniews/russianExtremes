@@ -1,4 +1,4 @@
-#import mysecrets
+import mysecrets
 import os
 import requests
 #from urllib.parse import urlparse
@@ -636,6 +636,61 @@ def checkNewsApi(results=[]):
         return True 
     return False
 
+def checkLanguageSetting(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    gitRepo = os.getenv('GITHUB_REPO')
+    lng = os.getenv('EXTREME_LANGUAGE')
+    results.append("### EXTREME_LANGUAGE")
+    lngExists = True
+    if(lng):
+      if(lng == 'xx'):
+        lngExists = False
+    else:
+        lngExists = False      
+    if(not lngExists): 
+        results.append(":no_entry: EXTREME_LANGUAGE **missing**:")
+        results.append("1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/"+gitOrg+"/"+gitRepo+"/settings/secrets/actions")       
+        results.append("   * Name:  **EXTREME_LANGUAGE** ")
+        results.append("   * Value: **Your language code here** ") 
+        return False    
+    else:
+        results.append(":white_check_mark: EXTREME_LANGUAGE key exists")
+        inqNewsApi(results) 
+        return True 
+    return False
+
+def inqGhExtremes(results=[]):
+    ghToken = os.getenv('EXTREME_GH_TOKEN')
+    response=requests.get('https://raw.githubusercontent.com/newsWhisperer/extremes/main/csv/topics.csv', headers={"Authorization":"token "+ghToken})   
+    if(200 == response.status_code):
+        results.append(":white_check_mark: EXTREME_GH_TOKEN working")
+    else:
+        results.append(":no_entry: EXTREME_GH_TOKEN **not working**:")
+    return False  
+      
+
+def checkExtremeGithubToken(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    ghToken = os.getenv('EXTREME_GH_TOKEN')
+    results.append("### EXTREME_GH_TOKEN")
+    ghTokenExists = True
+    if(ghToken):
+      if(ghToken == 'ghp_1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f'):
+        ghTokenExists = False
+    else:
+        ghTokenExists = False      
+    if(not ghTokenExists): 
+        results.append(":no_entry: EXTREME_GH_TOKEN **missing**:")
+        results.append("1. Assign the API key as new organization secret at https://github.com/organizations/"+gitOrg+"/settings/secrets/actions/new")       
+        results.append("   * Name:  **EXTREME_GH_TOKEN** ")
+        results.append("   * Value: **Your key here** ") 
+        return False    
+    else:
+        results.append(":white_check_mark: EXTREME_GH_TOKEN exists")
+        inqGhExtremes(results) 
+        return True 
+    return False
+
 def addRegisterGeonamesToResults(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     newGitOrg = gitOrg.replace("-","_")
@@ -743,6 +798,10 @@ def checkGithubOrganization(results=[]):
     return (True, True) 
 
 results=[]
+results.append("# EXTREMES")
+checkLanguageSetting(results)
+checkExtremeGithubToken(results)
+
 results.append("# BASICS")
 (runOnGithub, runInOrganization) = checkGithubOrganization(results)
 results.append("\n---\n")
