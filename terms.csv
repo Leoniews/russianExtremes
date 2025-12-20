@@ -1,11 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,снег России,2025-12-14T03:49:00+00:00,Russia,0.6935877350001688,1,3,ru,ESB,Europe
-'99d338c49c',extremes,Drought,#edc291,edo,засуха в узбекистане,2025-11-30T03:47:00+00:00,Uzbekistan,0.6861848933772298,0,2,ru,WCA,Asia
-'fdca65f36b',extremes,Snow&Ice,#d60d2b,wmo,лед Мурманской области,2025-12-14T03:49:00+00:00,Russia,0.6857364442029387,0,2,ru,ESB,Europe
-'4b823c754e',extremes,Storm,#b3b2b1,wmo,штормовой нагон Приморский край,2025-12-02T03:41:00+00:00,Russia,0.6852417846074076,0,2,ru,ESB,Europe
 '3d2b0de353',extremes,Snow&Ice,#d60d2b,wmo,мороз на севере Хабаровского края,2025-11-30T03:46:00+00:00,Russia,0.6850911605048108,0,2,ru,ESB,Europe
 '943604e768',extremes,Storm,#b3b2b1,wmo,штормовой нагон на юге республики Саха,2025-12-02T03:41:00+00:00,Russia,0.6843062718597303,0,2,ru,ESB,Europe
 'a62e788c6c',extremes,Storm,#b3b2b1,wmo,шторм на севере Хабаровского края,2025-11-30T03:46:00+00:00,Russia,0.683770767934907,0,2,ru,ESB,Europe
+'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,снег России,2025-12-14T03:49:00+00:00,Russia,0.6825508647501435,2,3,ru,ESB,Europe
 '84f003d25f',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика адыгея,2025-12-13T03:38:00+00:00,Russia,0.6816007205093494,0,2,ru,ESB,Europe
 '6c99207fc7',extremes,Snow&Ice,#d60d2b,wmo,мороз республика алтай,2025-12-04T03:42:00+00:00,Russia,0.6786487036954425,0,2,ru,ESB,Europe
 '3e99480ef7',extremes,Drought,#edc291,edo,отсутствие дождя в узбекистане,2025-12-06T03:32:00+00:00,Uzbekistan,0.6764873192368678,0,2,ru,WCA,Asia
@@ -82,7 +79,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5cf54f79a0',extremes,Storm,#b3b2b1,wmo,гроза Брянская область,2025-12-12T03:45:00+00:00,Russia,0.5840785559118845,1,1,ru,ESB,Europe
 '53af3d9646',extremes,Drought,#edc291,edo,засуха в туркменистане,2025-12-15T03:54:00+00:00,Turkmenistan,0.5838718078202443,1,1,ru,WCA,Asia
 'e7276ea367',extremes,Storm,#b3b2b1,wmo,штормовой нагон Московская область,2025-12-13T03:38:00+00:00,Russia,0.583592015096702,1,1,ru,ESB,Europe
+'99d338c49c',extremes,Drought,#edc291,edo,засуха в узбекистане,2025-11-30T03:47:00+00:00,Uzbekistan,0.5832571593706453,1,1,ru,WCA,Asia
 'd65bea0322',extremes,Storm,#b3b2b1,wmo,шторм Ярославская область,2025-12-14T03:49:00+00:00,Russia,0.5829878334479124,1,1,ru,ESB,Europe
+'fdca65f36b',extremes,Snow&Ice,#d60d2b,wmo,лед Мурманской области,2025-12-14T03:49:00+00:00,Russia,0.5828759775724979,1,1,ru,ESB,Europe
 'bcce12426e',extremes,Storm,#b3b2b1,wmo,штормовой нагон к северу от Амурской области,2025-12-01T04:02:00+00:00,Russia,0.576144851387753,1,1,ru,ESB,Europe
 '4b24df43af',extremes,Storm,#b3b2b1,wmo,штормовой нагон москва,2025-12-11T03:46:00+00:00,Russia,0.5733412726574487,1,1,ru,ESB,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2025-12-07T03:46:00+00:00,Russia,0.5589901495612506,2,1,ru,RFE,Europe
