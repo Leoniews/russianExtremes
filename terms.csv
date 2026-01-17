@@ -2,15 +2,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,землетрясение Курильск,2026-01-15T10:56:00+00:00,Russia,0.8229519554197805,1,2,ru,EAS,Asia
 '8710bd49ea',extremes,Earthquake,#870007,usgs,землетрясение Северо-Курильск,2026-01-15T10:56:00+00:00,Russia,0.8229127875500617,1,2,ru,RFE,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-01-15T10:56:00+00:00,Russia,0.7915719566652448,0,1,ru,EAS,Asia
-'85a135fac3',extremes,Earthquake,#870007,usgs,Озерновское землетрясение,2026-01-15T10:56:00+00:00,Russia,0.7914743714452447,0,1,ru,RFE,Asia
-'84f003d25f',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика адыгея,2026-01-15T12:14:00+00:00,Russia,0.7718091294368158,0,1,ru,ESB,Europe
-'912d7e568c',extremes,Precipitation,#d60d2b,wmo,проливной дождь Россия,2026-01-15T12:14:00+00:00,Russia,0.7717683017648754,0,1,ru,ESB,Europe
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-01-15T10:56:00+00:00,Russia,0.7717562265444063,0,1,ru,ESB,Europe
-'3eddf8db4a',extremes,Snow&Ice,#d60d2b,wmo,морозная Смоленская область,2026-01-15T12:14:00+00:00,Russia,0.7717415668557858,0,1,ru,ESB,Europe
-'56e6275c86',extremes,Storm,#b3b2b1,wmo,гроза оренбургская область,2026-01-15T10:56:00+00:00,Russia,0.7717414738135914,0,1,ru,ESB,Europe
-'7ee4b63059',extremes,Snow&Ice,#d60d2b,wmo,мороз Тульская область,2026-01-15T12:14:00+00:00,Russia,0.771725923465248,0,1,ru,ESB,Europe
-'7c7ee3b12b',extremes,Storm,#b3b2b1,wmo,штормовой нагон россия,2026-01-15T10:56:00+00:00,Russia,0.7717114433106746,0,1,ru,ESB,Europe
-'3ebd14c0c6',extremes,Storm,#b3b2b1,wmo,шторм на севере Камчатского края,2026-01-15T12:14:00+00:00,Russia,0.7717054369071312,0,1,ru,ESB,Europe
 '7916c66833',extremes,Snow&Ice,#d60d2b,wmo,снег Калужской области,2026-01-15T12:14:00+00:00,Russia,0.7717053434776749,0,1,ru,ESB,Europe
 '5877d58b55',extremes,Fog,#d60d2b,wmo,туман ивановская область,2026-01-15T12:14:00+00:00,Russia,0.7716745656275513,0,1,ru,ESB,Europe
 '500172fc71',extremes,Snow&Ice,#d60d2b,wmo,морозная россия,2026-01-15T10:56:00+00:00,Russia,0.771665431518088,0,1,ru,ESB,Europe
@@ -39,6 +31,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,лавина россия,2026-01-15T10:56:00+00:00,Russia,0.6560760107813314,1,1,ru,ESB,Europe
 'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,лавина республика тыва,2026-01-15T10:56:00+00:00,Russia,0.6560601499424319,1,1,ru,ESB,Europe
 '2b705832db',extremes,Snow Avalanche,#deddd5,wmo,лавина республика северная осетия алания,2026-01-15T12:14:00+00:00,Russia,0.6560525401426873,1,1,ru,ESB,Europe
+'84f003d25f',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика адыгея,2026-01-15T12:14:00+00:00,Russia,0.6560377600212934,1,1,ru,ESB,Europe
+'912d7e568c',extremes,Precipitation,#d60d2b,wmo,проливной дождь Россия,2026-01-15T12:14:00+00:00,Russia,0.6560030565001441,1,1,ru,ESB,Europe
+'3eddf8db4a',extremes,Snow&Ice,#d60d2b,wmo,морозная Смоленская область,2026-01-15T12:14:00+00:00,Russia,0.6559803318274179,1,1,ru,ESB,Europe
+'56e6275c86',extremes,Storm,#b3b2b1,wmo,гроза оренбургская область,2026-01-15T10:56:00+00:00,Russia,0.6559802527415527,1,1,ru,ESB,Europe
+'7ee4b63059',extremes,Snow&Ice,#d60d2b,wmo,мороз Тульская область,2026-01-15T12:14:00+00:00,Russia,0.6559670349454608,1,1,ru,ESB,Europe
+'7c7ee3b12b',extremes,Storm,#b3b2b1,wmo,штормовой нагон россия,2026-01-15T10:56:00+00:00,Russia,0.6559547268140734,1,1,ru,ESB,Europe
+'3ebd14c0c6',extremes,Storm,#b3b2b1,wmo,шторм на севере Камчатского края,2026-01-15T12:14:00+00:00,Russia,0.6559496213710615,1,1,ru,ESB,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,лесной пожар в россии,2025-12-07T03:47:00+00:00,Russia,0.6362819855647587,1,1,ru,ESB,Europe
 'cd193fce00',extremes,Wildfire,#d60d2b,wmo,лесной пожар в чеченской республике,2025-12-08T03:44:00+00:00,Russia,0.6313930923939368,1,1,ru,ESB,Europe
 '8709e232e1',extremes,Wildfire,#d60d2b,wmo,лесной пожар в карачаево-черкесской республике,2025-12-07T03:47:00+00:00,Russia,0.6286529271012734,1,1,ru,ESB,Europe
