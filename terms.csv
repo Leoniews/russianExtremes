@@ -4,15 +4,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-01-15T10:56:00+00:00,Russia,0.7859362231654581,1,2,ru,EAS,Asia
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-01-15T10:56:00+00:00,Russia,0.7767428675627454,1,2,ru,ESB,Europe
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,землетрясение в Таджикистане,2026-01-15T10:56:00+00:00,Tajikistan,0.755638173009323,1,2,ru,WCA,Asia
+'b4680f45bf',extremes,Snow&Ice,#d60d2b,wmo,мороз беларуси,2026-01-15T10:56:00+00:00,Belarus,0.7404134352944834,1,2,ru,WCE,Europe
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,землетрясение Курильск,2026-01-15T10:56:00+00:00,Russia,0.6995091771068134,2,1,ru,EAS,Asia
 '8710bd49ea',extremes,Earthquake,#870007,usgs,землетрясение Северо-Курильск,2026-01-15T10:56:00+00:00,Russia,0.6994758844175525,2,1,ru,RFE,Asia
-'013bee326a',extremes,Storm,#b3b2b1,wmo,штормовой нагон в Эстонии,2026-01-15T12:14:00+00:00,Estonia,0.6945824897703772,0,1,ru,NEU,Europe
-'4e62a1ef72',extremes,Storm,#b3b2b1,wmo,штормовой нагон хиу мааконд сааре мааконд,2026-01-15T12:14:00+00:00,Estonia,0.6945289726564412,0,1,ru,NEU,Europe
-'c41b312d24',extremes,Storm,#b3b2b1,wmo,штормовой нагон soome lahe lääneosa,2026-01-15T10:56:00+00:00,Estonia,0.6945083979490931,0,1,ru,NEU,Europe
-'08d159a212',extremes,Storm,#b3b2b1,wmo,шторм Харью мааконд рапла мааконд,2026-01-15T12:14:00+00:00,Estonia,0.6945064217377556,0,1,ru,NEU,Europe
-'9437490682',extremes,Storm,#b3b2b1,wmo,штормовой нагон lääne maakond pärnu maakond,2026-01-15T12:14:00+00:00,Estonia,0.6944851161902721,0,1,ru,NEU,Europe
-'b71af9ff0f',extremes,Storm,#b3b2b1,wmo,штормовой нагон лийви лахе пыхьяоса,2026-01-15T12:14:00+00:00,Estonia,0.6944616566755492,0,1,ru,NEU,Europe
-'b4680f45bf',extremes,Snow&Ice,#d60d2b,wmo,мороз беларуси,2026-01-15T10:56:00+00:00,Belarus,0.6944275532876276,0,1,ru,WCE,Europe
 '935334a1b8',extremes,Snow&Ice,#d60d2b,wmo,снег Беларуси,2026-01-15T10:56:00+00:00,Belarus,0.6943576932627173,0,1,ru,WCE,Europe
 '8ac40ca1e0',extremes,Precipitation,#d60d2b,wmo,проливной дождь Беларусь,2026-01-15T12:14:00+00:00,Belarus,0.6943551028919739,0,1,ru,WCE,Europe
 'e9ab38c9ce',extremes,Snow&Ice,#d60d2b,wmo,морозная Беларусь,2026-01-15T10:56:00+00:00,Belarus,0.6943422179962474,0,1,ru,WCE,Europe
@@ -84,6 +78,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb960b1994',extremes,Drought,#edc291,edo,засуха молдова,2026-01-15T10:57:00+00:00,Moldova,0.6031809050920737,1,1,ru,WCE,Europe
 'c37650b8be',extremes,Flood,#030ba1,wmo,паводок в россии,2026-01-15T12:14:00+00:00,Russia,0.5923904361822928,1,1,ru,ESB,Europe
 '1a1c1441f2',extremes,Storm,#b3b2b1,wmo,шторм привет мааконд сааре мааконд,2026-01-15T10:56:00+00:00,Estonia,0.5907277152244857,1,1,ru,NEU,Europe
+'4e62a1ef72',extremes,Storm,#b3b2b1,wmo,штормовой нагон хиу мааконд сааре мааконд,2026-01-15T12:14:00+00:00,Estonia,0.590349626757975,1,1,ru,NEU,Europe
+'c41b312d24',extremes,Storm,#b3b2b1,wmo,штормовой нагон soome lahe lääneosa,2026-01-15T10:56:00+00:00,Estonia,0.5903321382567291,1,1,ru,NEU,Europe
+'08d159a212',extremes,Storm,#b3b2b1,wmo,шторм Харью мааконд рапла мааконд,2026-01-15T12:14:00+00:00,Estonia,0.5903304584770922,1,1,ru,NEU,Europe
+'9437490682',extremes,Storm,#b3b2b1,wmo,штормовой нагон lääne maakond pärnu maakond,2026-01-15T12:14:00+00:00,Estonia,0.5903123487617312,1,1,ru,NEU,Europe
+'b71af9ff0f',extremes,Storm,#b3b2b1,wmo,штормовой нагон лийви лахе пыхьяоса,2026-01-15T12:14:00+00:00,Estonia,0.5902924081742168,1,1,ru,NEU,Europe
 'bb3a2ffcc5',extremes,Fog,#d60d2b,wmo,туман ростовской области,2025-12-10T03:45:00+00:00,Russia,0.5358926791709322,2,2,ru,ESB,Europe
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,снег России,2025-12-14T03:49:00+00:00,Russia,0.5224428706612727,5,3,ru,ESB,Europe
 'f0d2304d88',extremes,Snow&Ice,#d60d2b,wmo,ледяная республика Бурятия,2025-12-18T03:44:00+00:00,Russia,0.514939891949883,2,1,ru,ESB,Europe
