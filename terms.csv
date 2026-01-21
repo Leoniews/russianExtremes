@@ -6,8 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4680f45bf',extremes,Snow&Ice,#d60d2b,wmo,мороз беларуси,2026-01-15T10:56:00+00:00,Belarus,0.7404134352944834,1,2,ru,WCE,Europe
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,землетрясение Курильск,2026-01-15T10:56:00+00:00,Russia,0.6995091771068134,2,1,ru,EAS,Asia
 '8710bd49ea',extremes,Earthquake,#870007,usgs,землетрясение Северо-Курильск,2026-01-15T10:56:00+00:00,Russia,0.6994758844175525,2,1,ru,RFE,Asia
-'935334a1b8',extremes,Snow&Ice,#d60d2b,wmo,снег Беларуси,2026-01-15T10:56:00+00:00,Belarus,0.6943576932627173,0,1,ru,WCE,Europe
-'4a377046cd',extremes,Precipitation,#d60d2b,wmo,осадки Гродненская область,2026-01-15T12:14:00+00:00,Belarus,0.6941803726622171,0,1,ru,WCE,Europe
 '76de7ea56d',extremes,Snow&Ice,#d60d2b,wmo,снежная Гомельская область,2026-01-15T12:14:00+00:00,Belarus,0.6941417323310729,0,1,ru,WCE,Europe
 '65c55078b9',extremes,Snow&Ice,#d60d2b,wmo,морозная Гомельская область,2026-01-15T12:14:00+00:00,Belarus,0.6941118754809081,0,1,ru,WCE,Europe
 '7f2bd09da0',extremes,Fog,#d60d2b,wmo,туман республика северная осетия алания,2026-01-18T03:57:00+00:00,Russia,0.6929970584628901,0,1,ru,ESB,Europe
@@ -22,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7921ef009',extremes,Earthquake,#870007,usgs,землетрясение вилючинск,2026-01-15T10:56:00+00:00,Russia,0.672723528560203,1,1,ru,RFE,Asia
 '7747997246',extremes,Fog,#d60d2b,wmo,туман россии,2026-01-15T10:56:00+00:00,Russia,0.6726599831293003,1,1,ru,ESB,Europe
 '7ae6318c5b',extremes,Earthquake,#870007,usgs,землетрясение Шикотан,2026-01-15T12:13:00+00:00,Russia,0.6717528224759698,1,1,ru,EAS,Asia
+'935334a1b8',extremes,Snow&Ice,#d60d2b,wmo,снег Беларуси,2026-01-15T10:56:00+00:00,Belarus,0.6661041292733098,1,2,ru,WCE,Europe
 '6af684c4f4',extremes,Snow&Ice,#d60d2b,wmo,снежная республика татарстан,2026-01-20T03:56:00+00:00,Russia,0.6626689718725685,0,1,ru,ESB,Europe
 'bdb3ebf6fc',extremes,Fog,#d60d2b,wmo,туман чеченская республика,2026-01-17T03:44:00+00:00,Russia,0.6616875324703982,0,1,ru,ESB,Europe
 'f1d46c4294',extremes,Snow&Ice,#d60d2b,wmo,мороз Калужской области,2026-01-15T10:56:00+00:00,Russia,0.6564782426076573,1,1,ru,ESB,Europe
