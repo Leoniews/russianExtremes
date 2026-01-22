@@ -1,16 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '542bc85191',extremes,Precipitation,#d60d2b,wmo,ливень сочи,2026-01-15T12:14:00+00:00,Russia,0.8350265951973568,2,2,ru,ESB,Europe
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,дождь россия,2026-01-15T10:56:00+00:00,Russia,0.8067162368553145,1,2,ru,ESB,Europe
-'76ad379230',extremes,Earthquake,#870007,usgs,землетрясение Петропавловск Камчатский,2026-01-15T10:56:00+00:00,Russia,0.791608824141008,0,1,ru,RFE,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-01-15T10:56:00+00:00,Russia,0.7859362231654581,1,2,ru,EAS,Asia
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-01-15T10:56:00+00:00,Russia,0.7767428675627454,1,2,ru,ESB,Europe
 'b4680f45bf',extremes,Snow&Ice,#d60d2b,wmo,мороз беларуси,2026-01-15T10:56:00+00:00,Belarus,0.7404134352944834,1,2,ru,WCE,Europe
-'d9a2f5f2af',extremes,Snow&Ice,#d60d2b,wmo,морозная Иркутская область,2026-01-17T03:44:00+00:00,Russia,0.7280850747070065,0,1,ru,ESB,Europe
 '43ac637eed',extremes,Snow&Ice,#d60d2b,wmo,мороз Челябинская область,2026-01-17T03:44:00+00:00,Russia,0.7093829244848053,1,2,ru,ESB,Europe
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,землетрясение Курильск,2026-01-15T10:56:00+00:00,Russia,0.6995091771068134,2,1,ru,EAS,Asia
 '8710bd49ea',extremes,Earthquake,#870007,usgs,землетрясение Северо-Курильск,2026-01-15T10:56:00+00:00,Russia,0.6994758844175525,2,1,ru,RFE,Asia
-'488c91704a',extremes,Storm,#b3b2b1,wmo,штормовой нагон на севере Камчатского края,2026-01-19T04:03:00+00:00,Russia,0.695695606700534,0,1,ru,ESB,Europe
-'bb3a2ffcc5',extremes,Fog,#d60d2b,wmo,туман ростовской области,2026-01-20T03:56:00+00:00,Russia,0.695656391735434,0,1,ru,ESB,Europe
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,туман омской области,2026-01-15T10:56:00+00:00,Russia,0.6938364516978907,0,1,ru,ESB,Europe
 '6351689404',extremes,Snow&Ice,#d60d2b,wmo,лед Беларуси,2026-01-15T10:56:00+00:00,Belarus,0.6911707132425904,1,2,ru,WCE,Europe
 'be0dcc9cd5',extremes,Fog,#d60d2b,wmo,туман карачаево-черкесской республики,2026-01-22T03:59:00+00:00,Russia,0.6908299074656282,0,1,ru,ESB,Europe
@@ -84,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2e0bdac9f',extremes,Snow Avalanche,#deddd5,wmo,лавина республика дагестан,2026-01-15T10:56:00+00:00,Russia,0.6337009121445744,1,1,ru,ESB,Europe
 '6f085c2045',extremes,Snow Avalanche,#deddd5,wmo,лавина Краснодарский край,2026-01-17T03:44:00+00:00,Russia,0.6326908914454026,1,1,ru,ESB,Europe
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,лавина чеченская республика,2026-01-17T03:44:00+00:00,Russia,0.6293862385201874,1,1,ru,ESB,Europe
+'d9a2f5f2af',extremes,Snow&Ice,#d60d2b,wmo,морозная Иркутская область,2026-01-17T03:44:00+00:00,Russia,0.6188723135009555,1,1,ru,ESB,Europe
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,шторм в россии,2026-01-15T10:56:00+00:00,Russia,0.608696662897281,1,1,ru,ESB,Europe
 'e6998a615e',extremes,Earthquake,#870007,usgs,землетрясение в Мургобе,2026-01-15T12:13:00+00:00,Tajikistan,0.6055107090363517,1,1,ru,WCA,Asia
 'd9cc56f031',extremes,Drought,#edc291,edo,засуха в таджикистане,2026-01-15T10:57:00+00:00,Tajikistan,0.6050545768227186,1,1,ru,WCA,Asia
@@ -95,6 +92,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1949e765cf',extremes,Fog,#d60d2b,wmo,туман Подмосковье,2026-01-20T03:56:00+00:00,Russia,0.5938852129865517,1,1,ru,ESB,Europe
 'c37650b8be',extremes,Flood,#030ba1,wmo,паводок в россии,2026-01-15T12:14:00+00:00,Russia,0.5923904361822928,1,1,ru,ESB,Europe
 'b80e15f835',extremes,Snow&Ice,#d60d2b,wmo,ледяная россия,2026-01-15T10:56:00+00:00,Russia,0.591627343620109,1,1,ru,ESB,Europe
+'bb3a2ffcc5',extremes,Fog,#d60d2b,wmo,туман ростовской области,2026-01-20T03:56:00+00:00,Russia,0.591607962975119,1,1,ru,ESB,Europe
+'488c91704a',extremes,Storm,#b3b2b1,wmo,штормовой нагон на севере Камчатского края,2026-01-19T04:03:00+00:00,Russia,0.5913412656954539,1,1,ru,ESB,Europe
 '1a1c1441f2',extremes,Storm,#b3b2b1,wmo,шторм привет мааконд сааре мааконд,2026-01-15T10:56:00+00:00,Estonia,0.5907277152244857,1,1,ru,NEU,Europe
 '013bee326a',extremes,Storm,#b3b2b1,wmo,штормовой нагон в Эстонии,2026-01-15T12:14:00+00:00,Estonia,0.5903951163048206,1,1,ru,NEU,Europe
 '4e62a1ef72',extremes,Storm,#b3b2b1,wmo,штормовой нагон хиу мааконд сааре мааконд,2026-01-15T12:14:00+00:00,Estonia,0.590349626757975,1,1,ru,NEU,Europe
