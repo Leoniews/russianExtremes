@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ebd14c0c6',extremes,Storm,#b3b2b1,wmo,шторм на севере Камчатского края,2026-01-15T12:14:00+00:00,Russia,0.6559496213710615,1,1,ru,ESB,Europe
 '7916c66833',extremes,Snow&Ice,#d60d2b,wmo,снег Калужской области,2026-01-15T12:14:00+00:00,Russia,0.6559495419560237,1,1,ru,ESB,Europe
 '5877d58b55',extremes,Fog,#d60d2b,wmo,туман ивановская область,2026-01-15T12:14:00+00:00,Russia,0.6559233807834186,1,1,ru,ESB,Europe
-'500172fc71',extremes,Snow&Ice,#d60d2b,wmo,морозная россия,2026-01-15T10:56:00+00:00,Russia,0.6559156167903748,1,1,ru,ESB,Europe
 'f0e5ced70e',extremes,Fog,#d60d2b,wmo,туман республика ингушетия,2026-01-15T10:56:00+00:00,Russia,0.6558879797917678,1,1,ru,ESB,Europe
 'a2b1973d03',extremes,Fog,#d60d2b,wmo,туман южнее Красноярского края,2026-01-15T10:56:00+00:00,Russia,0.655878617662905,1,1,ru,ESB,Europe
 '5654834ab9',extremes,Snow&Ice,#d60d2b,wmo,ледяная республика северная осетия алания,2026-01-15T12:14:00+00:00,Russia,0.6558762891546857,1,1,ru,ESB,Europe
@@ -176,6 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3229be0606',extremes,Snow Avalanche,#deddd5,wmo,лавина карачаево-черкесская республика,2026-01-15T12:14:00+00:00,Russia,0.5578023234478476,2,1,ru,ESB,Europe
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,лавина республика хакасия,2026-01-15T12:14:00+00:00,Russia,0.5577928741456201,2,1,ru,ESB,Europe
 '69f601e136',extremes,Fog,#d60d2b,wmo,туман Ставропольского края,2026-01-15T10:56:00+00:00,Russia,0.5577125847713886,2,1,ru,ESB,Europe
+'500172fc71',extremes,Snow&Ice,#d60d2b,wmo,морозная россия,2026-01-15T10:56:00+00:00,Russia,0.5576782892718186,2,1,ru,ESB,Europe
 'a486f7aaa7',extremes,Snow Avalanche,#deddd5,wmo,лавина республика адыгея,2026-01-15T10:56:00+00:00,Russia,0.5576651886692824,2,1,ru,ESB,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,лавина россия,2026-01-15T10:56:00+00:00,Russia,0.5576646091641316,2,1,ru,ESB,Europe
 'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,лавина республика тыва,2026-01-15T10:56:00+00:00,Russia,0.557651127451067,2,1,ru,ESB,Europe
@@ -202,7 +202,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42147c17be',extremes,Snow&Ice,#d60d2b,wmo,морозная Свердловская область,2026-01-21T03:56:00+00:00,Russia,0.5496942885572098,1,1,ru,ESB,Europe
 'b6cef22543',extremes,Drought,#edc291,random,ограничение воды,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ru,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,атмосферная река,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,ru,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,рекордный холод,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,ru,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,арктический морской лед,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,ru,,
 '0053afc92f',extremes,Volcano,#b83202,random,Лахар,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,ru,,
 'ccefefc59e',extremes,Drought,#edc291,random,внезапная засуха,2026-01-15T10:20:00+00:00,,0.2561951224549235,0,1,ru,,
