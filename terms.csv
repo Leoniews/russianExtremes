@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad293ec9c8',extremes,Precipitation,#d60d2b,wmo,осадки Волгоградской области,2026-01-15T12:14:00+00:00,Russia,0.6555906053220772,1,1,ru,ESB,Europe
 '73881e1c13',extremes,Snow&Ice,#d60d2b,wmo,лед Ростовской области,2026-01-25T04:06:00+00:00,Russia,0.6444167606266429,3,1,ru,ESB,Europe
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,землетрясение в Таджикистане,2026-01-15T10:56:00+00:00,Tajikistan,0.6422924620579246,2,1,ru,WCA,Asia
-'281448fa02',extremes,Snow&Ice,#d60d2b,wmo,мороз Кемеровской области,2026-01-20T03:56:00+00:00,Russia,0.6418369354971446,0,1,ru,ESB,Europe
 '34762776e2',extremes,Snow&Ice,#d60d2b,wmo,лед Владимирской области,2026-01-26T04:09:00+00:00,Russia,0.640888041741066,0,1,ru,ESB,Europe
 '030010626f',extremes,Snow&Ice,#d60d2b,wmo,мороз республика северная осетия алания,2026-01-21T03:56:00+00:00,Russia,0.6408676657927869,0,1,ru,ESB,Europe
 '520d37d7b0',extremes,Fog,#d60d2b,wmo,туман беларусь,2026-01-20T03:56:00+00:00,Belarus,0.6405963872325676,0,1,ru,WCE,Europe
@@ -229,6 +228,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4562bf137a',extremes,Snow&Ice,#d60d2b,wmo,снег Томской области,2026-01-20T03:56:00+00:00,Russia,0.5460857296812079,1,1,ru,ESB,Europe
 '25f080edf3',extremes,Storm,#b3b2b1,wmo,шторм Клайпедский уезд,2026-01-23T04:03:00+00:00,Lithuania,0.5460298581722954,1,1,ru,WCE,Europe
 'c72c0188ff',extremes,Storm,#b3b2b1,wmo,штормовой нагон Ставропольский край,2026-01-17T03:44:00+00:00,Russia,0.5459349540393281,1,1,ru,ESB,Europe
+'281448fa02',extremes,Snow&Ice,#d60d2b,wmo,мороз Кемеровской области,2026-01-20T03:56:00+00:00,Russia,0.5457114101725729,1,1,ru,ESB,Europe
 'cc2f9cc1b9',extremes,Snow&Ice,#d60d2b,wmo,снег в Латвии,2026-01-20T03:56:00+00:00,Latvia,0.543426599738599,1,1,ru,WCE,Europe
 'b6cef22543',extremes,Drought,#edc291,random,ограничение воды,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,ru,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,атмосферная река,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,ru,,
