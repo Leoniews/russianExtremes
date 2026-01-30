@@ -22,6 +22,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '64218c13a6',extremes,Precipitation,#d60d2b,wmo,осадки Ставропольский край,2026-01-15T12:14:00+00:00,Russia,0.6556988527519533,1,1,ru,ESB,Europe
 '73881e1c13',extremes,Snow&Ice,#d60d2b,wmo,лед Ростовской области,2026-01-25T04:06:00+00:00,Russia,0.6444167606266429,3,1,ru,ESB,Europe
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,землетрясение в Таджикистане,2026-01-15T10:56:00+00:00,Tajikistan,0.6422924620579246,2,1,ru,WCA,Asia
+'bc1e25445c',extremes,Snow&Ice,#d60d2b,wmo,мороз Ульяновская область,2026-01-29T04:19:00+00:00,Russia,0.6393142259046748,0,1,ru,ESB,Europe
+'dfacda758a',extremes,Snow&Ice,#d60d2b,wmo,морозная Архангельская область,2026-01-19T04:03:00+00:00,Russia,0.6351550190416663,0,1,ru,ESB,Europe
+'c937e5c6b3',extremes,Snow&Ice,#d60d2b,wmo,снег Липецкой области,2026-01-29T04:19:00+00:00,Russia,0.634230118183946,0,1,ru,ESB,Europe
 'addb3b2a0d',extremes,Snow&Ice,#d60d2b,wmo,холодный Сочи,2026-01-17T03:44:00+00:00,Russia,0.6337221595963684,0,1,ru,ESB,Europe
 'a2e0bdac9f',extremes,Snow Avalanche,#deddd5,wmo,лавина республика дагестан,2026-01-15T10:56:00+00:00,Russia,0.6337009121445744,1,1,ru,ESB,Europe
 'b0e40e4133',extremes,Snow&Ice,#d60d2b,wmo,мороз Санкт-Петербурга,2026-01-24T03:48:00+00:00,Russia,0.6334303773638752,1,2,ru,ESB,Europe
@@ -35,12 +38,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bd8574556',extremes,Precipitation,#d60d2b,wmo,осадки Пермский край,2026-01-21T03:56:00+00:00,Russia,0.6314847888252629,0,1,ru,ESB,Europe
 '93b389b570',extremes,Precipitation,#d60d2b,wmo,осадки республика адыгея,2026-01-21T03:56:00+00:00,Russia,0.6310918758299706,0,1,ru,ESB,Europe
 '2b2f59ed3c',extremes,Snow&Ice,#d60d2b,wmo,снег на юге Камчатского края,2026-01-25T04:06:00+00:00,Russia,0.630772660671595,1,1,ru,ESB,Europe
+'37d4079fb1',extremes,Snow&Ice,#d60d2b,wmo,снег Волгоградская область,2026-01-29T04:19:00+00:00,Russia,0.6303469116126175,0,1,ru,ESB,Europe
 '8d1d64b737',extremes,Snow&Ice,#d60d2b,wmo,лед Свердловской области,2026-01-23T04:03:00+00:00,Russia,0.6301285581525214,0,1,ru,ESB,Europe
 'dd0f43c761',extremes,Precipitation,#d60d2b,wmo,дождь Литва,2026-01-26T04:09:00+00:00,Lithuania,0.6297662320979827,0,1,ru,WCE,Europe
 '5295642073',extremes,Flood,#030ba1,wmo,наводнение россии,2026-01-24T03:48:00+00:00,Russia,0.6297508150242406,1,1,ru,ESB,Europe
 '3e07519e3b',extremes,Fog,#d60d2b,wmo,туман Гродненская область,2026-01-21T03:56:00+00:00,Belarus,0.6296371462671803,0,1,ru,WCE,Europe
+'1f31430f71',extremes,Precipitation,#d60d2b,wmo,ливень республика Коми,2026-01-21T03:56:00+00:00,Russia,0.6296243842710441,0,1,ru,ESB,Europe
+'5c72ebe4a1',extremes,Snow&Ice,#d60d2b,wmo,снежная республика коми,2026-01-21T03:56:00+00:00,Russia,0.6296005427765932,0,1,ru,ESB,Europe
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,лавина чеченская республика,2026-01-17T03:44:00+00:00,Russia,0.6293862385201874,1,1,ru,ESB,Europe
+'f4ea021b6c',extremes,Snow&Ice,#d60d2b,wmo,лед Ставропольского края,2026-01-23T04:03:00+00:00,Russia,0.629343540587896,0,1,ru,ESB,Europe
 'f872d27104',extremes,Snow Avalanche,#deddd5,wmo,лавина кабардино-балкарская республика,2026-01-15T10:56:00+00:00,Russia,0.629017502615241,1,1,ru,ESB,Europe
+'7499bdf301',extremes,Precipitation,#d60d2b,wmo,проливной дождь республика калмыкия,2026-01-21T03:56:00+00:00,Russia,0.6283359949640175,0,1,ru,ESB,Europe
+'be34adb65b',extremes,Storm,#b3b2b1,wmo,гроза республика ингушетия,2026-01-19T04:03:00+00:00,Russia,0.6282640215040473,0,1,ru,ESB,Europe
+'63e9e30765',extremes,Precipitation,#d60d2b,wmo,дождь Омская область,2026-01-22T03:59:00+00:00,Russia,0.6279446082086644,0,1,ru,ESB,Europe
 '16df7a1c34',extremes,Snow&Ice,#d60d2b,wmo,морозная Ульяновская область,2026-01-26T04:09:00+00:00,Russia,0.6265526517112189,1,1,ru,ESB,Europe
 '9e21150190',extremes,Flood,#030ba1,wmo,затопление Краснодарского края,2026-01-17T03:44:00+00:00,Russia,0.6235057193352512,1,1,ru,ESB,Europe
 'c3f52aec96',extremes,Snow&Ice,#d60d2b,wmo,ледяная республика татарстан,2026-01-15T10:56:00+00:00,Russia,0.6223135835259035,1,1,ru,ESB,Europe
