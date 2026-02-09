@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4680f45bf',extremes,Snow&Ice,#d60d2b,wmo,мороз беларуси,2026-01-15T10:56:00+00:00,Belarus,0.7404134352944834,1,2,ru,WCE,Europe
 'efefb7bfe5',extremes,Snow&Ice,#d60d2b,wmo,лед Омской области,2026-01-25T04:06:00+00:00,Russia,0.7264623669073826,2,2,ru,ESB,Europe
 'bd95a3da5c',extremes,Snow&Ice,#d60d2b,wmo,мороз новосибирской области,2026-01-15T12:14:00+00:00,Russia,0.7259231775868119,2,2,ru,ESB,Europe
+'e17aa7df4c',extremes,Snow&Ice,#d60d2b,wmo,мороз Вологодской области,2026-01-31T04:16:00+00:00,Russia,0.7170237064857983,2,2,ru,ESB,Europe
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,снег России,2026-01-15T10:56:00+00:00,Russia,0.712424021651959,1,3,ru,ESB,Europe
 'bb7f82afd7',extremes,Snow&Ice,#d60d2b,wmo,снег Свердловской области,2026-01-15T10:56:00+00:00,Russia,0.7122608983813719,1,2,ru,ESB,Europe
 '43ac637eed',extremes,Snow&Ice,#d60d2b,wmo,мороз Челябинская область,2026-01-17T03:44:00+00:00,Russia,0.7093829244848053,1,2,ru,ESB,Europe
@@ -17,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '671fb710ed',extremes,Storm,#b3b2b1,wmo,шторм в сочи,2026-01-15T10:56:00+00:00,Russia,0.6788080442481139,2,1,ru,ESB,Europe
 '91a2422976',extremes,Snow&Ice,#d60d2b,wmo,снег Тульской области,2026-02-03T04:27:00+00:00,Russia,0.6776135899163449,2,2,ru,ESB,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-01-15T10:56:00+00:00,Russia,0.6680458496906393,2,1,ru,EAS,Asia
-'e17aa7df4c',extremes,Snow&Ice,#d60d2b,wmo,мороз Вологодской области,2026-01-31T04:16:00+00:00,Russia,0.6669102252774097,1,2,ru,ESB,Europe
 '935334a1b8',extremes,Snow&Ice,#d60d2b,wmo,снег Беларуси,2026-01-15T10:56:00+00:00,Belarus,0.6661041292733098,1,2,ru,WCE,Europe
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,лавина сочи,2026-01-17T03:44:00+00:00,Russia,0.6608976877855776,2,1,ru,ESB,Europe
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-01-15T10:56:00+00:00,Russia,0.6602315574283336,2,1,ru,ESB,Europe
@@ -36,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1949e765cf',extremes,Fog,#d60d2b,wmo,туман Подмосковье,2026-01-20T03:56:00+00:00,Russia,0.6179024910385689,2,2,ru,ESB,Europe
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,шторм в россии,2026-01-15T10:56:00+00:00,Russia,0.608696662897281,1,1,ru,ESB,Europe
 'cfc6b008f6',extremes,Snow&Ice,#d60d2b,wmo,мороз Мурманская область,2026-01-27T03:58:00+00:00,Russia,0.6085797705152931,2,1,ru,ESB,Europe
-'39ca3a5a9a',extremes,Snow&Ice,#d60d2b,wmo,лед Воронежской области,2026-01-31T04:16:00+00:00,Russia,0.6077312991052347,0,1,ru,ESB,Europe
 '829af94570',extremes,Snow&Ice,#d60d2b,wmo,мороз Краснодарского края,2026-01-21T03:56:00+00:00,Russia,0.6074861026305499,0,1,ru,ESB,Europe
 'c2324cf2ef',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика коми,2026-01-25T04:06:00+00:00,Russia,0.6074489415010572,0,1,ru,ESB,Europe
 '3ec2d63074',extremes,Snow&Ice,#d60d2b,wmo,замерзающий Краснодарский край,2026-02-05T04:27:00+00:00,Russia,0.6065177751695598,0,1,ru,ESB,Europe
@@ -416,6 +415,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '58db1e6b61',extremes,Snow&Ice,#d60d2b,wmo,лед Ульяновской области,2026-01-28T03:56:00+00:00,Russia,0.5176950858100258,1,1,ru,ESB,Europe
 '179390076b',extremes,Precipitation,#d60d2b,wmo,осадки Курская область,2026-01-30T04:21:00+00:00,Russia,0.5175504207028723,1,1,ru,ESB,Europe
 '195a6c4a25',extremes,Storm,#b3b2b1,wmo,штормовой нагон к востоку от Республики Саха,2026-01-30T04:21:00+00:00,Russia,0.5175030941499107,1,1,ru,ESB,Europe
+'39ca3a5a9a',extremes,Snow&Ice,#d60d2b,wmo,лед Воронежской области,2026-01-31T04:16:00+00:00,Russia,0.5165716042394495,1,1,ru,ESB,Europe
 '8b1fa2c051',extremes,Snow&Ice,#d60d2b,wmo,лед Забайкальского края,2026-01-23T04:03:00+00:00,Russia,0.5149267014381919,2,1,ru,ESB,Europe
 'e6998a615e',extremes,Earthquake,#870007,usgs,землетрясение в Мургобе,2026-01-15T12:13:00+00:00,Tajikistan,0.5146841026808989,2,1,ru,WCA,Asia
 'd9cc56f031',extremes,Drought,#edc291,edo,засуха в таджикистане,2026-01-15T10:57:00+00:00,Tajikistan,0.5142963902993107,2,1,ru,WCA,Asia
