@@ -1,119 +1,124 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Friday,Friday,DATE,,,en,8.2
+Russian,Russian,NORP,,,en,6.199999999999999
 today,today,DATE,,,en,5.8
-Russian,Russian,NORP,,,en,5.3999999999999995
 winter,winter,DATE,,,en,5.0
 Russians,Russians,NORP,,,en,4.5
 Muscovites,Muscovites,NORP,,,en,4.2
 the coming days,the coming days,DATE,,,en,4.1000000000000005
-two,two,CARDINAL,,,en,3.5999999999999996
-92%,92%,PERCENT,,,en,3.4000000000000004
+two,two,CARDINAL,,,en,3.8999999999999995
 the middle of next week,the middle of next week,DATE,,,en,3.4000000000000004
+92%,92%,PERCENT,,,en,3.4000000000000004
 Wednesday,Wednesday,DATE,,,en,3.4000000000000004
-this week,this week,DATE,,,en,2.6
-the Hydrometeorological Center,the Hydrometeorological Center,FAC,,,en,2.6
-95%,95%,PERCENT,,,en,2.6
-Tuesday,Tuesday,DATE,,,en,2.6
 European,European,NORP,,,en,2.6
+95%,95%,PERCENT,,,en,2.6
+this week,this week,DATE,,,en,2.6
+Tuesday,Tuesday,DATE,,,en,2.6
+the Hydrometeorological Center,the Hydrometeorological Center,FAC,,,en,2.6
+this winter,this winter,DATE,,,en,2.6
 up to,up to,QUANTITY,,,en,2.5
+the New Year,the New Year,EVENT,,,en,2.5
 third,third,ORDINAL,,,en,2.4
 December 29,December 29,DATE,,,en,2.0
-5.8,5.8,CARDINAL,,,en,1.8
-Monday,Monday,DATE,,,en,1.8
+Christmas night,Christmas night,TIME,,,en,1.8
 the end of next week,the end of next week,DATE,,,en,1.8
 December,December,DATE,,,en,1.8
-Christmas night,Christmas night,TIME,,,en,1.8
+the next 24 hours,the next 24 hours,TIME,,,en,1.8
+Monday,Monday,DATE,,,en,1.8
 autumn,autumn,DATE,,,en,1.8
-night,night,TIME,,,en,1.8
 "December 12, 2025","December 12, 2025",DATE,,,en,1.8
+5.8,5.8,CARDINAL,,,en,1.8
 half,half,CARDINAL,,,en,1.8
-this winter,this winter,DATE,,,en,1.8
-Ukrainian,Ukrainian,NORP,,,en,1.8
-zero,zero,CARDINAL,,,en,1.8
+night,night,TIME,,,en,1.8
+January 29,January 29,DATE,,,en,1.8
 April,April,DATE,,,en,1.8
-the New Year,the New Year,EVENT,,,en,1.7
+zero,zero,CARDINAL,,,en,1.8
+Ukrainian,Ukrainian,NORP,,,en,1.8
 second,second,ORDINAL,,,en,1.7
-2026,2026,DATE,,,en,1.7
 a New Year's,a New Year's,DATE,,,en,1.7
 21:00,21:00,TIME,,,en,1.7
-the week,the week,DATE,,,en,1.3
+2026,2026,DATE,,,en,1.7
 New Year's,New Year's,EVENT,0.1803030303030303,0.9371212121212122,en,1.3
-one day,one day,DATE,,,en,1.0
-Two,Two,CARDINAL,,,en,1.0
+the week,the week,DATE,,,en,1.3
+this day,this day,DATE,,,en,1.0
+December 29 to January 1,December 29 to January 1,DATE,,,en,1.0
+Arab,Arab,NORP,,,en,1.0
+18,18,CARDINAL,,,en,1.0
+International Cello Day,International Cello Day,EVENT,,,en,1.0
+730,730,CARDINAL,,,en,1.0
+20 centimeters,20 centimeters,QUANTITY,,,en,1.0
+The Charlemagne Show,The Charlemagne Show,EVENT,,,en,1.0
+771–780,771–780,CARDINAL,,,en,1.0
+761–770,761–770,CARDINAL,,,en,1.0
 Olympic,Olympic,EVENT,,,en,1.0
+Khazars,Khazars,NORP,,,en,1.0
+11,11,CARDINAL,,,en,1.0
+Byzantine,Byzantine,NORP,,,en,1.0
+one day,one day,DATE,,,en,1.0
+the eve of the New Year,the eve of the New Year,DATE,,,en,1.0
+2025-31-12,2025-31-12,DATE,,,en,1.0
+New Year’s Eve,New Year’s Eve,EVENT,,,en,1.0
+five,five,CARDINAL,,,en,1.0
+more than two dozen,more than two dozen,CARDINAL,,,en,1.0
+Festivalny Lane,Festivalny Lane,FAC,,,en,1.0
+DAY 1408,DAY 1408,DATE,,,en,1.0
+2026-01-01,2026-01-01,DATE,,,en,1.0
+28,28,CARDINAL,,,en,1.0
+the 90s,the 90s,DATE,,,en,1.0
+last night,last night,TIME,,,en,1.0
+the beginning of the year,the beginning of the year,DATE,,,en,1.0
+minus 18.6 degrees,minus 18.6 degrees,QUANTITY,,,en,1.0
+731–740,731–740,CARDINAL,,,en,1.0
 721–730,721–730,CARDINAL,,,en,1.0
 Arabs,Arabs,NORP,,,en,1.0
-Byzantine,Byzantine,NORP,,,en,1.0
-three,three,CARDINAL,,,en,1.0
-2025-31-12,2025-31-12,DATE,,,en,1.0
-the 90s,the 90s,DATE,,,en,1.0
-Once Upon a Time,Once Upon a Time,WORK_OF_ART,,,en,1.0
-2025-28-12,2025-28-12,DATE,,,en,1.0
-20 centimeters,20 centimeters,QUANTITY,,,en,1.0
-International Cello Day,International Cello Day,EVENT,,,en,1.0
-731–740,731–740,CARDINAL,,,en,1.0
-minus 18.6 degrees,minus 18.6 degrees,QUANTITY,,,en,1.0
-this day,this day,DATE,,,en,1.0
-the beginning of the year,the beginning of the year,DATE,,,en,1.0
 minus 12 to minus,minus 12 to minus,DATE,,,en,1.0
-the eve of the New Year,the eve of the New Year,DATE,,,en,1.0
-last night,last night,TIME,,,en,1.0
-28,28,CARDINAL,,,en,1.0
-2026-01-01,2026-01-01,DATE,,,en,1.0
-Khazars,Khazars,NORP,,,en,1.0
-DAY 1408,DAY 1408,DATE,,,en,1.0
-Festivalny Lane,Festivalny Lane,FAC,,,en,1.0
-December 29 to January 1,December 29 to January 1,DATE,,,en,1.0
-more than two dozen,more than two dozen,CARDINAL,,,en,1.0
-five,five,CARDINAL,,,en,1.0
-New Year’s Eve,New Year’s Eve,EVENT,,,en,1.0
-11,11,CARDINAL,,,en,1.0
 the night of November 18,the night of November 18,TIME,,,en,1.0
-Arab,Arab,NORP,,,en,1.0
-January 15,January 15,DATE,,,en,1.0
-the beginning of winter,the beginning of winter,DATE,,,en,1.0
-the fifth day,the fifth day,DATE,,,en,1.0
-Thursday,Thursday,DATE,,,en,1.0
-morning,morning,TIME,,,en,1.0
-700 m,700 m,QUANTITY,,,en,1.0
-"the evening of Wednesday, January 14","the evening of Wednesday, January 14",TIME,,,en,1.0
-"the morning of Thursday, January 15","the morning of Thursday, January 15",TIME,,,en,1.0
+January 11,January 11,DATE,,,en,1.0
+Tomorrow,Tomorrow,DATE,,,en,1.0
+Sertolovo,Sertolovo,NORP,0.0,0.0,en,1.0
 "Wednesday, January 14","Wednesday, January 14",DATE,,,en,1.0
+January 15,January 15,DATE,,,en,1.0
 "January 16, 2026","January 16, 2026",DATE,,,en,1.0
-18,18,CARDINAL,,,en,1.0
 "Friday, January 16","Friday, January 16",DATE,,,en,1.0
+2026-15-01,2026-15-01,DATE,,,en,1.0
+Today,Today,DATE,,,en,1.0
+January 15th,January 15th,DATE,,,en,1.0
 more than 30,more than 30,CARDINAL,,,en,1.0
 |,|,DATE,,,en,1.0
+almost 13 years ago,almost 13 years ago,DATE,,,en,1.0
 2026-26-01,2026-26-01,DATE,,,en,1.0
 January 26,January 26,DATE,,,en,1.0
 At least 10,At least 10,CARDINAL,,,en,1.0
 At least 423,At least 423,CARDINAL,,,en,1.0
 General Frost,General Frost,WORK_OF_ART,,,en,1.0
-43 centimeters,43 centimeters,QUANTITY,,,en,1.0
-the holidays,the holidays,DATE,,,en,1.0
-the first working day,the first working day,DATE,,,en,1.0
-January 12,January 12,DATE,,,en,1.0
-730,730,CARDINAL,,,en,1.0
-The Charlemagne Show,The Charlemagne Show,EVENT,,,en,1.0
-771–780,771–780,CARDINAL,,,en,1.0
-761–770,761–770,CARDINAL,,,en,1.0
-Tomorrow,Tomorrow,DATE,,,en,1.0
-691–700,691–700,CARDINAL,,,en,1.0
-almost 13 years ago,almost 13 years ago,DATE,,,en,1.0
+More than 7 thousand,More than 7 thousand,CARDINAL,,,en,1.0
+"Wednesday, January 28","Wednesday, January 28",DATE,,,en,1.0
+15:00,15:00,TIME,,,en,1.0
+"the morning of Thursday, January 15","the morning of Thursday, January 15",TIME,,,en,1.0
+"the evening of Wednesday, January 14","the evening of Wednesday, January 14",TIME,,,en,1.0
+700 m,700 m,QUANTITY,,,en,1.0
+morning,morning,TIME,,,en,1.0
 the night of January 9,the night of January 9,TIME,,,en,1.0
 January 9,January 9,DATE,,,en,1.0
 the final day,the final day,DATE,,,en,1.0
-January 11,January 11,DATE,,,en,1.0
+three,three,CARDINAL,,,en,1.0
 fifth,fifth,ORDINAL,,,en,1.0
 winters,winters,DATE,,,en,1.0
 the winter of 2021,the winter of 2021,DATE,,,en,1.0
 May 2025,May 2025,DATE,,,en,1.0
 500,500,CARDINAL,,,en,1.0
 2026-12-01,2026-12-01,DATE,,,en,1.0
-681–690,681–690,CARDINAL,,,en,1.0
-almost 100%,almost 100%,PERCENT,,,en,1.0
-the Golden Dinar: Chronicles,the Golden Dinar: Chronicles,EVENT,,,en,1.0
-"November 28, 2025","November 28, 2025",DATE,,,en,1.0
+January 12,January 12,DATE,,,en,1.0
+the first working day,the first working day,DATE,,,en,1.0
+the holidays,the holidays,DATE,,,en,1.0
+43 centimeters,43 centimeters,QUANTITY,,,en,1.0
+the beginning of winter,the beginning of winter,DATE,,,en,1.0
+the fifth day,the fifth day,DATE,,,en,1.0
+Thursday,Thursday,DATE,,,en,1.0
+Two,Two,CARDINAL,,,en,1.0
+"December 26, 2025 to January 12, 2026","December 26, 2025 to January 12, 2026",DATE,,,en,1.0
+Once Upon a Time,Once Upon a Time,WORK_OF_ART,,,en,1.0
+"December 5, 2025","December 5, 2025",DATE,,,en,1.0
 early afternoon,early afternoon,TIME,,,en,1.0
 "December 2, 2025","December 2, 2025",DATE,,,en,1.0
 noon,noon,TIME,,,en,1.0
@@ -122,8 +127,8 @@ minus 2 to zero degrees,minus 2 to zero degrees,QUANTITY,,,en,1.0
 minus 3 to plus,minus 3 to plus,CARDINAL,,,en,1.0
 2 degrees,2 degrees,QUANTITY,,,en,1.0
 20 degrees,20 degrees,QUANTITY,,,en,1.0
-"December 5, 2025","December 5, 2025",DATE,,,en,1.0
 mid-December,mid-December,DATE,,,en,1.0
+This week,This week,DATE,,,en,1.0
 the middle of the month,the middle of the month,DATE,,,en,1.0
 the second half,the second half,DATE,,,en,1.0
 the second half of December,the second half of December,DATE,,,en,1.0
@@ -131,9 +136,10 @@ almost every day,almost every day,DATE,,,en,1.0
 the Russian Cup,the Russian Cup,EVENT,,,en,1.0
 next week,next week,DATE,,,en,1.0
 about 92%,about 92%,PERCENT,,,en,1.0
+December 7,December 7,DATE,,,en,1.0
 "Saturday, November 29","Saturday, November 29",DATE,,,en,1.0
+"November 28, 2025","November 28, 2025",DATE,,,en,1.0
 17 degrees,17 degrees,QUANTITY,,,en,1.0
-"Sunday, December 28","Sunday, December 28",DATE,,,en,1.0
 winter cleanup days,winter cleanup days,DATE,,,en,1.0
 10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.0
 one,one,CARDINAL,,,en,1.0
@@ -152,40 +158,40 @@ Siberian,Siberian,NORP,,,en,1.0
 Far Eastern,Far Eastern,NORP,,,en,1.0
 "November 27, 2025","November 27, 2025",DATE,,,en,1.0
 a cleanup day,a cleanup day,DATE,,,en,1.0
-December 7,December 7,DATE,,,en,1.0
 5.2,5.2,CARDINAL,,,en,1.0
-This week,This week,DATE,,,en,1.0
 Urals,Urals,NORP,-0.08823529411764708,0.2647058823529412,en,1.0
-demagoguery / Russians,demagoguery / Russians,NORP,,,en,1.0
-Oscars,Oscars,PRODUCT,,,en,1.0
-2025-20-12,2025-20-12,DATE,,,en,1.0
+2025-28-12,2025-28-12,DATE,,,en,1.0
+week,week,DATE,,,en,1.0
 The Man Without a TV,The Man Without a TV,WORK_OF_ART,,,en,1.0
+almost 100%,almost 100%,PERCENT,,,en,1.0
 Southern,Southern,NORP,,,en,1.0
 December 21,December 21,DATE,,,en,1.0
 the next week,the next week,DATE,,,en,1.0
-"December 26, 2025 to January 12, 2026","December 26, 2025 to January 12, 2026",DATE,,,en,1.0
 Surgut cloud,Surgut cloud,PRODUCT,,,en,1.0
 a week a year,a week a year,DATE,,,en,1.0
 2025-26-12,2025-26-12,DATE,,,en,1.0
-week,week,DATE,,,en,1.0
 this weekend,this weekend,DATE,,,en,1.0
+this evening,this evening,TIME,,,en,1.0
 Dozhd,Dozhd,WORK_OF_ART,,,en,1.0
 2025-27-12,2025-27-12,DATE,,,en,1.0
 VPN,VPN,PRODUCT,,,en,1.0
 New Year's Day,New Year's Day,EVENT,,,en,1.0
+"Sunday, December 28","Sunday, December 28",DATE,,,en,1.0
+the Golden Dinar: Chronicles,the Golden Dinar: Chronicles,EVENT,,,en,1.0
+691–700,691–700,CARDINAL,,,en,1.0
+681–690,681–690,CARDINAL,,,en,1.0
+2025-20-12,2025-20-12,DATE,,,en,1.0
+Oscars,Oscars,PRODUCT,,,en,1.0
+demagoguery / Russians,demagoguery / Russians,NORP,,,en,1.0
 five thousand,five thousand,CARDINAL,,,en,1.0
-the next 24 hours,the next 24 hours,TIME,,,en,1.0
-a day,a day,DATE,,,en,1.0
-the pre-New Year week,the pre-New Year week,DATE,,,en,1.0
-this evening,this evening,TIME,,,en,1.0
 4-9 degrees,4-9 degrees,QUANTITY,,,en,1.0
 "Friday, December 12","Friday, December 12",DATE,,,en,1.0
 "December 15, 2025","December 15, 2025",DATE,,,en,1.0
 2025,2025,DATE,,,en,1.0
 the weekend,the weekend,DATE,,,en,1.0
 the week before New Year's,the week before New Year's,DATE,,,en,1.0
+the pre-New Year week,the pre-New Year week,DATE,,,en,1.0
 the morning,the morning,TIME,,,en,1.0
-Chelyabinsk M5 highway,Chelyabinsk M5 highway,FAC,,,en,1.0
 December 17,December 17,DATE,,,en,1.0
 38 centimeters,38 centimeters,QUANTITY,,,en,1.0
 “Weather in Yekaterinburg”,“Weather in Yekaterinburg”,WORK_OF_ART,,,en,1.0
@@ -193,4 +199,6 @@ about 95%,about 95%,PERCENT,,,en,1.0
 1 - 1.5%,1 - 1.5%,PERCENT,,,en,1.0
 500 m,500 m,QUANTITY,,,en,1.0
 4-9 m,4-9 m,QUANTITY,,,en,1.0
-More than 7 thousand,More than 7 thousand,CARDINAL,,,en,1.0
+Chelyabinsk M5 highway,Chelyabinsk M5 highway,FAC,,,en,1.0
+a day,a day,DATE,,,en,1.0
+January 28 to 15:00,January 28 to 15:00,DATE,,,en,1.0
