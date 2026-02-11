@@ -43,13 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7747997246',extremes,Fog,#d60d2b,wmo,туман россии,2026-01-15T10:56:00+00:00,Russia,0.5870475142962689,2,1,ru,ESB,Europe
 'af081bff88',extremes,Snow&Ice,#d60d2b,wmo,снег Астраханской области,2026-01-23T04:03:00+00:00,Russia,0.5855288932280939,2,1,ru,ESB,Europe
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,дождь россия,2026-01-15T10:56:00+00:00,Russia,0.5837526476279647,3,1,ru,ESB,Europe
-'12aa4e8c91',extremes,Precipitation,#d60d2b,wmo,проливной дождь Калининградская область,2026-01-26T04:09:00+00:00,Russia,0.5832888941929625,0,1,ru,ESB,Europe
-'280f90067e',extremes,Precipitation,#d60d2b,wmo,проливной дождь республика башкортостан,2026-02-01T04:41:00+00:00,Russia,0.5826439660071274,0,1,ru,ESB,Europe
-'07f5e40762',extremes,Snow&Ice,#d60d2b,wmo,лед Ханты-Мансийского автономного округа,2026-02-04T04:21:00+00:00,Russia,0.582456864844699,0,1,ru,ESB,Europe
-'21acea96ff',extremes,Snow&Ice,#d60d2b,wmo,морозная Костромская область,2026-02-03T04:27:00+00:00,Russia,0.582100193796511,0,1,ru,ESB,Europe
 '8b9b656ff9',extremes,Fog,#d60d2b,wmo,туман Томская область,2026-01-20T03:56:00+00:00,Russia,0.5818166384247566,2,1,ru,ESB,Europe
-'3e99480ef7',extremes,Drought,#edc291,edo,отсутствие дождя в узбекистане,2026-02-07T04:19:00+00:00,Uzbekistan,0.5816636285409932,0,1,ru,WCA,Asia
-'f7407cdebc',extremes,Fog,#d60d2b,wmo,туман москва,2026-02-05T04:27:00+00:00,Russia,0.5813976883895202,1,1,ru,ESB,Europe
 '0efff882c7',extremes,Snow&Ice,#d60d2b,wmo,лед Курской области,2026-01-31T04:16:00+00:00,Russia,0.5812291644632659,1,1,ru,ESB,Europe
 '7eec45b2b3',extremes,Snow&Ice,#d60d2b,wmo,мороз Липецкая область,2026-01-30T04:21:00+00:00,Russia,0.5806979997964656,0,1,ru,ESB,Europe
 '00a0f1db3a',extremes,Precipitation,#d60d2b,wmo,осадки Ханты-Мансийского автономного округа,2026-01-15T10:56:00+00:00,Russia,0.5801823416571755,1,1,ru,ESB,Europe
@@ -310,6 +304,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd309b46927',extremes,Snow&Ice,#d60d2b,wmo,заморозки Кабардино-Балкарской Республики,2026-02-03T04:27:00+00:00,Russia,0.5327301448205921,1,1,ru,ESB,Europe
 '16df7a1c34',extremes,Snow&Ice,#d60d2b,wmo,морозная Ульяновская область,2026-01-26T04:09:00+00:00,Russia,0.532569753954536,2,1,ru,ESB,Europe
 '89c5e0543a',extremes,Precipitation,#d60d2b,wmo,осадки Архангельская область,2026-01-23T04:03:00+00:00,Russia,0.5324700852930204,1,1,ru,ESB,Europe
+'f7407cdebc',extremes,Fog,#d60d2b,wmo,туман москва,2026-02-05T04:27:00+00:00,Russia,0.5322880951310922,2,1,ru,ESB,Europe
 'd2e8d7c891',extremes,Storm,#b3b2b1,wmo,штормовой нагон Алтайского края,2026-01-30T04:21:00+00:00,Russia,0.532184567708103,1,1,ru,ESB,Europe
 'f4ecc021d4',extremes,Snow&Ice,#d60d2b,wmo,ледяная москва,2026-01-27T03:58:00+00:00,Russia,0.5321549316198468,1,1,ru,ESB,Europe
 '5775b9e128',extremes,Snow&Ice,#d60d2b,wmo,замерзшая Карачаево-Черкесская республика,2026-01-20T03:56:00+00:00,Russia,0.5321426974584141,1,1,ru,ESB,Europe
@@ -496,8 +491,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de380de7db',extremes,Precipitation,#d60d2b,wmo,осадки томская область,2026-02-01T04:41:00+00:00,Russia,0.4959278673155994,1,1,ru,ESB,Europe
 'e4c7d12a4f',extremes,Snow&Ice,#d60d2b,wmo,снежная республика дагестан,2026-01-23T04:03:00+00:00,Russia,0.4958049615883856,2,1,ru,ESB,Europe
 '7b4ab46154',extremes,Snow&Ice,#d60d2b,wmo,мороз Гродненская область,2026-01-26T04:09:00+00:00,Belarus,0.49580469077885,1,1,ru,WCE,Europe
+'12aa4e8c91',extremes,Precipitation,#d60d2b,wmo,проливной дождь Калининградская область,2026-01-26T04:09:00+00:00,Russia,0.4957955600640181,1,1,ru,ESB,Europe
 'c80825e7ea',extremes,Snow&Ice,#d60d2b,wmo,лед Ивановской области,2026-01-29T04:19:00+00:00,Russia,0.4954156326426658,2,1,ru,ESB,Europe
+'280f90067e',extremes,Precipitation,#d60d2b,wmo,проливной дождь республика башкортостан,2026-02-01T04:41:00+00:00,Russia,0.4952473711060583,1,1,ru,ESB,Europe
+'07f5e40762',extremes,Snow&Ice,#d60d2b,wmo,лед Ханты-Мансийского автономного округа,2026-02-04T04:21:00+00:00,Russia,0.49508833511799416,1,1,ru,ESB,Europe
+'21acea96ff',extremes,Snow&Ice,#d60d2b,wmo,морозная Костромская область,2026-02-03T04:27:00+00:00,Russia,0.4947851647270343,1,1,ru,ESB,Europe
 '527a43952c',extremes,Snow&Ice,#d60d2b,wmo,замерзшая республика дагестан,2026-01-17T03:44:00+00:00,Russia,0.494706362220994,2,1,ru,ESB,Europe
+'3e99480ef7',extremes,Drought,#edc291,edo,отсутствие дождя в узбекистане,2026-02-07T04:19:00+00:00,Uzbekistan,0.4944140842598442,1,1,ru,WCA,Asia
 '0171f771ad',extremes,Snow&Ice,#d60d2b,wmo,морозы на юге Камчатского края,2026-01-15T10:56:00+00:00,Russia,0.4826145876464333,2,1,ru,ESB,Europe
 '4de9e5ba5a',extremes,Precipitation,#d60d2b,wmo,дождь Волгоградская область,2026-01-20T03:56:00+00:00,Russia,0.4475711602782132,2,1,ru,ESB,Europe
 'b6cef22543',extremes,Drought,#edc291,random,ограничение воды,2026-01-15T10:20:00+00:00,,0.3312947766591417,1,2,ru,,
