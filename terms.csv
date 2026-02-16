@@ -65,7 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '871acc9e46',extremes,Drought,#edc291,edo,засуха в азербайджане,2026-01-19T04:03:00+00:00,Azerbaijan,0.5590958707218164,1,1,ru,WCA,Asia
 '7355a3036d',extremes,Storm,#b3b2b1,wmo,шторм в Ляэнемере Пыхьяоса,2026-01-17T03:44:00+00:00,Estonia,0.5588580689826504,1,1,ru,NEU,Europe
 'e9176ea810',extremes,Storm,#b3b2b1,wmo,штормовой нагон к югу от Курильских островов,2026-01-17T03:44:00+00:00,Russia,0.5588238462684648,1,1,ru,ESB,Europe
-'c100c20bbe',extremes,Storm,#b3b2b1,wmo,шторм в северной части Балтийского моря,2026-02-12T04:37:00+00:00,Estonia,0.5588177993039886,0,1,ru,NEU,Europe
+'c100c20bbe',extremes,Storm,#b3b2b1,wmo,шторм в северной части Балтийского моря,2026-02-12T04:37:00+00:00,Estonia,0.5588177993039886,1,1,ru,NEU,Europe
 'ea2b2646c7',extremes,Snow&Ice,#d60d2b,wmo,снежная республика северная осетия алания,2026-01-21T03:56:00+00:00,Russia,0.5586593820479147,1,1,ru,ESB,Europe
 '928b12c443',extremes,Fog,#d60d2b,wmo,туман республика дагестан,2026-01-29T04:19:00+00:00,Russia,0.5582489351060373,1,1,ru,ESB,Europe
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,ливень россия,2026-01-15T10:56:00+00:00,Russia,0.5579279960298134,2,1,ru,ESB,Europe
@@ -587,7 +587,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ff4d6144b',extremes,Precipitation,#d60d2b,wmo,осадки Краснодарского края,2026-02-01T04:41:00+00:00,Russia,0.476686703069578,1,1,ru,ESB,Europe
 'ab74911cfa',extremes,Storm,#b3b2b1,wmo,шторм в Латвии,2026-01-15T12:14:00+00:00,Latvia,0.4764685822166992,2,1,ru,WCE,Europe
 '3b4a3e0937',extremes,Precipitation,#d60d2b,wmo,дождь Курганская область,2026-01-28T03:56:00+00:00,Russia,0.4761788299686621,1,1,ru,ESB,Europe
-'18fe399589',extremes,Storm,#b3b2b1,wmo,штормовой нагон в Литве,2026-01-15T10:56:00+00:00,Lithuania,0.47604778845012463,2,1,ru,WCE,Europe
+'18fe399589',extremes,Storm,#b3b2b1,wmo,штормовой нагон в Литве,2026-01-15T10:56:00+00:00,Lithuania,0.4760477884501246,2,1,ru,WCE,Europe
 'e421adc968',extremes,Snow&Ice,#d60d2b,wmo,ледяная республика Калмыкия,2026-02-12T04:37:00+00:00,Russia,0.4752541432988047,1,1,ru,ESB,Europe
 '4de9e5ba5a',extremes,Precipitation,#d60d2b,wmo,дождь Волгоградская область,2026-01-20T03:56:00+00:00,Russia,0.4475711602782132,2,1,ru,ESB,Europe
 'b6cef22543',extremes,Drought,#edc291,random,ограничение воды,2026-01-15T10:20:00+00:00,,0.3312947766591417,1,2,ru,,
