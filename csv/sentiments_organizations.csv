@@ -1,95 +1,124 @@
 ,phrase,label,sentiment,subjectivity,language,count
-the Hydrometeorological Center,the Hydrometeorological Center,ORG,-0.08958333333333332,0.24428047839506173,en,14.400000000000002
-TASS,TASS,ORG,-0.12755102040816324,0.1377551020408163,en,4.9
-The Ministry of Emergency Situations,The Ministry of Emergency Situations,ORG,-0.060606060606060615,0.15151515151515152,en,3.3
-the Russian Hydrometeorological Center,the Russian Hydrometeorological Center,ORG,-0.07407407407407407,0.08262108262108263,en,2.6
-Izvestia,Izvestia,ORG,-0.09294871794871795,0.1266025641025641,en,2.6
+the Hydrometeorological Center,the Hydrometeorological Center,ORG,-0.09174565560821485,0.2634741969457608,en,21.10000000000001
+TASS,TASS,ORG,-0.031249999999999986,0.2881944444444445,en,7.2
+the Russian Hydrometeorological Center,the Russian Hydrometeorological Center,ORG,-0.06497445721583653,0.17608556832694766,en,5.8
+The Hydrometeorological Center,The Hydrometeorological Center,ORG,-0.1800595238095238,0.28422619047619047,en,4.2
+the Russian Ministry of Emergency Situations,the Russian Ministry of Emergency Situations,ORG,0.041666666666666664,0.041666666666666664,en,4.0
+The Ministry of Emergency Situations,The Ministry of Emergency Situations,ORG,-0.05,0.125,en,4.0
+Interfax,Interfax,ORG,0.0004084967320261403,0.30392156862745096,en,3.4000000000000004
+Dodo Pizza,Dodo Pizza,ORG,-0.040322580645161296,0.32258064516129037,en,3.0999999999999996
 Roman Vilfand,Roman Vilfand,ORG,0.03899572649572648,0.32532051282051283,en,2.6
-the Russian Ministry of Emergency Situations,the Russian Ministry of Emergency Situations,ORG,0.06666666666666667,0.06666666666666667,en,2.5
-Karelia,Karelia,ORG,0.0,0.0,en,1.8
-Vilfand,Vilfand,ORG,-0.02777777777777778,0.0,en,1.8
-the Main Directorate of the Ministry of Internal Affairs of Russia,the Main Directorate of the Ministry of Internal Affairs of Russia,ORG,0.040123456790123455,0.15432098765432095,en,1.8
-the State Traffic Inspectorate,the State Traffic Inspectorate,ORG,0.040123456790123455,0.15432098765432095,en,1.8
+Izvestia,Izvestia,ORG,-0.09294871794871795,0.1266025641025641,en,2.6
 The Main Directorate of,The Main Directorate of,ORG,0.09259259259259259,0.09259259259259259,en,1.8
-The Hydrometeorological Center,The Hydrometeorological Center,ORG,-0.1388888888888889,0.16666666666666666,en,1.8
-Interfax,Interfax,ORG,0.07484567901234568,0.22222222222222227,en,1.8
+Karelia,Karelia,ORG,0.0,0.0,en,1.8
+the State Traffic Inspectorate,the State Traffic Inspectorate,ORG,0.040123456790123455,0.15432098765432095,en,1.8
+Vilfand,Vilfand,ORG,-0.02777777777777778,0.0,en,1.8
+Ministry of Emergency Situations,Ministry of Emergency Situations,ORG,-0.20138888888888887,0.35416666666666663,en,1.8
+Hydrometeorological,Hydrometeorological,ORG,-0.08333333333333334,0.05555555555555556,en,1.8
+the Main Directorate of the Ministry of Internal Affairs of Russia,the Main Directorate of the Ministry of Internal Affairs of Russia,ORG,0.040123456790123455,0.15432098765432095,en,1.8
 Ukrainian Armed Forces,Ukrainian Armed Forces,ORG,-0.0962566844919786,0.23529411764705885,en,1.7
-the Main Directorate of the Ministry of Emergency Situations of,the Main Directorate of the Ministry of Emergency Situations of,ORG,0.19607843137254902,0.19607843137254902,en,1.7
 Surgut,Surgut,ORG,0.049019607843137254,0.22549019607843135,en,1.7
 G5,G5,ORG,0.040106951871657755,0.0,en,1.7
 Sakhalin,Sakhalin,ORG,0.0,0.0,en,1.7
+the Main Directorate of the Ministry of Emergency Situations of,the Main Directorate of the Ministry of Emergency Situations of,ORG,0.19607843137254902,0.19607843137254902,en,1.7
+Kuban,Kuban,ORG,-0.09615384615384615,0.0,en,1.3
 the Russian Security Council,the Russian Security Council,ORG,0.017732267732267715,0.26698301698301696,en,1.3
 the Ukrainian Armed Forces,the Ukrainian Armed Forces,ORG,0.0,0.0,en,1.3
-Kuban,Kuban,ORG,-0.09615384615384615,0.0,en,1.3
-Zelenogradsk,Zelenogradsk,ORG,0.0,0.0,en,1.0
-Khodorkovsky LIVE:,Khodorkovsky LIVE:,ORG,0.13636363636363635,0.0,en,1.0
-Kemerovo,Kemerovo,ORG,-0.16666666666666666,0.0,en,1.0
-the Hydrometeorological Center Marina Makarova,the Hydrometeorological Center Marina Makarova,ORG,-0.1,0.0,en,1.0
-VZGLYAD,VZGLYAD,ORG,0.35714285714285715,0.0,en,1.0
-the Solar Astronomy Laboratory,the Solar Astronomy Laboratory,ORG,0.0,0.0,en,1.0
-the Regional Disaster Management Agency,the Regional Disaster Management Agency,ORG,0.0,0.0,en,1.0
-the Space Research Institute,the Space Research Institute,ORG,0.0,0.0,en,1.0
-IKI,IKI,ORG,0.0,0.0,en,1.0
-the Rusprodsoyuz association,the Rusprodsoyuz association,ORG,-0.0625,0.0,en,1.0
-Karabash,Karabash,ORG,-0.3,0.0,en,1.0
-microdistricts,microdistricts,ORG,-0.3,0.0,en,1.0
-BPBD,BPBD,ORG,0.0,0.0,en,1.0
-SVO,SVO,ORG,-0.2125,0.0,en,1.0
-Piton de la Fournaise,Piton de la Fournaise,ORG,0.12222222222222223,0.0,en,1.0
-The New York Times,The New York Times,ORG,0.13636363636363635,0.0,en,1.0
-Shoigu,Shoigu,ORG,-0.125,0.0,en,1.0
-Energy,Energy,ORG,0.0,0.0,en,1.0
-the Ministry of Health,the Ministry of Health,ORG,0.45,0.0,en,1.0
-the Main Directorate of the Ministry of Emergency Situations,the Main Directorate of the Ministry of Emergency Situations,ORG,0.16666666666666666,0.0,en,1.0
-the Ministry of Emergency Situations,the Ministry of Emergency Situations,ORG,0.0,0.0,en,1.0
-the Russian Ministry of Defense,the Russian Ministry of Defense,ORG,-0.1,0.0,en,1.0
-Kompas.com,Kompas.com,ORG,0.0,0.0,en,1.0
+Roskomnadzor,Roskomnadzor,ORG,0.0,0.0,en,1.0
 Roshydromet,Roshydromet,ORG,0.0,0.0,en,1.0
-Cheburashka,Cheburashka,ORG,0.0,0.0,en,1.0
+Kompas.com,Kompas.com,ORG,0.0,0.0,en,1.0
+the Russian Ministry of Defense,the Russian Ministry of Defense,ORG,-0.1,0.0,en,1.0
 AFP,AFP,ORG,0.0,0.0,en,1.0
 The Hydrometeorological Center of,The Hydrometeorological Center of,ORG,-0.05,0.0,en,1.0
-Kadyrov,Kadyrov,ORG,0.0,0.0,en,1.0
-Padva | AIR,Padva | AIR,ORG,0.0,0.0,en,1.0
-Roskomnadzor,Roskomnadzor,ORG,0.0,0.0,en,1.0
+RIA Novosti,RIA Novosti,ORG,-0.1,0.0,en,1.0
 France-Press,France-Press,ORG,0.0,0.0,en,1.0
-SUSK,SUSK,ORG,-0.3333333333333333,0.0,en,1.0
-the Unified Geophysical Service,the Unified Geophysical Service,ORG,-0.05,0.0,en,1.0
-Kt,Kt,ORG,0.0,0.0,en,1.0
-METEO,METEO,ORG,-0.1,0.0,en,1.0
+Piton de la Fournaise,Piton de la Fournaise,ORG,0.12222222222222223,0.0,en,1.0
+Shoigu,Shoigu,ORG,-0.125,0.0,en,1.0
+Meteonovosti,Meteonovosti,ORG,0.0,0.0,en,1.0
+the Moscow Art Theater School,the Moscow Art Theater School,ORG,-0.10000000000000002,0.0,en,1.0
+Kadyrov,Kadyrov,ORG,0.0,0.0,en,1.0
+Bogomolov,Bogomolov,ORG,0.13636363636363635,0.0,en,1.0
+Padva | AIR,Padva | AIR,ORG,0.0,0.0,en,1.0
+Anapa,Anapa,ORG,0.0,0.0,en,1.0
+Mongait,Mongait,ORG,0.0,0.0,en,1.0
+the Regional Disaster Management Agency,the Regional Disaster Management Agency,ORG,0.0,0.0,en,1.0
+VZGLYAD,VZGLYAD,ORG,0.35714285714285715,0.0,en,1.0
+BPBD,BPBD,ORG,0.0,0.0,en,1.0
+The Russian Armed Forces,The Russian Armed Forces,ORG,0.0,0.0,en,1.0
+the State Duma Committee,the State Duma Committee,ORG,-0.15,0.0,en,1.0
+Nikola,Nikola,ORG,-0.35,0.0,en,1.0
+FEFU,FEFU,ORG,0.1,0.0,en,1.0
+the Far Eastern Federal University,the Far Eastern Federal University,ORG,0.1,0.0,en,1.0
+Phobos,Phobos,ORG,-0.1,0.0,en,1.0
+Spartak Moscow,Spartak Moscow,ORG,0.0,0.0,en,1.0
+the Kursk City Assembly,the Kursk City Assembly,ORG,0.0,0.0,en,1.0
+Ufa,Ufa,ORG,0.0,0.0,en,1.0
+Kulibin Club,Kulibin Club,ORG,0.6,0.0,en,1.0
+The Popular Front,The Popular Front,ORG,0.6,0.0,en,1.0
+The Russian Armed Forces (AF,The Russian Armed Forces (AF,ORG,0.125,0.0,en,1.0
+Petropavlovsk-Kamchatsky,Petropavlovsk-Kamchatsky,ORG,0.0,0.0,en,1.0
+iCaur,iCaur,ORG,0.25,0.0,en,1.0
+State Traffic Inspectorate,State Traffic Inspectorate,ORG,0.0,0.0,en,1.0
+Cold,Cold,ORG,-0.6,0.0,en,1.0
+Defender of the Fatherland Day,Defender of the Fatherland Day,ORG,-0.30000000000000004,0.0,en,1.0
+the Russian Foreign Ministry,the Russian Foreign Ministry,ORG,-0.0625,0.0,en,1.0
+the American Institute for the Study of War (ISW,the American Institute for the Study of War (ISW,ORG,0.012121212121212116,0.0,en,1.0
+Frozen,Frozen,ORG,-0.25,0.0,en,1.0
+the Hydrometeorological Center Marina Makarova,the Hydrometeorological Center Marina Makarova,ORG,-0.1,0.0,en,1.0
+the Russian Investigative Committee,the Russian Investigative Committee,ORG,0.19999999999999998,0.0,en,1.0
+the Main Directorate of the Ministry of Emergency Situations,the Main Directorate of the Ministry of Emergency Situations,ORG,0.16666666666666666,0.0,en,1.0
+the Rusprodsoyuz association,the Rusprodsoyuz association,ORG,-0.0625,0.0,en,1.0
+V27,V27,ORG,0.0,0.0,en,1.0
+the Ministry of Emergency Situations,the Ministry of Emergency Situations,ORG,0.0,0.0,en,1.0
+the Solar Astronomy Laboratory,the Solar Astronomy Laboratory,ORG,0.0,0.0,en,1.0
+the Ministry of Health,the Ministry of Health,ORG,0.45,0.0,en,1.0
+DPS,DPS,ORG,0.0,0.0,en,1.0
+State,State,ORG,0.0,0.0,en,1.0
+Ural Dumplings,Ural Dumplings,ORG,0.08614718614718615,0.0,en,1.0
+Comedy Club,Comedy Club,ORG,0.08614718614718615,0.0,en,1.0
+Kremlin,Kremlin,ORG,-0.18181818181818182,0.0,en,1.0
+Zvezdanews Telegram,Zvezdanews Telegram,ORG,0.0,0.0,en,1.0
+the Donetsk People's Republic (DPR,the Donetsk People's Republic (DPR,ORG,0.0,0.0,en,1.0
+TNT,TNT,ORG,0.0,0.0,en,1.0
 Urals,Urals,ORG,-0.1,0.0,en,1.0
 Ilyushchev,Ilyushchev,ORG,0.0,0.0,en,1.0
 PRB,PRB,ORG,0.6,0.0,en,1.0
-DPS,DPS,ORG,0.0,0.0,en,1.0
 M5,M5,ORG,-0.1638888888888889,0.0,en,1.0
+Kurgan,Kurgan,ORG,0.0,0.0,en,1.0
 the Hydrometeorological Center Roman Vilfand,the Hydrometeorological Center Roman Vilfand,ORG,0.15000000000000002,0.0,en,1.0
 ​​were,​​were,ORG,0.0,0.0,en,1.0
+METEO,METEO,ORG,-0.1,0.0,en,1.0
 The Main Directorate of the Ministry of Emergency Situations of,The Main Directorate of the Ministry of Emergency Situations of,ORG,0.1515151515151515,0.0,en,1.0
-the Donetsk People's Republic (DPR,the Donetsk People's Republic (DPR,ORG,0.0,0.0,en,1.0
 the Russian Cross-Country Cup,the Russian Cross-Country Cup,ORG,-0.3,0.0,en,1.0
-Ministry of Emergency Situations,Ministry of Emergency Situations,ORG,0.0,0.0,en,1.0
 Permyakov,Permyakov,ORG,0.0,0.0,en,1.0
 Perm,Perm,ORG,-0.2,0.0,en,1.0
 the RUDN Institute of Ecology,the RUDN Institute of Ecology,ORG,0.0,0.0,en,1.0
 the Department of Environmental Safety and Product Quality Management,the Department of Environmental Safety and Product Quality Management,ORG,0.0,0.0,en,1.0
 Hydrometeorological Center,Hydrometeorological Center,ORG,-0.1,0.0,en,1.0
-TNT,TNT,ORG,0.0,0.0,en,1.0
-Zvezdanews Telegram,Zvezdanews Telegram,ORG,0.0,0.0,en,1.0
+the Sverdlovsk Ministry of Health,the Sverdlovsk Ministry of Health,ORG,0.0,0.0,en,1.0
+THE RF ARMY,THE RF ARMY,ORG,0.3,0.0,en,1.0
+Energy,Energy,ORG,0.0,0.0,en,1.0
+Cheburashka,Cheburashka,ORG,0.0,0.0,en,1.0
+The New York Times,The New York Times,ORG,0.13636363636363635,0.0,en,1.0
+SVO,SVO,ORG,-0.2125,0.0,en,1.0
+microdistricts,microdistricts,ORG,-0.3,0.0,en,1.0
+Karabash,Karabash,ORG,-0.3,0.0,en,1.0
+IKI,IKI,ORG,0.0,0.0,en,1.0
+the Space Research Institute,the Space Research Institute,ORG,0.0,0.0,en,1.0
+Kemerovo,Kemerovo,ORG,-0.16666666666666666,0.0,en,1.0
+Khodorkovsky LIVE:,Khodorkovsky LIVE:,ORG,0.13636363636363635,0.0,en,1.0
+Zelenogradsk,Zelenogradsk,ORG,0.0,0.0,en,1.0
+SUSK,SUSK,ORG,-0.3333333333333333,0.0,en,1.0
+Kt,Kt,ORG,0.0,0.0,en,1.0
+"the Crescent, Execution of a Superstar and Swimming","the Crescent, Execution of a Superstar and Swimming",ORG,0.0,0.0,en,1.0
 the Armed Forces of Ukraine,the Armed Forces of Ukraine,ORG,0.0,0.0,en,1.0
-Caliphate,Caliphate,ORG,-0.75,0.0,en,1.0
 Russian Railways (RZD,Russian Railways (RZD,ORG,0.0,0.0,en,1.0
 the Belarusian NPP,the Belarusian NPP,ORG,0.0,0.0,en,1.0
 The Belarusian Ministry of Energy,The Belarusian Ministry of Energy,ORG,0.0,0.0,en,1.0
 the Russian Academy of Sciences,the Russian Academy of Sciences,ORG,-0.05,0.0,en,1.0
+the Unified Geophysical Service,the Unified Geophysical Service,ORG,-0.05,0.0,en,1.0
 the Federal Research Center,the Federal Research Center,ORG,-0.05,0.0,en,1.0
 The Ministry of Energy,The Ministry of Energy,ORG,0.0,0.0,en,1.0
 Belhydromet,Belhydromet,ORG,0.06666666666666665,0.0,en,1.0
-"the Crescent, Execution of a Superstar and Swimming","the Crescent, Execution of a Superstar and Swimming",ORG,0.0,0.0,en,1.0
-Kremlin,Kremlin,ORG,-0.18181818181818182,0.0,en,1.0
-Hydrometeorological,Hydrometeorological,ORG,-0.05,0.0,en,1.0
-THE RF ARMY,THE RF ARMY,ORG,0.3,0.0,en,1.0
-Kurgan,Kurgan,ORG,0.0,0.0,en,1.0
-the Sverdlovsk Ministry of Health,the Sverdlovsk Ministry of Health,ORG,0.0,0.0,en,1.0
-State,State,ORG,0.0,0.0,en,1.0
-Ural Dumplings,Ural Dumplings,ORG,0.08614718614718615,0.0,en,1.0
-Comedy Club,Comedy Club,ORG,0.08614718614718615,0.0,en,1.0
-the Russian Foreign Ministry,the Russian Foreign Ministry,ORG,-0.0625,0.0,en,1.0
+Caliphate,Caliphate,ORG,-0.75,0.0,en,1.0
+IRL,IRL,ORG,0.13636363636363635,0.0,en,1.0
