@@ -428,6 +428,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7bdaef8eb',extremes,Snow&Ice,#d60d2b,wmo,лед Ленинградской области,2026-02-20T04:27:00+00:00,Russia,0.497974202525333,1,1,ru,ESB,Europe
 '4a6a3929e4',extremes,Snow&Ice,#d60d2b,wmo,морозная Воронежская область,2026-02-19T04:32:00+00:00,Russia,0.4978917433212122,1,1,ru,ESB,Europe
 '987d3ddfdd',extremes,Storm,#b3b2b1,wmo,штормовой нагон в северной части Балтийского моря,2026-02-21T04:18:00+00:00,Estonia,0.4978282051768727,1,1,ru,NEU,Europe
+'beccea3070',extremes,Precipitation,#d60d2b,wmo,проливной дождь Астраханская область,2026-04-13T05:28:00+00:00,Russia,0.49774051484603177,0,1,ru,ESB,Europe
 'e9176ea810',extremes,Storm,#b3b2b1,wmo,штормовой нагон к югу от Курильских островов,2026-02-28T04:07:00+00:00,Russia,0.4976708605761895,2,1,ru,ESB,Europe
 '1127c025a3',extremes,Precipitation,#d60d2b,wmo,проливной дождь Костромская область,2026-04-07T04:59:00+00:00,Russia,0.4974129057779347,0,1,ru,ESB,Europe
 '54b0538d48',extremes,Storm,#b3b2b1,wmo,штормовой нагон к северу от Курильских островов,2026-02-28T04:07:00+00:00,Russia,0.4973644768673709,2,1,ru,ESB,Europe
@@ -581,6 +582,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '367a55d0c2',extremes,Storm,#b3b2b1,wmo,шторм на севере Амурской области,2026-02-24T04:31:00+00:00,Russia,0.481158559481243,2,1,ru,ESB,Europe
 '38a103a4e0',extremes,Storm,#b3b2b1,wmo,шторм на юге Хабаровского края,2026-03-07T04:12:00+00:00,Russia,0.4808316218356408,2,1,ru,ESB,Europe
 'f1d3442696',extremes,Drought,#edc291,edo,засуха в украине,2026-03-10T04:22:00+00:00,Ukraine,0.480451965429019,0,1,ru,WCE,Europe
+'519e70f2be',extremes,Thunderstorm,#53785a,wmo,гроза республика башкортостан,2026-04-13T05:28:00+00:00,Russia,0.48020991952622116,0,1,ru,ESB,Europe
 '8508317aaa',extremes,Storm,#b3b2b1,wmo,гроза Волгоградская область,2026-02-15T04:35:00+00:00,Russia,0.4800826243078432,1,1,ru,ESB,Europe
 '6680336437',extremes,Fog,#d60d2b,wmo,туман Ненецкого автономного округа,2026-03-13T04:25:00+00:00,Russia,0.4796986525872143,2,1,ru,ESB,Europe
 '6358a0f72a',extremes,Storm,#b3b2b1,wmo,шторм Кемеровская область,2026-03-06T04:21:00+00:00,Russia,0.479688299217781,2,1,ru,ESB,Europe
@@ -929,3 +931,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,тропический циклон Вайану,2026-04-06T05:11:00+00:00,,0.3145883313493177,0,1,ru,SPO,Pacific Ocean
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,"шторм с градом в Сиднее, Новый Южный Уэльс, 2015 год.",2026-04-01T05:13:00+00:00,,0.3145716270728476,0,1,ru,EAU,Oceania
 '91377cc2a9',extremes,Drought,#edc291,acwe,засуха на юге Австралии,2026-03-31T05:00:00+00:00,Australia,0.3143690315103082,0,1,ru,SAU,Oceania
+'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,тропический шторм синлаку,2026-04-11T04:34:00+00:00,,0.31424688903381603,0,1,ru,NPO,Pacific Ocean
+'6a814a5817',extremes,Drought,#edc291,acwe,низкий уровень воды в Новом Южном Уэльсе,2026-03-25T04:34:00+00:00,Australia,0.3141888685951871,0,1,ru,EAU,Oceania
+'79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,ледяная температура на юге Австралии,2026-03-31T05:00:00+00:00,Australia,0.31414977501209984,0,1,ru,SAU,Oceania
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,самый холодный день,2026-04-07T04:58:00+00:00,,0.3137094110459205,0,1,ru,,
+'75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,холодная северная территория,2026-03-31T05:00:00+00:00,Australia,0.3136478514448681,0,1,ru,NAU,Oceania
+'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,Торнадо Мюррей Ривер Тауншипс Виктория 2013,2026-04-09T04:58:00+00:00,Australia,0.313587198898954,0,1,ru,SAU,Oceania
+'b6c613d063',extremes,Drought,#edc291,acwe,отсутствие дождя Квинсленд,2026-03-28T04:34:00+00:00,Australia,0.3128850144086549,0,1,ru,CAU,Oceania
+'39670c8999',extremes,Drought,#edc291,acwe,отсутствие дождя на юге Австралии,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,ru,CAU,Oceania
