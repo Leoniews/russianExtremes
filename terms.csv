@@ -16,12 +16,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1c4a0c670',extremes,Snow&Ice,#d60d2b,wmo,мороз Карачаево-Черкесская республика,2026-04-08T05:01:00+00:00,Russia,0.6977567618296437,1,1,ru,ESB,Europe
 '8a947734a5',extremes,Fog,#d60d2b,wmo,туман Вологодской области,2026-04-07T04:59:00+00:00,Russia,0.6967455940504714,1,1,ru,ESB,Europe
 'fb2669902d',extremes,Wildfire,#d60d2b,wmo,лесной пожар Самарская область,2026-04-19T05:16:00+00:00,Russia,0.6940458758255417,1,2,ru,ESB,Europe
+'23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-04-06T05:11:00+00:00,Russia,0.6934238817615319,1,2,ru,RFE,Asia
 '2203f3dcd0',extremes,Flood,#030ba1,wmo,наводнение оренбургская область,2026-03-29T05:00:00+00:00,Russia,0.6871054302146761,1,1,ru,ESB,Europe
 '7747997246',extremes,Fog,#d60d2b,wmo,туман россии,2026-04-06T05:11:00+00:00,Russia,0.6842508679242796,1,1,ru,ESB,Europe
-'23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-04-06T05:11:00+00:00,Russia,0.6769495059939592,0,1,ru,RFE,Asia
 'df214f7453',extremes,Thunderstorm,#53785a,wmo,гроза в россии,2026-03-31T04:59:00+00:00,Russia,0.6723034477689587,1,2,ru,ESB,Europe
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,шторм в россии,2026-04-06T05:11:00+00:00,Russia,0.6642950391185464,1,1,ru,ESB,Europe
-'696dbd33eb',extremes,Storm,#b3b2b1,wmo,штормовой нагон Чукотский автономный округ,2026-04-23T05:16:00+00:00,Russia,0.6560304661773814,0,1,ru,ESB,Europe
 '56f4660b4e',extremes,Storm,#b3b2b1,wmo,штормовой нагон Орловской области,2026-04-23T05:16:00+00:00,Russia,0.6553458551631761,0,1,ru,ESB,Europe
 '55816b9952',extremes,Thunderstorm,#53785a,wmo,гроза в кемеровской области,2026-04-23T05:16:00+00:00,Russia,0.6482655521103999,0,1,ru,ESB,Europe
 '6598d784d5',extremes,Snow&Ice,#d60d2b,wmo,лед Иркутской области,2026-04-03T04:43:00+00:00,Russia,0.6475602617909183,1,2,ru,ESB,Europe
@@ -213,6 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06929a018e',extremes,Earthquake,#870007,usgs,Жаркентское землетрясение,2026-04-01T05:12:00+00:00,Kazakhstan,0.561102265739821,1,1,ru,ECA,Asia
 'e92a5462cd',extremes,Snow&Ice,#d60d2b,wmo,замерзающая республика Адыгея,2026-04-09T04:58:00+00:00,Russia,0.560564985258797,1,1,ru,ESB,Europe
 'e6c551d0ec',extremes,Earthquake,#870007,usgs,землетрясение в Казахстане,2026-04-03T04:42:00+00:00,Kazakhstan,0.5601927463748512,1,1,ru,ECA,Asia
+'696dbd33eb',extremes,Storm,#b3b2b1,wmo,штормовой нагон Чукотский автономный округ,2026-04-23T05:16:00+00:00,Russia,0.5576258962507742,1,1,ru,ESB,Europe
 '16ad56eade',extremes,Storm,#b3b2b1,wmo,гроза новосибирская область,2026-04-17T05:16:00+00:00,Russia,0.5574355942417555,1,1,ru,ESB,Europe
 '3137b941b4',extremes,Snow&Ice,#d60d2b,wmo,лед Нижегородской области,2026-04-19T05:16:00+00:00,Russia,0.5570121553477325,1,1,ru,ESB,Europe
 '7ef041e594',extremes,Thunderstorm,#53785a,wmo,град Ростовская область,2026-04-10T05:13:00+00:00,Russia,0.5569593396590404,1,1,ru,ESB,Europe
