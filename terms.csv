@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-04-01T05:12:00+00:00,Russia,0.733684314602794,1,2,ru,ESB,Europe
 '2322468d4d',extremes,Storm,#b3b2b1,wmo,гроза в Москве,2026-04-04T04:30:00+00:00,Russia,0.7297856128188114,1,2,ru,ESB,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,жара в москве,2026-04-01T05:12:00+00:00,Russia,0.7234844749307644,2,2,ru,ESB,Europe
 'de6508792b',extremes,Snow&Ice,#d60d2b,wmo,снег Ленинградской области,2026-04-26T05:25:00+00:00,Russia,0.7018581844997365,1,2,ru,ESB,Europe
@@ -31,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adc29c32f7',extremes,Snow Avalanche,#deddd5,wmo,лавина забайкальский край,2026-04-25T05:00:00+00:00,Russia,0.6256547696493837,1,1,ru,ESB,Europe
 '6680336437',extremes,Fog,#d60d2b,wmo,туман Ненецкого автономного округа,2026-04-02T04:42:00+00:00,Russia,0.624931737961104,2,1,ru,ESB,Europe
 '7c39867b86',extremes,Flood,#030ba1,wmo,паводок Владимирская область,2026-03-28T04:33:00+00:00,Russia,0.6244745436703917,1,1,ru,ESB,Europe
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-04-01T05:12:00+00:00,Russia,0.624381742412375,2,2,ru,ESB,Europe
 '27476cedd4',extremes,Snow Avalanche,#deddd5,wmo,лавина на юге Красноярского края,2026-04-19T05:16:00+00:00,Russia,0.6240502591853287,1,1,ru,ESB,Europe
 '6a8be8ebf1',extremes,Flood,#030ba1,wmo,затопление Ярославской области,2026-04-14T05:11:00+00:00,Russia,0.6239600728676121,1,1,ru,ESB,Europe
 'b9b4ee0a22',extremes,Flood,#030ba1,wmo,затопление архангельской области,2026-04-07T04:59:00+00:00,Russia,0.6238502525282589,1,1,ru,ESB,Europe
@@ -246,7 +246,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15f4af7bbc',extremes,Snow&Ice,#d60d2b,wmo,замерзшая республика ингушетия,2026-04-24T05:22:00+00:00,Russia,0.548950224653181,1,1,ru,ESB,Europe
 'fa13e8d902',extremes,Fog,#d60d2b,wmo,туман Могилевской области,2026-04-19T05:16:00+00:00,Belarus,0.5487733313167558,1,1,ru,WCE,Europe
 '48c73fbee8',extremes,Storm,#b3b2b1,wmo,штормовой нагон новосибирской области,2026-04-17T05:16:00+00:00,Russia,0.5486415309120265,1,1,ru,ESB,Europe
-'22c0265e44',extremes,Storm,#b3b2b1,wmo,штормовой нагон Тверская область,2026-04-27T05:40:00+00:00,Russia,0.5484327057333945,1,1,ru,ESB,Europe
 'fbdafe158a',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика хакасия,2026-04-16T05:17:00+00:00,Russia,0.5484005422301484,1,1,ru,ESB,Europe
 'cd28317347',extremes,Storm,#b3b2b1,wmo,шторм Чукотский автономный округ,2026-04-16T05:17:00+00:00,Russia,0.5483623701095791,1,1,ru,ESB,Europe
 '5e8e7d143b',extremes,Storm,#b3b2b1,wmo,штормовой нагон на юге Хабаровского края,2026-03-30T05:12:00+00:00,Russia,0.5480692139812902,1,1,ru,ESB,Europe
@@ -379,7 +378,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eea3f8c8f0',extremes,Fog,#d60d2b,wmo,туман Пермский край,2026-04-04T04:30:00+00:00,Russia,0.5139422766441757,2,1,ru,ESB,Europe
 '4b823c754e',extremes,Storm,#b3b2b1,wmo,штормовой нагон Приморский край,2026-04-06T05:11:00+00:00,Russia,0.5127777566173831,2,1,ru,ESB,Europe
 '05c1dc3c3c',extremes,Storm,#b3b2b1,wmo,шторм в порту Таллинна,2026-04-07T04:59:00+00:00,Estonia,0.5125300580448189,1,1,ru,NEU,Europe
-'22c6635163',extremes,Fog,#d60d2b,wmo,туман Минская область,2026-03-21T04:17:00+00:00,Belarus,0.51173572795527,1,1,ru,WCE,Europe
 '3bf3c60874',extremes,Snow&Ice,#d60d2b,wmo,ледяная республика Адыгея,2026-04-08T05:01:00+00:00,Russia,0.5106930722270361,1,1,ru,ESB,Europe
 '98f5eea1e4',extremes,Storm,#b3b2b1,wmo,гроза воронежской области,2026-04-05T05:01:00+00:00,Russia,0.5100281146377381,1,1,ru,ESB,Europe
 '2b6bc946e9',extremes,Snow&Ice,#d60d2b,wmo,снег на юге Амурской области,2026-03-29T05:00:00+00:00,Russia,0.5099525393660624,1,1,ru,ESB,Europe
@@ -407,7 +405,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd11b275dde',extremes,Earthquake,#870007,usgs,землетрясение в азербайджане,2026-04-09T04:57:00+00:00,Azerbaijan,0.4952735937527872,1,1,ru,WCA,Asia
 '61d92dc3ba',extremes,Storm,#b3b2b1,wmo,штормовой нагон Владимирская область,2026-04-09T04:58:00+00:00,Russia,0.4952333065535402,1,1,ru,ESB,Europe
 '06ba0d2ef6',extremes,Flood,#030ba1,wmo,затопление кемеровской области,2026-04-10T05:13:00+00:00,Russia,0.4946303117396226,1,1,ru,ESB,Europe
-'871acc9e46',extremes,Drought,#edc291,edo,засуха в азербайджане,2026-03-27T04:57:00+00:00,Azerbaijan,0.4925025590154926,0,1,ru,WCA,Asia
 '4566491855',extremes,Precipitation,#d60d2b,wmo,проливной дождь Приморский край,2026-04-11T04:34:00+00:00,Russia,0.4923937692345284,1,1,ru,ESB,Europe
 '6503bf1250',extremes,Storm,#b3b2b1,wmo,штормовой нагон Пярнумаа,2026-03-25T04:33:00+00:00,Estonia,0.4911552249380065,1,1,ru,NEU,Europe
 '9ccda6f0cb',extremes,Precipitation,#d60d2b,wmo,проливной дождь Ставропольский край,2026-03-29T05:00:00+00:00,Russia,0.4910928627525599,0,1,ru,ESB,Europe
@@ -456,6 +453,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac3c817587',extremes,Precipitation,#d60d2b,wmo,дождь республика северная осетия алания,2026-04-05T05:01:00+00:00,Russia,0.4673227846938484,1,1,ru,ESB,Europe
 '3c7e7ac12c',extremes,Thunderstorm,#53785a,wmo,гроза чеченская республика,2026-04-08T05:01:00+00:00,Russia,0.4673032250230179,1,1,ru,ESB,Europe
 '35ee6e1c4c',extremes,Precipitation,#d60d2b,wmo,дождь Гродненская область,2026-04-08T05:01:00+00:00,Belarus,0.4672005374915245,0,1,ru,WCE,Europe
+'22c0265e44',extremes,Storm,#b3b2b1,wmo,штормовой нагон Тверская область,2026-04-27T05:40:00+00:00,Russia,0.46616779987338536,2,1,ru,ESB,Europe
 '2c909533c6',extremes,Flood,#030ba1,wmo,паводок республика башкортостан,2026-04-07T04:59:00+00:00,Russia,0.4661536730468241,0,1,ru,ESB,Europe
 'e1716aeb61',extremes,Precipitation,#d60d2b,wmo,проливной дождь Оренбургская область,2026-04-03T04:43:00+00:00,Russia,0.4658498329441484,0,1,ru,ESB,Europe
 '4a4a81ccb4',extremes,Precipitation,#d60d2b,wmo,проливной дождь на юге Камчатского края.,2026-04-08T05:01:00+00:00,Russia,0.4648663195519728,1,1,ru,ESB,Europe
@@ -531,6 +529,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf1f3c9514',extremes,Flood,#030ba1,wmo,наводнение республика татарстан,2026-04-05T05:01:00+00:00,Russia,0.4187747572633442,1,1,ru,ESB,Europe
 'a3940a221c',extremes,Storm,#b3b2b1,wmo,гроза Брестская область,2026-03-24T04:31:00+00:00,Belarus,0.4187654206606763,1,1,ru,WCE,Europe
 'e3e2f61e86',extremes,Storm,#b3b2b1,wmo,гроза Минская область,2026-03-24T04:31:00+00:00,Belarus,0.4186297402125548,1,1,ru,WCE,Europe
+'871acc9e46',extremes,Drought,#edc291,edo,засуха в азербайджане,2026-03-27T04:57:00+00:00,Azerbaijan,0.4186271751631687,1,1,ru,WCA,Asia
 '8bd2e24c41',extremes,Storm,#b3b2b1,wmo,штормовой нагон Самарская область,2026-04-09T04:58:00+00:00,Russia,0.4182950527328127,2,1,ru,ESB,Europe
 'a958ff45c7',extremes,Drought,#edc291,edo,засуха в Кыргызстане,2026-03-29T05:00:00+00:00,Kyrgyzstan,0.417650719379057,0,1,ru,WCA,Asia
 '7e63ad5099',extremes,Storm,#b3b2b1,wmo,гроза Могилевской области,2026-04-04T04:30:00+00:00,Belarus,0.415830000188341,1,1,ru,WCE,Europe
@@ -592,7 +591,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,тропический циклон Индуза,2026-04-03T04:42:00+00:00,,0.3177033728517205,0,1,ru,SIO,Indian Ocean
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,тропический циклон Майла,2026-04-05T05:01:00+00:00,,0.3174351646995071,0,1,ru,EPO,Pacific Ocean
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,тропический циклон 28p,2026-03-24T04:31:00+00:00,,0.3159551579704646,0,1,ru,SPO,Pacific Ocean
-'135f8534c2',extremes,Precipitation,#d60d2b,random,больше осадков,2026-03-29T04:59:00+00:00,,0.31487340863908053,1,1,ru,,
+'135f8534c2',extremes,Precipitation,#d60d2b,random,больше осадков,2026-03-29T04:59:00+00:00,,0.3148734086390805,1,1,ru,,
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,"волна холода, Новый Южный Уэльс",2026-03-31T05:00:00+00:00,Australia,0.3146116457671248,0,1,ru,EAU,Oceania
 '0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,тропический циклон Вайану,2026-04-06T05:11:00+00:00,,0.3145883313493177,0,1,ru,SPO,Pacific Ocean
 '91377cc2a9',extremes,Drought,#edc291,acwe,засуха на юге Австралии,2026-03-31T05:00:00+00:00,Australia,0.3143690315103082,0,1,ru,SAU,Oceania
