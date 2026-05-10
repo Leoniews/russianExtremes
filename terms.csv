@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'500172fc71',extremes,Snow&Ice,#d60d2b,wmo,морозная россия,2026-04-26T05:25:00+00:00,Russia,0.7504293657094134,0,1,ru,ESB,Europe
-'d2561774cc',extremes,Flood,#030ba1,wmo,наводнение к западу от Республики Саха,2026-05-10T05:51:00+00:00,Russia,0.7120828939124321,0,1,ru,ESB,Europe
-'8dc1a3f469',extremes,Wildfire,#d60d2b,wmo,лесной пожар Тульская область,2026-05-10T05:51:00+00:00,Russia,0.7107138075908539,0,1,ru,ESB,Europe
-'2cd6d3561a',extremes,Flood,#030ba1,wmo,наводнение Нижегородская область,2026-05-02T05:24:00+00:00,Russia,0.6987998276190581,0,1,ru,ESB,Europe
 '7586d31b50',extremes,Wildfire,#d60d2b,wmo,лесной пожар в республике мордовия,2026-05-10T05:51:00+00:00,Russia,0.6898521060126602,0,1,ru,ESB,Europe
 '78dd43be95',extremes,Wildfire,#d60d2b,wmo,лесной пожар курская область,2026-05-10T05:51:00+00:00,Russia,0.6897376194059252,0,1,ru,ESB,Europe
 '47a38cc7a1',extremes,Storm,#b3b2b1,wmo,штормовой нагон Волгоградской области,2026-04-29T05:40:00+00:00,Russia,0.6794913436499667,0,1,ru,ESB,Europe
@@ -18,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d1d64b737',extremes,Snow&Ice,#d60d2b,wmo,лед Свердловской области,2026-04-21T05:15:00+00:00,Russia,0.6404882590565171,1,2,ru,ESB,Europe
 '2322468d4d',extremes,Storm,#b3b2b1,wmo,гроза в Москве,2026-04-04T04:30:00+00:00,Russia,0.6402678908959896,2,2,ru,ESB,Europe
 '5966f3dffc',extremes,Storm,#b3b2b1,wmo,штормовой нагон в Латвии,2026-04-27T05:40:00+00:00,Latvia,0.6399848351945886,0,1,ru,WCE,Europe
+'500172fc71',extremes,Snow&Ice,#d60d2b,wmo,морозная россия,2026-04-26T05:25:00+00:00,Russia,0.6378649608530014,1,1,ru,ESB,Europe
 '2cb70e27d7',extremes,Snow Avalanche,#deddd5,wmo,лавина республика бурятия,2026-04-10T05:13:00+00:00,Russia,0.6369576996795158,2,1,ru,ESB,Europe
 'b4368e26f0',extremes,Snow Avalanche,#deddd5,wmo,лавина республика хакасия,2026-04-11T04:34:00+00:00,Russia,0.6356643548276416,1,1,ru,ESB,Europe
 '9adc3827e8',extremes,Storm,#b3b2b1,wmo,гроза Алтайского края,2026-05-10T05:51:00+00:00,Russia,0.63515771531594,0,1,ru,ESB,Europe
@@ -34,10 +31,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5670a1ef99',extremes,Wildfire,#d60d2b,wmo,лесной пожар в алтайском крае,2026-04-20T05:27:00+00:00,Russia,0.6137178136978706,2,1,ru,ESB,Europe
 '3fa8730212',extremes,Wildfire,#d60d2b,wmo,лесной пожар Челябинская область,2026-04-20T05:27:00+00:00,Russia,0.6130652731266232,2,1,ru,ESB,Europe
 '877b8e918c',extremes,Precipitation,#d60d2b,wmo,осадки Кемеровская область,2026-05-09T05:36:00+00:00,Russia,0.6128148297619761,1,1,ru,ESB,Europe
+'d2561774cc',extremes,Flood,#030ba1,wmo,наводнение к западу от Республики Саха,2026-05-10T05:51:00+00:00,Russia,0.6052704598255673,1,1,ru,ESB,Europe
+'8dc1a3f469',extremes,Wildfire,#d60d2b,wmo,лесной пожар Тульская область,2026-05-10T05:51:00+00:00,Russia,0.6041067364522258,1,1,ru,ESB,Europe
 'cbb3832129',extremes,Thunderstorm,#53785a,wmo,град Кемеровская область,2026-04-27T05:40:00+00:00,Russia,0.6020920473014717,1,1,ru,ESB,Europe
 '9bd72fda02',extremes,Storm,#b3b2b1,wmo,гроза республика дагестан,2026-04-24T05:22:00+00:00,Russia,0.599951996175335,1,1,ru,ESB,Europe
 'ca64be4528',extremes,Storm,#b3b2b1,wmo,шторм в Беларуси,2026-04-20T05:27:00+00:00,Belarus,0.5977770476952466,2,2,ru,WCE,Europe
 'de6508792b',extremes,Snow&Ice,#d60d2b,wmo,снег Ленинградской области,2026-04-26T05:25:00+00:00,Russia,0.596579486824776,2,1,ru,ESB,Europe
+'2cd6d3561a',extremes,Flood,#030ba1,wmo,наводнение Нижегородская область,2026-05-02T05:24:00+00:00,Russia,0.5941298684761994,1,1,ru,ESB,Europe
 'bd4b5aafc4',extremes,Snow&Ice,#d60d2b,wmo,мороз на юге республики Саха,2026-05-08T05:16:00+00:00,Russia,0.5933686063768651,1,1,ru,ESB,Europe
 'a1c4a0c670',extremes,Snow&Ice,#d60d2b,wmo,мороз Карачаево-Черкесская республика,2026-04-08T05:01:00+00:00,Russia,0.5930932475551972,2,1,ru,ESB,Europe
 '8a947734a5',extremes,Fog,#d60d2b,wmo,туман Вологодской области,2026-04-07T04:59:00+00:00,Russia,0.5922337549429006,2,1,ru,ESB,Europe
