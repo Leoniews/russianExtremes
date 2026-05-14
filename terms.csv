@@ -1,7 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'138af6b154',extremes,Storm,#b3b2b1,wmo,шторм на юге Камчатского края,2026-04-28T05:45:00+00:00,Russia,0.7281239623378181,0,1,ru,ESB,Europe
+'3a7641f17f',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Подмосковье,2026-05-14T06:02:00+00:00,Russia,0.7218047939730757,0,1,ru,ESB,Europe
+'9c119ba6f6',extremes,Wildfire,#d60d2b,wmo,лесной пожар в республике калмыкия,2026-05-14T06:02:00+00:00,Russia,0.721517524951333,0,1,ru,ESB,Europe
+'59bf84a5dd',extremes,Fog,#d60d2b,wmo,туман Ханты-Мансийского автономного округа,2026-05-14T06:02:00+00:00,Russia,0.7167975115565359,0,1,ru,ESB,Europe
+'b9b4ee0a22',extremes,Flood,#030ba1,wmo,затопление архангельской области,2026-05-13T06:03:00+00:00,Russia,0.7121327816812653,0,1,ru,ESB,Europe
 'b80e15f835',extremes,Snow&Ice,#d60d2b,wmo,ледяная россия,2026-04-27T05:40:00+00:00,Russia,0.683070610177269,2,2,ru,ESB,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,лесной пожар в россии,2026-04-27T05:40:00+00:00,Russia,0.6806072733498038,1,1,ru,ESB,Europe
 '7747997246',extremes,Fog,#d60d2b,wmo,туман россии,2026-04-26T05:25:00+00:00,Russia,0.6779020744250333,1,1,ru,ESB,Europe
+'d6c57c846e',extremes,Flood,#030ba1,wmo,наводнение на севере Хабаровского края,2026-05-11T06:14:00+00:00,Russia,0.6657844564640917,0,1,ru,ESB,Europe
 '966ea715f3',extremes,Snow&Ice,#d60d2b,wmo,мороз россии,2026-04-08T05:01:00+00:00,Russia,0.6572239713985782,2,1,ru,ESB,Europe
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,шторм в россии,2026-04-06T05:11:00+00:00,Russia,0.6554008582507644,2,2,ru,ESB,Europe
 '369e83216c',extremes,Earthquake,#870007,usgs,землетрясение,2026-04-06T05:11:00+00:00,Tajikistan,0.6535165704159402,1,3,ru,WCA,Asia
@@ -483,7 +489,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ba6c1e3d5',extremes,Snow&Ice,#d60d2b,wmo,мороз Волгоградской области,2026-04-25T05:00:00+00:00,Russia,0.4765944510892171,2,1,ru,ESB,Europe
 'e92a5462cd',extremes,Snow&Ice,#d60d2b,wmo,замерзающая республика Адыгея,2026-04-09T04:58:00+00:00,Russia,0.4764802374699775,2,1,ru,ESB,Europe
 'd9cc56f031',extremes,Drought,#edc291,edo,засуха в таджикистане,2026-04-21T05:15:00+00:00,Tajikistan,0.4761052196853333,2,1,ru,WCA,Asia
-'5df0d65452',extremes,Storm,#b3b2b1,wmo,гроза Ненецкого автономного округа,2026-05-05T05:29:00+00:00,Russia,0.47589518323809543,2,1,ru,ESB,Europe
+'5df0d65452',extremes,Storm,#b3b2b1,wmo,гроза Ненецкого автономного округа,2026-05-05T05:29:00+00:00,Russia,0.4758951832380954,2,1,ru,ESB,Europe
 '40a1f5a77b',extremes,Precipitation,#d60d2b,wmo,осадки Брянская область,2026-04-07T04:59:00+00:00,Russia,0.4754472628071454,1,1,ru,ESB,Europe
 'dff1957201',extremes,Storm,#b3b2b1,wmo,гроза тверская область,2026-04-08T05:01:00+00:00,Russia,0.4753940980174074,1,1,ru,ESB,Europe
 '42fa44abf4',extremes,Earthquake,#870007,usgs,землетрясение в Монголии,2026-04-09T04:57:00+00:00,Mongolia,0.4748638978249614,1,2,ru,ESB,Asia
