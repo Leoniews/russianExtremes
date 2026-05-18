@@ -1,10 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
-RIA Novosti,RIA Novosti,PERSON,-0.023487563810144472,0.09932659932659937,en,27.899999999999984
-Tatyana Pozdnyakova,Tatyana Pozdnyakova,PERSON,-0.029220779220779213,0.303030303030303,en,7.700000000000001
+RIA Novosti,RIA Novosti,PERSON,-0.02162716271627164,0.0914591459145915,en,30.299999999999983
+Tatyana Pozdnyakova,Tatyana Pozdnyakova,PERSON,-0.026785714285714277,0.27777777777777773,en,8.400000000000002
 Marina Makarova,Marina Makarova,PERSON,-0.015255009107468123,0.20787795992714025,en,6.1
 Roman Vilfand,Roman Vilfand,PERSON,-0.09649122807017545,0.09649122807017545,en,5.7
 Evgeniy Tishkovets,Evgeniy Tishkovets,PERSON,-0.0478395061728395,0.1898148148148148,en,5.4
-Mikhail Leus,Mikhail Leus,PERSON,-0.16333333333333333,0.26333333333333336,en,4.5
+Mikhail Leus,Mikhail Leus,PERSON,-0.16057692307692306,0.24711538461538463,en,5.2
 Elena Semenova,Elena Semenova,PERSON,0.0,0.0,en,4.4
 Alexander Shuvalov,Alexander Shuvalov,PERSON,-0.29914529914529914,0.5384615384615384,en,3.9000000000000004
 Veliky Ustyug,Veliky Ustyug,PERSON,0.10765550239234449,0.3588516746411483,en,3.8
@@ -16,34 +16,38 @@ Alexander Ilyin,Alexander Ilyin,PERSON,-0.053703703703703705,0.10493827160493827
 Alexander Korobov,Alexander Korobov,PERSON,-0.08012820512820513,0.36858974358974356,en,2.6
 Denis Moroz,Denis Moroz,PERSON,-0.05999999999999996,0.3333333333333333,en,2.5
 Sergei Melikov,Sergei Melikov,PERSON,0.2066666666666667,0.34666666666666673,en,2.4999999999999996
-Mountaineer Yakovenko,Mountaineer Yakovenko,PERSON,0.0,0.0,en,1.9
 Dagestan Derbent,Dagestan Derbent,PERSON,-0.17105263157894737,0.46052631578947373,en,1.9
+Mountaineer Yakovenko,Mountaineer Yakovenko,PERSON,0.0,0.0,en,1.9
 Sergei Parkhomenko,Sergei Parkhomenko,PERSON,0.0,0.0,en,1.9
 Ilya Sukhikh,Ilya Sukhikh,PERSON,0.0,0.0,en,1.9
 Alexey Karnaukhov,Alexey Karnaukhov,PERSON,-0.05555555555555556,0.05555555555555556,en,1.8
 Dima Maslennikov,Dima Maslennikov,PERSON,0.14705882352941177,0.19607843137254902,en,1.7
 Alexander Khinshtein,Alexander Khinshtein,PERSON,0.0,0.0,en,1.7
 Anna Mongait,Anna Mongait,PERSON,0.0,0.0,en,1.6
-Yura Belyat feat,Yura Belyat feat,PERSON,0.0,0.0,en,1.3
-Ksenia Larina,Ksenia Larina,PERSON,0.5384615384615384,0.6923076923076923,en,1.3
-Vladimir Potanin,Vladimir Potanin,PERSON,0.0,0.038461538461538464,en,1.3
-Novy Urengoy,Novy Urengoy,PERSON,-0.03205128205128205,0.27350427350427353,en,1.3
 Mikhail Mishustin,Mikhail Mishustin,PERSON,0.15384615384615385,0.641025641025641,en,1.3
+Vladimir Potanin,Vladimir Potanin,PERSON,0.0,0.038461538461538464,en,1.3
+Yura Belyat feat,Yura Belyat feat,PERSON,0.0,0.0,en,1.3
+Novy Urengoy,Novy Urengoy,PERSON,-0.03205128205128205,0.27350427350427353,en,1.3
 Nurlan Saburov,Nurlan Saburov,PERSON,0.10489510489510488,0.34965034965034963,en,1.3
 Olya Nitka,Olya Nitka,PERSON,0.0,0.0,en,1.3
-Rosa Khutor,Rosa Khutor,PERSON,-0.1,0.1,en,1.0
-Georgia Meloni,Georgia Meloni,PERSON,0.0,0.0,en,1.0
-Alexander Kolesov,Alexander Kolesov,PERSON,-0.03333333333333333,0.5666666666666668,en,1.0
-Katerina Tikhonova,Katerina Tikhonova,PERSON,0.0,0.0,en,1.0
-Zapir Gasanov,Zapir Gasanov,PERSON,0.0,0.0,en,1.0
-Alexander Shulga,Alexander Shulga,PERSON,-0.2,0.275,en,1.0
-Anatoly Tsygankov,Anatoly Tsygankov,PERSON,-0.05,0.05,en,1.0
-Renat Davletgildeev,Renat Davletgildeev,PERSON,0.0,0.0,en,1.0
-Dagestan Sergei Melikov,Dagestan Sergei Melikov,PERSON,0.0,0.0,en,1.0
+Ksenia Larina,Ksenia Larina,PERSON,0.5384615384615384,0.6923076923076923,en,1.3
+Alexei Petrov,Alexei Petrov,PERSON,0.0,0.3846153846153846,en,1.3
 Klava Koka,Klava Koka,PERSON,0.25,0.3333333333333333,en,1.0
-Petr Shebalin,Petr Shebalin,PERSON,0.0,0.0,en,1.0
+Katerina Tikhonova,Katerina Tikhonova,PERSON,0.0,0.0,en,1.0
+Tatyana Ledashcheva,Tatyana Ledashcheva,PERSON,0.0,0.0,en,1.0
+Georgia Meloni,Georgia Meloni,PERSON,0.0,0.0,en,1.0
+Anatoly Tsygankov,Anatoly Tsygankov,PERSON,-0.05,0.05,en,1.0
+Zapir Gasanov,Zapir Gasanov,PERSON,0.0,0.0,en,1.0
+Dagestan Sergei Melikov,Dagestan Sergei Melikov,PERSON,0.0,0.0,en,1.0
+Renat Davletgildeev,Renat Davletgildeev,PERSON,0.0,0.0,en,1.0
+Alexander Shulga,Alexander Shulga,PERSON,-0.2,0.275,en,1.0
+Alexander Kolesov,Alexander Kolesov,PERSON,-0.03333333333333333,0.5666666666666668,en,1.0
 Igor Kobzev,Igor Kobzev,PERSON,0.35714285714285715,0.5714285714285714,en,1.0
+Komsomolskaya Pravda,Komsomolskaya Pravda,PERSON,-0.05,0.05,en,1.0
 Perry Samson,Perry Samson,PERSON,0.0,0.0,en,1.0
+Alexey Filippov,Alexey Filippov,PERSON,-0.43333333333333335,0.7999999999999999,en,1.0
+Andrei Osipov,Andrei Osipov,PERSON,0.0,0.25,en,1.0
+Amur Mash,Amur Mash,PERSON,0.0,0.0,en,1.0
 Fyodor Shchukin,Fyodor Shchukin,PERSON,0.3,0.5,en,1.0
 Moscow Sheremetyevo,Moscow Sheremetyevo,PERSON,-0.08571428571428572,0.12142857142857143,en,1.0
 Alexey Dolmatov,Alexey Dolmatov,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
@@ -56,17 +60,15 @@ Kotolf Kitler,Kotolf Kitler,PERSON,0.0,0.0,en,1.0
 Valeria Gai Germanika,Valeria Gai Germanika,PERSON,0.0,0.0,en,1.0
 Elizaveta Boyarskaya,Elizaveta Boyarskaya,PERSON,0.0,0.0,en,1.0
 MLRS Uragan,MLRS Uragan,PERSON,0.0,0.0,en,1.0
-Komsomolskaya Pravda,Komsomolskaya Pravda,PERSON,-0.05,0.05,en,1.0
-Sergei Krupenko,Sergei Krupenko,PERSON,-0.5,0.3,en,1.0
+Petr Shebalin,Petr Shebalin,PERSON,0.0,0.0,en,1.0
 Nikolai German,Nikolai German,PERSON,0.0,0.0,en,1.0
 Nizhnie Ubekimakhi,Nizhnie Ubekimakhi,PERSON,0.15714285714285714,0.41428571428571426,en,1.0
 Anastas Ivanovich Mikoyan,Anastas Ivanovich Mikoyan,PERSON,0.35,0.65,en,1.0
 Shamil Shamsudinov,Shamil Shamsudinov,PERSON,0.0,0.0,en,1.0
-Alexey Filippov,Alexey Filippov,PERSON,-0.43333333333333335,0.7999999999999999,en,1.0
+Rosa Khutor,Rosa Khutor,PERSON,-0.1,0.1,en,1.0
+Andrei Kanchelskis,Andrei Kanchelskis,PERSON,0.0,0.0,en,1.0
 Denis Sviridov,Denis Sviridov,PERSON,0.0,0.0,en,1.0
-Tatyana Ledashcheva,Tatyana Ledashcheva,PERSON,0.0,0.0,en,1.0
-Nikolay Salmin,Nikolay Salmin,PERSON,0.0,0.0,en,1.0
-Emin Agalarov,Emin Agalarov,PERSON,0.21212121212121213,0.3181818181818182,en,1.0
+Tatyana Felgenhauer,Tatyana Felgenhauer,PERSON,0.0,0.0,en,1.0
 Dmitry Medvedev,Dmitry Medvedev,PERSON,0.09999999999999999,0.3333333333333333,en,1.0
 Nicolas Maduro,Nicolas Maduro,PERSON,0.09999999999999999,0.3333333333333333,en,1.0
 Larisa Dolina,Larisa Dolina,PERSON,0.0,1.0,en,1.0
@@ -87,19 +89,20 @@ Alexander Sh,Alexander Sh,PERSON,-0.1,0.1,en,1.0
 Sergei Belov,Sergei Belov,PERSON,0.6,0.6,en,1.0
 Alexei Putin,Alexei Putin,PERSON,0.0,0.0,en,1.0
 Boris Vakhrushev,Boris Vakhrushev,PERSON,-0.0625,0.1875,en,1.0
-Tatyana Felgenhauer,Tatyana Felgenhauer,PERSON,0.0,0.0,en,1.0
 Konstantin Bogomolov,Konstantin Bogomolov,PERSON,-0.10000000000000002,0.08888888888888889,en,1.0
-Maria Zakharova,Maria Zakharova,PERSON,-0.0625,0.0625,en,1.0
+Sergei Krupenko,Sergei Krupenko,PERSON,-0.5,0.3,en,1.0
+Dmitry Pevtsov,Dmitry Pevtsov,PERSON,0.0,0.0,en,1.0
+Nikolay Salmin,Nikolay Salmin,PERSON,0.0,0.0,en,1.0
+Emin Agalarov,Emin Agalarov,PERSON,0.21212121212121213,0.3181818181818182,en,1.0
 Bakhtiyar Aliyev,Bakhtiyar Aliyev,PERSON,0.21212121212121213,0.3181818181818182,en,1.0
 Sergei Shchetinin,Sergei Shchetinin,PERSON,-0.006666666666666665,0.45666666666666667,en,1.0
 Yura Belyat,Yura Belyat,PERSON,-0.15,0.2625,en,1.0
 Denis Alshanov,Denis Alshanov,PERSON,-0.15,0.2625,en,1.0
 Tikhon Dzyadko feat,Tikhon Dzyadko feat,PERSON,0.0,0.0,en,1.0
-Andrei Kanchelskis,Andrei Kanchelskis,PERSON,0.0,0.0,en,1.0
 Freezing rain,Freezing rain,PERSON,-0.1125,0.575,en,1.0
 Verkhnyaya Pyshma,Verkhnyaya Pyshma,PERSON,-0.1,0.1,en,1.0
+Maria Zakharova,Maria Zakharova,PERSON,-0.0625,0.0625,en,1.0
 Dmitry “Goblin” Puchkov,Dmitry “Goblin” Puchkov,PERSON,0.0,0.0,en,1.0
-Dmitry Pevtsov,Dmitry Pevtsov,PERSON,0.0,0.0,en,1.0
 Lyudmila Platonova,Lyudmila Platonova,PERSON,0.25,0.5,en,1.0
 Liya Galeeva,Liya Galeeva,PERSON,0.25,0.5,en,1.0
 Christopher Co,Christopher Co,PERSON,0.25,0.3333333333333333,en,1.0
@@ -108,4 +111,4 @@ Dmitry Kiktev,Dmitry Kiktev,PERSON,-0.1,0.1,en,1.0
 Sergei Shoigu,Sergei Shoigu,PERSON,-0.07694805194805196,0.34707792207792204,en,1.0
 Mikhail L,Mikhail L,PERSON,0.016666666666666663,0.2777777777777778,en,1.0
 Sergei Bezrukov,Sergei Bezrukov,PERSON,0.0,0.0,en,1.0
-Amur Mash,Amur Mash,PERSON,0.0,0.0,en,1.0
+Vladimir Kuznetsov,Vladimir Kuznetsov,PERSON,0.0,0.05,en,1.0
