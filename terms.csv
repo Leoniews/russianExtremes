@@ -1,4 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ee00bb4b9c',extremes,Fog,#d60d2b,wmo,туман республика алтай,2026-05-25T06:53:00+00:00,Russia,0.7351592861325389,0,1,ru,ESB,Europe
+'1d14e81334',extremes,Snow&Ice,#d60d2b,wmo,морозная Омская область,2026-05-17T06:01:00+00:00,Russia,0.7132914393815256,0,1,ru,ESB,Europe
+'dd97cdeb59',extremes,Snow&Ice,#d60d2b,wmo,замерзшая Кемеровская область,2026-05-24T06:22:00+00:00,Russia,0.6978930560232354,0,1,ru,ESB,Europe
+'6c11585835',extremes,Drought,#edc291,edo,засуха Литва,2026-05-07T05:46:00+00:00,Lithuania,0.6926143791835354,0,1,ru,WCE,Europe
 '2831c60cb5',extremes,Wildfire,#d60d2b,wmo,лесной пожар Костромская область,2026-05-20T06:33:00+00:00,Russia,0.6249308606164413,1,1,ru,ESB,Europe
 'd721fe3dc0',extremes,Wildfire,#d60d2b,wmo,лесной пожар в калужской области,2026-05-23T05:53:00+00:00,Russia,0.6062960148656338,1,1,ru,ESB,Europe
 'bb7f82afd7',extremes,Snow&Ice,#d60d2b,wmo,снег Свердловской области,2026-05-08T05:16:00+00:00,Russia,0.6001218296662254,3,2,ru,ESB,Europe
@@ -339,7 +343,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a3ed6b772',extremes,Heat Wave,#c40202,wmo,жара рязанская область,2026-05-07T05:46:00+00:00,Russia,0.4597097323620876,3,1,ru,ESB,Europe
 '8efee2c026',extremes,Snow&Ice,#d60d2b,wmo,ледяная республика карелия,2026-04-26T05:25:00+00:00,Russia,0.459612341371518,2,1,ru,ESB,Europe
 '37cb4b7b73',extremes,Earthquake,#870007,usgs,землетрясение в Хороге,2026-04-29T05:40:00+00:00,Tajikistan,0.4594699480715414,2,1,ru,WCA,Asia
-'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,лавина республика тыва,2026-05-03T05:44:00+00:00,Russia,0.45937551850202735,3,1,ru,ESB,Europe
+'fcb1daa9f9',extremes,Snow Avalanche,#deddd5,wmo,лавина республика тыва,2026-05-03T05:44:00+00:00,Russia,0.4593755185020273,3,1,ru,ESB,Europe
 '24d0114e20',extremes,Storm,#b3b2b1,wmo,шторм Пензенская область,2026-04-27T05:40:00+00:00,Russia,0.4590610865634401,2,1,ru,ESB,Europe
 '935b4ad68f',extremes,Storm,#b3b2b1,wmo,гроза Новгородская область,2026-04-28T05:45:00+00:00,Russia,0.4590101915304801,2,1,ru,ESB,Europe
 '9adc3827e8',extremes,Storm,#b3b2b1,wmo,гроза Алтайского края,2026-05-10T05:51:00+00:00,Russia,0.4589014493157666,2,1,ru,ESB,Europe
