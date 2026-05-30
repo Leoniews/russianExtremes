@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b224009b08',extremes,Storm,#b3b2b1,wmo,гроза на юге Амурской области,2026-05-11T06:14:00+00:00,Russia,0.6752030424206813,0,1,ru,ESB,Europe
-'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,лавина россия,2026-05-16T05:40:00+00:00,Russia,0.6742877453841296,2,1,ru,ESB,Europe
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-05-17T06:01:00+00:00,Russia,0.6646513174733442,2,2,ru,ESB,Europe
 '450c59fb41',extremes,Snow&Ice,#d60d2b,wmo,снег Рязанской области,2026-05-29T06:38:00+00:00,Russia,0.6461826477562935,2,2,ru,ESB,Europe
 '500172fc71',extremes,Snow&Ice,#d60d2b,wmo,морозная россия,2026-05-16T05:40:00+00:00,Russia,0.6321704542072824,1,1,ru,ESB,Europe
@@ -17,6 +15,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '912801fdc1',extremes,Flood,#030ba1,wmo,наводнение ростовская область,2026-05-22T06:32:00+00:00,Russia,0.5764886534733349,1,1,ru,ESB,Europe
 '98db96b6de',extremes,Drought,#edc291,edo,засуха в Литве,2026-05-17T06:01:00+00:00,Lithuania,0.5763571750652149,1,1,ru,WCE,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-05-16T05:40:00+00:00,Russia,0.5760572219181122,2,1,ru,RFE,Asia
+'b224009b08',extremes,Storm,#b3b2b1,wmo,гроза на юге Амурской области,2026-05-11T06:14:00+00:00,Russia,0.5739225860575791,1,1,ru,ESB,Europe
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,лавина россия,2026-05-16T05:40:00+00:00,Russia,0.5732945985765101,3,1,ru,ESB,Europe
 'eada3ead46',extremes,Snow&Ice,#d60d2b,wmo,снег Иркутской области,2026-05-24T06:22:00+00:00,Russia,0.5723730842462491,3,2,ru,ESB,Europe
 'e0a20b939f',extremes,Storm,#b3b2b1,wmo,гроза Ставропольского края,2026-05-27T06:46:00+00:00,Russia,0.5713251139165354,1,1,ru,ESB,Europe
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,шторм в россии,2026-05-16T05:40:00+00:00,Russia,0.5710560949199882,2,1,ru,ESB,Europe
