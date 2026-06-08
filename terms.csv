@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a78a18febe',extremes,Fog,#d60d2b,wmo,туман Забайкальского края,2026-06-08T07:13:00+00:00,Russia,0.7304838105441176,0,1,ru,ESB,Europe
+'896289f740',extremes,Thunderstorm,#53785a,wmo,здравствуй Россия,2026-05-22T06:32:00+00:00,Russia,0.7153945861326733,0,1,ru,ESB,Europe
+'395176b55d',extremes,Flood,#030ba1,wmo,затопление Забайкальского края,2026-06-08T07:13:00+00:00,Russia,0.7029504561932518,0,1,ru,ESB,Europe
+'59d246b767',extremes,Thunderstorm,#53785a,wmo,гроза карачаево-черкесская республика,2026-06-08T07:13:00+00:00,Russia,0.6954426230752148,0,1,ru,ESB,Europe
+'4d730ec04c',extremes,Thunderstorm,#53785a,wmo,суровая погода республика коми,2026-05-25T06:53:00+00:00,Russia,0.6831165994869638,0,1,ru,ESB,Europe
+'5a69bd9b04',extremes,Fog,#d60d2b,wmo,туман Новой Земли,2026-06-08T07:13:00+00:00,Russia,0.6758403189571953,0,1,ru,ESB,Europe
+'fb821ba48b',extremes,Thunderstorm,#53785a,wmo,"здравствуй, Латвия",2026-06-08T07:13:00+00:00,Latvia,0.6588165351530361,0,1,ru,WCE,Europe
+'2349a552a7',extremes,Storm,#b3b2b1,wmo,штормовой нагон Костромская область,2026-05-23T05:53:00+00:00,Russia,0.6412265790346526,0,1,ru,ESB,Europe
+'5e80e3965c',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика тыва,2026-05-28T06:38:00+00:00,Russia,0.6403865552301505,0,1,ru,ESB,Europe
+'d8df80f0c5',extremes,Thunderstorm,#53785a,wmo,гроза в Эстонии,2026-06-03T07:23:00+00:00,Estonia,0.6402547775467466,0,1,ru,NEU,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-05-16T05:40:00+00:00,Russia,0.5927361116627591,4,2,ru,RFE,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-05-22T06:32:00+00:00,Russia,0.5759202108022006,3,3,ru,ESB,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,лавина россия,2026-05-16T05:40:00+00:00,Russia,0.5732945985765101,3,1,ru,ESB,Europe
@@ -305,7 +315,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1c9ff439b',extremes,Storm,#b3b2b1,wmo,гроза республика татарстан,2026-05-24T06:22:00+00:00,Russia,0.4687477834864308,2,1,ru,ESB,Europe
 '93eb17eb27',extremes,Storm,#b3b2b1,wmo,штормовой нагон на юге Камчатского края,2026-05-24T06:22:00+00:00,Russia,0.4684269819489672,2,1,ru,ESB,Europe
 '201221678e',extremes,Precipitation,#d60d2b,wmo,проливной дождь на западе Республики Саха,2026-05-22T06:32:00+00:00,Russia,0.4674895551956464,2,1,ru,ESB,Europe
-'253283d718',extremes,Storm,#b3b2b1,wmo,штормовой нагон Ханты-Мансийского автономного округа,2026-05-22T06:32:00+00:00,Russia,0.46695021497339323,2,1,ru,ESB,Europe
+'253283d718',extremes,Storm,#b3b2b1,wmo,штормовой нагон Ханты-Мансийского автономного округа,2026-05-22T06:32:00+00:00,Russia,0.4669502149733932,2,1,ru,ESB,Europe
 'e223e6b623',extremes,Thunderstorm,#53785a,wmo,суровая погода Челябинская область,2026-05-31T06:40:00+00:00,Russia,0.4667953502866015,2,1,ru,ESB,Europe
 'd5b30d50ef',extremes,Snow&Ice,#d60d2b,wmo,мороз ростовской области,2026-05-04T05:50:00+00:00,Russia,0.4660615027281634,2,1,ru,ESB,Europe
 'f99111377d',extremes,Fog,#d60d2b,wmo,туман республика тыва,2026-05-07T05:46:00+00:00,Russia,0.4651054768113415,2,1,ru,ESB,Europe
