@@ -1,26 +1,26 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Russian,Russian,NORP,,,en,62.09999999999997
-Muscovites,Muscovites,NORP,,,en,47.49999999999998
-Friday,Friday,DATE,,,en,30.699999999999996
+Russian,Russian,NORP,,,en,63.79999999999996
+Muscovites,Muscovites,NORP,,,en,51.79999999999996
+Friday,Friday,DATE,,,en,32.8
+the Hydrometeorological Center,the Hydrometeorological Center,FAC,,,en,28.999999999999996
 first,first,ORDINAL,,,en,28.7
-Thursday,Thursday,DATE,,,en,26.999999999999986
-the Hydrometeorological Center,the Hydrometeorological Center,FAC,,,en,25.899999999999995
-two,two,CARDINAL,,,en,22.299999999999997
-Tuesday,Tuesday,DATE,,,en,20.299999999999997
-Wednesday,Wednesday,DATE,,,en,20.199999999999996
+Thursday,Thursday,DATE,,,en,28.599999999999987
+two,two,CARDINAL,,,en,22.999999999999996
+Monday,Monday,DATE,,,en,22.7
+Wednesday,Wednesday,DATE,,,en,21.799999999999997
+the weekend,the weekend,DATE,,,en,21.700000000000006
+Tuesday,Tuesday,DATE,,,en,20.599999999999998
+one,one,CARDINAL,,,en,19.900000000000006
+Sunday,Sunday,DATE,,,en,19.599999999999998
 European,European,NORP,,,en,19.599999999999998
-Monday,Monday,DATE,,,en,19.499999999999996
-one,one,CARDINAL,,,en,19.100000000000005
+today,today,DATE,,,en,19.500000000000004
 the coming days,the coming days,DATE,,,en,18.500000000000004
-the weekend,the weekend,DATE,,,en,18.200000000000003
-today,today,DATE,,,en,18.000000000000004
-Sunday,Sunday,DATE,,,en,17.999999999999996
-night,night,TIME,,,en,14.800000000000004
-Russians,Russians,NORP,,,en,14.000000000000004
-Ukrainian,Ukrainian,NORP,,,en,13.7
-three,three,CARDINAL,,,en,13.100000000000001
-summer,summer,DATE,,,en,11.299999999999999
-Saturday,Saturday,DATE,,,en,11.100000000000001
+night,night,TIME,,,en,15.800000000000004
+Russians,Russians,NORP,,,en,14.800000000000004
+Saturday,Saturday,DATE,,,en,14.500000000000004
+Ukrainian,Ukrainian,NORP,,,en,14.0
+three,three,CARDINAL,,,en,13.400000000000002
+summer,summer,DATE,,,en,11.6
 5.7,5.7,CARDINAL,,,en,11.099999999999998
 5.2,5.2,CARDINAL,,,en,10.700000000000001
 four,four,CARDINAL,,,en,10.700000000000001
@@ -29,619 +29,641 @@ next week,next week,DATE,,,en,10.6
 At least 10,At least 10,CARDINAL,,,en,10.500000000000002
 2026,2026,DATE,,,en,10.300000000000004
 winter,winter,DATE,,,en,10.200000000000001
+this week,this week,DATE,,,en,9.9
 5.1,5.1,CARDINAL,,,en,9.9
-this week,this week,DATE,,,en,9.6
 4.2,4.2,CARDINAL,,,en,9.500000000000002
-Phobos,Phobos,PRODUCT,-0.09909909909909911,0.7102102102102102,en,8.700000000000001
+the end of the week,the end of the week,DATE,,,en,9.5
+Phobos,Phobos,PRODUCT,-0.11851851851851852,0.6209876543209877,en,9.4
 Japanese,Japanese,NORP,,,en,8.3
 morning,morning,TIME,,,en,7.800000000000001
+May 22,May 22,DATE,,,en,7.700000000000001
 zero,zero,CARDINAL,,,en,7.700000000000001
-the end of the week,the end of the week,DATE,,,en,7.400000000000001
 a week,a week,DATE,,,en,7.4
+evening,evening,TIME,,,en,7.200000000000001
 6.3,6.3,CARDINAL,,,en,7.100000000000001
-May 22,May 22,DATE,,,en,7.000000000000001
+the day,the day,DATE,,,en,6.9
 5.8,5.8,CARDINAL,,,en,6.800000000000001
+the evening,the evening,TIME,,,en,6.8
+afternoon,afternoon,TIME,,,en,6.6000000000000005
 May,May,DATE,,,en,6.5
-evening,evening,TIME,,,en,6.400000000000001
+the coming hours,the coming hours,TIME,,,en,6.3
 American,American,NORP,,,en,6.000000000000001
 third,third,ORDINAL,,,en,6.000000000000001
+up to,up to,QUANTITY,,,en,5.999999999999999
+daily,daily,DATE,,,en,5.900000000000001
 the week,the week,DATE,,,en,5.8999999999999995
+Today,Today,DATE,,,en,5.800000000000001
 five,five,CARDINAL,,,en,5.800000000000001
 the morning,the morning,TIME,,,en,5.7
 April 14,April 14,DATE,,,en,5.6000000000000005
 3.4,3.4,CARDINAL,,,en,5.6
-Today,Today,DATE,,,en,5.500000000000001
-the coming hours,the coming hours,TIME,,,en,5.5
-the day,the day,DATE,,,en,5.5
 this weekend,this weekend,DATE,,,en,5.3999999999999995
-the evening,the evening,TIME,,,en,5.2
+May 17,May 17,DATE,,,en,5.2
 seven,seven,CARDINAL,,,en,5.2
-afternoon,afternoon,TIME,,,en,5.1000000000000005
 Two,Two,CARDINAL,,,en,5.1000000000000005
+the next hour,the next hour,TIME,,,en,5.0
+21:00,21:00,TIME,,,en,4.8
 six,six,CARDINAL,,,en,4.699999999999999
+Urals,Urals,NORP,-0.14192708333333334,0.7018229166666665,en,4.6000000000000005
+27 degrees,27 degrees,QUANTITY,,,en,4.6
+"1,100 hectares","1,100 hectares",QUANTITY,,,en,4.6
 the end of April,the end of April,DATE,,,en,4.6
 this year,this year,DATE,,,en,4.6
 7 degrees,7 degrees,QUANTITY,,,en,4.6
-"1,100 hectares","1,100 hectares",QUANTITY,,,en,4.6
-27 degrees,27 degrees,QUANTITY,,,en,4.6
 May 7,May 7,DATE,,,en,4.6
 May 19,May 19,DATE,,,en,4.5
-daily,daily,DATE,,,en,4.5
 5.5,5.5,CARDINAL,,,en,4.5
 5,5,CARDINAL,,,en,4.3999999999999995
 February 13,February 13,DATE,,,en,4.300000000000001
 May 18,May 18,DATE,,,en,4.3
 the beginning of the week,the beginning of the week,DATE,,,en,4.2
 24 hours,24 hours,TIME,,,en,3.999999999999999
-Urals,Urals,NORP,-0.11067708333333333,0.5768229166666666,en,3.9000000000000004
 4.6,4.6,CARDINAL,,,en,3.8
-April 22,April 22,DATE,,,en,3.8
 18,18,CARDINAL,,,en,3.8
-May 17,May 17,DATE,,,en,3.6999999999999997
+April 22,April 22,DATE,,,en,3.8
+April 2026,April 2026,DATE,,,en,3.6999999999999997
 7-9 degrees,7-9 degrees,QUANTITY,,,en,3.6999999999999997
 Rivian,Rivian,NORP,,,en,3.6999999999999997
-April 2026,April 2026,DATE,,,en,3.6999999999999997
-30 degrees,30 degrees,QUANTITY,,,en,3.6999999999999997
-early April,early April,DATE,,,en,3.6999999999999997
 daytime,daytime,TIME,,,en,3.6999999999999997
-the next two days,the next two days,DATE,,,en,3.6
+early April,early April,DATE,,,en,3.6999999999999997
+30 degrees,30 degrees,QUANTITY,,,en,3.6999999999999997
 One,One,CARDINAL,,,en,3.6
+the next two days,the next two days,DATE,,,en,3.6
 this coming weekend,this coming weekend,DATE,,,en,3.6
 April 23,April 23,DATE,,,en,3.5999999999999996
+up to 15 m/s,up to 15 m/s,QUANTITY,,,en,3.5
 Next week,Next week,DATE,,,en,3.4999999999999996
 April 24,April 24,DATE,,,en,3.4999999999999996
-this winter,this winter,DATE,,,en,3.4000000000000004
 the middle of next week,the middle of next week,DATE,,,en,3.4000000000000004
-92%,92%,PERCENT,,,en,3.4000000000000004
 the May holidays,the May holidays,DATE,,,en,3.4000000000000004
+92%,92%,PERCENT,,,en,3.4000000000000004
+this winter,this winter,DATE,,,en,3.4000000000000004
 the next 24 hours,the next 24 hours,TIME,,,en,3.4000000000000004
 6,6,CARDINAL,,,en,3.3999999999999995
 Chinese,Chinese,NORP,,,en,3.3
+May 21,May 21,DATE,,,en,3.2
 the beginning of the year,the beginning of the year,DATE,,,en,3.2
-Croatian,Croatian,NORP,,,en,3.0999999999999996
-6.1,6.1,CARDINAL,,,en,3.0999999999999996
 one day,one day,DATE,,,en,3.0999999999999996
 5.6,5.6,CARDINAL,,,en,3.0999999999999996
+6.1,6.1,CARDINAL,,,en,3.0999999999999996
+Croatian,Croatian,NORP,,,en,3.0999999999999996
 British,British,NORP,,,en,3.0
 April 9,April 9,DATE,,,en,2.8000000000000003
-the end of the day,the end of the day,DATE,,,en,2.8
-5.4,5.4,CARDINAL,,,en,2.8
-the afternoon,the afternoon,TIME,,,en,2.8
-the beginning of next week,the beginning of next week,DATE,,,en,2.8
-the end of March,the end of March,DATE,,,en,2.8
-April 5,April 5,DATE,,,en,2.8
 51.6 thousand hectares,51.6 thousand hectares,QUANTITY,,,en,2.8
-6.8,6.8,CARDINAL,,,en,2.8
 "Monday, April 6","Monday, April 6",DATE,,,en,2.8
-the end of the month,the end of the month,DATE,,,en,2.8
-3.7,3.7,CARDINAL,,,en,2.8
-the second day,the second day,DATE,,,en,2.8
+the afternoon,the afternoon,TIME,,,en,2.8
 3.9,3.9,CARDINAL,,,en,2.8
+the beginning of next week,the beginning of next week,DATE,,,en,2.8
+April 5,April 5,DATE,,,en,2.8
 1979,1979,DATE,,,en,2.8
-the year,the year,DATE,,,en,2.7
-the summer,the summer,DATE,,,en,2.7
+6.8,6.8,CARDINAL,,,en,2.8
+the end of the month,the end of the month,DATE,,,en,2.8
+the end of March,the end of March,DATE,,,en,2.8
+the second day,the second day,DATE,,,en,2.8
+3.7,3.7,CARDINAL,,,en,2.8
+5.4,5.4,CARDINAL,,,en,2.8
+the end of the day,the end of the day,DATE,,,en,2.8
 Winter,Winter,DATE,,,en,2.7
-Yesterday,Yesterday,DATE,,,en,2.7
-the coming week,the coming week,DATE,,,en,2.7
-up to 15 m/s,up to 15 m/s,QUANTITY,,,en,2.7
+the summer,the summer,DATE,,,en,2.7
 "April 23, 2026","April 23, 2026",DATE,,,en,2.7
+the year,the year,DATE,,,en,2.7
+the coming week,the coming week,DATE,,,en,2.7
+May 18 to 22,May 18 to 22,DATE,,,en,2.7
+Yesterday,Yesterday,DATE,,,en,2.7
 half,half,CARDINAL,,,en,2.6
-95%,95%,PERCENT,,,en,2.6
-second,second,ORDINAL,,,en,2.6
-noon,noon,TIME,,,en,2.6
-April 20,April 20,DATE,,,en,2.6
 5.9,5.9,CARDINAL,,,en,2.6
-the spring,the spring,DATE,,,en,2.6
+April 20,April 20,DATE,,,en,2.6
+17 seconds,17 seconds,TIME,,,en,2.6
+second,second,ORDINAL,,,en,2.6
+95%,95%,PERCENT,,,en,2.6
 the holiday weekend,the holiday weekend,DATE,,,en,2.6
-up to,up to,QUANTITY,,,en,2.5
+the spring,the spring,DATE,,,en,2.6
+May 31,May 31,DATE,,,en,2.6
+1995,1995,DATE,,,en,2.6
+noon,noon,TIME,,,en,2.6
+June,June,DATE,,,en,2.5999999999999996
 the New Year,the New Year,EVENT,,,en,2.5
-|,|,DATE,,,en,2.4
-21:00,21:00,TIME,,,en,2.4
-4.7,4.7,CARDINAL,,,en,2.4
-Above-zero,Above-zero,CARDINAL,,,en,2.4
+21.00,21.00,CARDINAL,,,en,2.4000000000000004
 5.3,5.3,CARDINAL,,,en,2.4
 2023,2023,DATE,,,en,2.4
-2025,2025,DATE,,,en,2.4
-6.0,6.0,CARDINAL,,,en,2.4
 April 12,April 12,DATE,,,en,2.4
+4.7,4.7,CARDINAL,,,en,2.4
+|,|,DATE,,,en,2.4
+Above-zero,Above-zero,CARDINAL,,,en,2.4
+6.0,6.0,CARDINAL,,,en,2.4
+2025,2025,DATE,,,en,2.4
+monthly,monthly,DATE,,,en,2.3
 April 26,April 26,DATE,,,en,2.1999999999999997
+June 13,June 13,DATE,,,en,2.1
 March,March,DATE,,,en,2.1
 25,25,CARDINAL,,,en,2.0
-December 29,December 29,DATE,,,en,2.0
 dozens,dozens,CARDINAL,,,en,2.0
+December 29,December 29,DATE,,,en,2.0
 20,20,CARDINAL,,,en,2.0
 Soviet,Soviet,NORP,,,en,1.9000000000000001
-the Rossiya Theater,the Rossiya Theater,FAC,,,en,1.9
-10 degrees,10 degrees,QUANTITY,,,en,1.9
-Caspian,Caspian,NORP,,,en,1.9
-15,15,CARDINAL,,,en,1.9
-a day,a day,DATE,,,en,1.9
-at least 10,at least 10,CARDINAL,,,en,1.9
-"April 24, 2026","April 24, 2026",DATE,,,en,1.9
-"Tuesday, April 14","Tuesday, April 14",DATE,,,en,1.9
-More than 7 thousand,More than 7 thousand,CARDINAL,,,en,1.9
-three days,three days,DATE,,,en,1.9
-20 degrees,20 degrees,QUANTITY,,,en,1.9
-At least ten,At least ten,CARDINAL,,,en,1.9
-2008,2008,DATE,,,en,1.9
-48th,48th,ORDINAL,,,en,1.9
-50%,50%,PERCENT,,,en,1.9
-Chernihiv,Chernihiv,NORP,,,en,1.9
-Vance Air Force Base,Vance Air Force Base,FAC,,,en,1.9
-Greek,Greek,NORP,,,en,1.9
-7.4,7.4,CARDINAL,,,en,1.9
-Southern,Southern,NORP,,,en,1.9
-15-20 m/s,15-20 m/s,QUANTITY,,,en,1.9
 the Nürburgring 24 Hours,the Nürburgring 24 Hours,FAC,,,en,1.9
-April 1 to April 5,April 1 to April 5,DATE,,,en,1.9
-Sunday night,Sunday night,TIME,,,en,1.9
-this afternoon,this afternoon,TIME,,,en,1.9
-Anapa,Anapa,FAC,-0.17543859649122806,0.456140350877193,en,1.9
-before the end of April,before the end of April,DATE,,,en,1.9
-up to 3 meters,up to 3 meters,QUANTITY,,,en,1.9
-June,June,DATE,,,en,1.9
-4.9,4.9,CARDINAL,,,en,1.9
-Balkan,Balkan,NORP,,,en,1.9
-2026-06-04,2026-06-04,DATE,,,en,1.9
-32 km,32 km,QUANTITY,,,en,1.9
-day,day,DATE,,,en,1.9
-this night,this night,TIME,,,en,1.9
-30.3 degrees,30.3 degrees,QUANTITY,,,en,1.9
-26 degrees,26 degrees,QUANTITY,,,en,1.9
-Almost 60 thousand,Almost 60 thousand,CARDINAL,,,en,1.9
-22 degrees,22 degrees,QUANTITY,,,en,1.9
-the first days of April,the first days of April,DATE,,,en,1.9
-25 degrees,25 degrees,QUANTITY,,,en,1.9
-"Monday, April 27","Monday, April 27",DATE,,,en,1.9
-75 hectares,75 hectares,QUANTITY,,,en,1.9
-"April 13, 2026","April 13, 2026",DATE,,,en,1.9
-several kilometers,several kilometers,QUANTITY,,,en,1.9
-4.4,4.4,CARDINAL,,,en,1.9
-May 6,May 6,DATE,,,en,1.9
+Southern,Southern,NORP,,,en,1.9
+15,15,CARDINAL,,,en,1.9
+50%,50%,PERCENT,,,en,1.9
 May 9-11,May 9-11,DATE,,,en,1.9
-4.3,4.3,CARDINAL,,,en,1.9
-April 16,April 16,DATE,,,en,1.9
-10,10,CARDINAL,,,en,1.9
-+11 degrees,+11 degrees,QUANTITY,,,en,1.9
+"Tuesday, April 14","Tuesday, April 14",DATE,,,en,1.9
+Vance Air Force Base,Vance Air Force Base,FAC,,,en,1.9
+Sunday night,Sunday night,TIME,,,en,1.9
+Greek,Greek,NORP,,,en,1.9
+before the end of April,before the end of April,DATE,,,en,1.9
+Caspian,Caspian,NORP,,,en,1.9
+this night,this night,TIME,,,en,1.9
+15-20 m/s,15-20 m/s,QUANTITY,,,en,1.9
+25 degrees,25 degrees,QUANTITY,,,en,1.9
 15:00 to 21:00,15:00 to 21:00,TIME,,,en,1.9
-9-10 o’clock in the morning,9-10 o’clock in the morning,TIME,,,en,1.8
-Spring Storm 2026,Spring Storm 2026,WORK_OF_ART,,,en,1.8
-2 degrees,2 degrees,QUANTITY,,,en,1.8
-17,17,CARDINAL,,,en,1.8
-17 degrees,17 degrees,QUANTITY,,,en,1.8
-May 1,May 1,DATE,,,en,1.8
-Siberian,Siberian,NORP,,,en,1.8
-2011,2011,DATE,,,en,1.8
-May 9,May 9,DATE,,,en,1.8
-April 15,April 15,DATE,,,en,1.8
-Kevadtorm 2026,Kevadtorm 2026,EVENT,,,en,1.8
+10,10,CARDINAL,,,en,1.9
+4.4,4.4,CARDINAL,,,en,1.9
+April 16,April 16,DATE,,,en,1.9
+"April 24, 2026","April 24, 2026",DATE,,,en,1.9
+At least ten,At least ten,CARDINAL,,,en,1.9
+up to 3 meters,up to 3 meters,QUANTITY,,,en,1.9
+three days,three days,DATE,,,en,1.9
+More than 7 thousand,More than 7 thousand,CARDINAL,,,en,1.9
+the Rossiya Theater,the Rossiya Theater,FAC,,,en,1.9
+several kilometers,several kilometers,QUANTITY,,,en,1.9
+10 degrees,10 degrees,QUANTITY,,,en,1.9
+May 6,May 6,DATE,,,en,1.9
+a day,a day,DATE,,,en,1.9
+2008,2008,DATE,,,en,1.9
+"Monday, April 27","Monday, April 27",DATE,,,en,1.9
+Chernihiv,Chernihiv,NORP,,,en,1.9
+32 km,32 km,QUANTITY,,,en,1.9
+2026-06-04,2026-06-04,DATE,,,en,1.9
++11 degrees,+11 degrees,QUANTITY,,,en,1.9
+Anapa,Anapa,FAC,-0.17543859649122806,0.456140350877193,en,1.9
+4.3,4.3,CARDINAL,,,en,1.9
+day,day,DATE,,,en,1.9
+Balkan,Balkan,NORP,,,en,1.9
+4.9,4.9,CARDINAL,,,en,1.9
+48th,48th,ORDINAL,,,en,1.9
+30.3 degrees,30.3 degrees,QUANTITY,,,en,1.9
+this afternoon,this afternoon,TIME,,,en,1.9
+20 degrees,20 degrees,QUANTITY,,,en,1.9
+7.4,7.4,CARDINAL,,,en,1.9
+75 hectares,75 hectares,QUANTITY,,,en,1.9
+at least 10,at least 10,CARDINAL,,,en,1.9
+Almost 60 thousand,Almost 60 thousand,CARDINAL,,,en,1.9
+"April 13, 2026","April 13, 2026",DATE,,,en,1.9
+22 degrees,22 degrees,QUANTITY,,,en,1.9
+April 1 to April 5,April 1 to April 5,DATE,,,en,1.9
+the first days of April,the first days of April,DATE,,,en,1.9
+26 degrees,26 degrees,QUANTITY,,,en,1.9
 Wednesday evening,Wednesday evening,TIME,,,en,1.8
-the end of February,the end of February,DATE,,,en,1.8
-seven centimeters,seven centimeters,QUANTITY,,,en,1.8
-the night of April 10,the night of April 10,TIME,,,en,1.8
-16,16,CARDINAL,,,en,1.8
-1995,1995,DATE,,,en,1.8
-autumn,autumn,DATE,,,en,1.8
-the end of next week,the end of next week,DATE,,,en,1.8
-"December 12, 2025","December 12, 2025",DATE,,,en,1.8
-Venezuelan,Venezuelan,NORP,,,en,1.8
+31 degrees,31 degrees,QUANTITY,,,en,1.8
 6.5,6.5,CARDINAL,,,en,1.8
+2 degrees,2 degrees,QUANTITY,,,en,1.8
+Venezuelan,Venezuelan,NORP,,,en,1.8
+16,16,CARDINAL,,,en,1.8
+This week,This week,DATE,,,en,1.8
 more than a day,more than a day,DATE,,,en,1.8
-Christmas night,Christmas night,TIME,,,en,1.8
+the end of February,the end of February,DATE,,,en,1.8
+the end of next week,the end of next week,DATE,,,en,1.8
+May 9,May 9,DATE,,,en,1.8
 almost every day,almost every day,DATE,,,en,1.8
-the next week,the next week,DATE,,,en,1.8
-2,2,CARDINAL,,,en,1.8
-First,First,ORDINAL,,,en,1.8
-above-zero,above-zero,CARDINAL,,,en,1.8
-the middle of the week,the middle of the week,DATE,,,en,1.8
-31,31,CARDINAL,,,en,1.8
-several days,several days,DATE,,,en,1.8
-3 degrees,3 degrees,QUANTITY,,,en,1.8
 December,December,DATE,,,en,1.8
+May 15,May 15,DATE,,,en,1.8
+9-10 o’clock in the morning,9-10 o’clock in the morning,TIME,,,en,1.8
+May 1,May 1,DATE,,,en,1.8
+"December 12, 2025","December 12, 2025",DATE,,,en,1.8
+1-2 hours,1-2 hours,TIME,,,en,1.8
+31,31,CARDINAL,,,en,1.8
+April 15,April 15,DATE,,,en,1.8
+17,17,CARDINAL,,,en,1.8
+the night of April 10,the night of April 10,TIME,,,en,1.8
+Daytime,Daytime,TIME,,,en,1.8
+May 25,May 25,DATE,,,en,1.8
+20:00,20:00,TIME,,,en,1.8
+3 degrees,3 degrees,QUANTITY,,,en,1.8
+Siberian,Siberian,NORP,,,en,1.8
+autumn,autumn,DATE,,,en,1.8
+several days,several days,DATE,,,en,1.8
+seven centimeters,seven centimeters,QUANTITY,,,en,1.8
+above-zero,above-zero,CARDINAL,,,en,1.8
+Kevadtorm 2026,Kevadtorm 2026,EVENT,,,en,1.8
+the next week,the next week,DATE,,,en,1.8
 January 29,January 29,DATE,,,en,1.8
+17 degrees,17 degrees,QUANTITY,,,en,1.8
+First,First,ORDINAL,,,en,1.8
+2,2,CARDINAL,,,en,1.8
+2011,2011,DATE,,,en,1.8
+Spring Storm 2026,Spring Storm 2026,WORK_OF_ART,,,en,1.8
 January 26,January 26,DATE,,,en,1.8
+Christmas night,Christmas night,TIME,,,en,1.8
+the middle of the week,the middle of the week,DATE,,,en,1.8
 The Breakfast Show,The Breakfast Show,WORK_OF_ART,,,en,1.7000000000000002
-33,33,CARDINAL,,,en,1.7
-the third day,the third day,DATE,,,en,1.7
-Kursk,Kursk,PRODUCT,,,en,1.7
-April 8,April 8,DATE,,,en,1.7
-April 21,April 21,DATE,,,en,1.7
-4,4,CARDINAL,,,en,1.7
-the Hydrometeorological Center Lyudmila Parshina,the Hydrometeorological Center Lyudmila Parshina,FAC,,,en,1.7
-last night,last night,TIME,,,en,1.7
-May 21,May 21,DATE,,,en,1.7
-2026-21-05,2026-21-05,DATE,,,en,1.7
-April-May,April-May,DATE,,,en,1.7
-May 2026,May 2026,DATE,,,en,1.7
-June 2026,June 2026,DATE,,,en,1.7
-April 4,April 4,DATE,,,en,1.7
-eight degrees,eight degrees,QUANTITY,,,en,1.7
-May 20,May 20,DATE,,,en,1.7
-21,21,CARDINAL,,,en,1.7
-41,41,CARDINAL,,,en,1.7
 Vostok,Vostok,NORP,,,en,1.7
-140,140,CARDINAL,,,en,1.7
-approximately half,approximately half,CARDINAL,,,en,1.7
-This year,This year,DATE,,,en,1.7
-five days in a row,five days in a row,DATE,,,en,1.7
 the hottest year,the hottest year,DATE,,,en,1.7
-2:00,2:00,TIME,,,en,1.7
-hundreds of kilometers,hundreds of kilometers,QUANTITY,,,en,1.7
-May 12,May 12,DATE,,,en,1.7
-more than 74 kilometers,more than 74 kilometers,QUANTITY,,,en,1.7
-3.3,3.3,CARDINAL,,,en,1.7
 MLRS,MLRS,LAW,,,en,1.7
-a New Year's,a New Year's,DATE,,,en,1.7
-more than 7 thousand,more than 7 thousand,CARDINAL,,,en,1.7
-Magadan,Magadan,NORP,,,en,1.7
-February 5,February 5,DATE,,,en,1.7
-280,280,CARDINAL,,,en,1.7
-a month and a half,a month and a half,DATE,,,en,1.7
-45 days,45 days,DATE,,,en,1.7
-360.ru,360.ru,CARDINAL,,,en,1.7
-the night,the night,TIME,,,en,1.7
-thousands,thousands,CARDINAL,,,en,1.7
+May 12,May 12,DATE,,,en,1.7
+April 21,April 21,DATE,,,en,1.7
+approximately half,approximately half,CARDINAL,,,en,1.7
+the third day,the third day,DATE,,,en,1.7
+five days in a row,five days in a row,DATE,,,en,1.7
+the Hydrometeorological Center Lyudmila Parshina,the Hydrometeorological Center Lyudmila Parshina,FAC,,,en,1.7
+April 8,April 8,DATE,,,en,1.7
+April 4,April 4,DATE,,,en,1.7
 almost a week,almost a week,DATE,,,en,1.7
+3.3,3.3,CARDINAL,,,en,1.7
+45 days,45 days,DATE,,,en,1.7
+This year,This year,DATE,,,en,1.7
+eight degrees,eight degrees,QUANTITY,,,en,1.7
+360.ru,360.ru,CARDINAL,,,en,1.7
+thousands,thousands,CARDINAL,,,en,1.7
+280,280,CARDINAL,,,en,1.7
+41,41,CARDINAL,,,en,1.7
+Kursk,Kursk,PRODUCT,,,en,1.7
+33,33,CARDINAL,,,en,1.7
+140,140,CARDINAL,,,en,1.7
+the night,the night,TIME,,,en,1.7
+4,4,CARDINAL,,,en,1.7
+more than 74 kilometers,more than 74 kilometers,QUANTITY,,,en,1.7
+May 20,May 20,DATE,,,en,1.7
+2026-21-05,2026-21-05,DATE,,,en,1.7
+a month and a half,a month and a half,DATE,,,en,1.7
+122 years ago,122 years ago,DATE,,,en,1.7
+21,21,CARDINAL,,,en,1.7
+May 2026,May 2026,DATE,,,en,1.7
+2:00,2:00,TIME,,,en,1.7
+February 5,February 5,DATE,,,en,1.7
+a New Year's,a New Year's,DATE,,,en,1.7
+June 2026,June 2026,DATE,,,en,1.7
+April-May,April-May,DATE,,,en,1.7
+hundreds of kilometers,hundreds of kilometers,QUANTITY,,,en,1.7
+last night,last night,TIME,,,en,1.7
 4.5,4.5,CARDINAL,,,en,1.7
+Magadan,Magadan,NORP,,,en,1.7
+more than 7 thousand,more than 7 thousand,CARDINAL,,,en,1.7
+Three,Three,CARDINAL,,,en,1.6
 More than 20,More than 20,CARDINAL,,,en,1.6
-21.00,21.00,CARDINAL,,,en,1.6
+fourth,fourth,ORDINAL,,,en,1.3
+the lunar calendar,the lunar calendar,DATE,,,en,1.3
+New Year's,New Year's,EVENT,0.1803030303030303,0.9371212121212122,en,1.3
+14,14,DATE,,,en,1.3
+Italian,Italian,NORP,,,en,1.3
+the Moscow Railway,the Moscow Railway,FAC,,,en,1.3
+almost 500,almost 500,CARDINAL,,,en,1.3
+2026-13-05,2026-13-05,DATE,,,en,1.3
+Chapter 88,Chapter 88,LAW,,,en,1.3
+April 18,April 18,DATE,,,en,1.3
 Asian,Asian,NORP,,,en,1.3
 this summer,this summer,DATE,,,en,1.3
-2026-13-05,2026-13-05,DATE,,,en,1.3
 May 8,May 8,DATE,,,en,1.3
-Chapter 88,Chapter 88,LAW,,,en,1.3
-New Year's,New Year's,EVENT,0.1803030303030303,0.9371212121212122,en,1.3
-Italian,Italian,NORP,,,en,1.3
+the end of this week,the end of this week,DATE,,,en,1.3
+Flamingo,Flamingo,PRODUCT,,,en,1.3
+Slavs,Slavs,NORP,,,en,1.3
 Finnish,Finnish,NORP,,,en,1.3
-the Moscow Railway,the Moscow Railway,FAC,,,en,1.3
-Three,Three,CARDINAL,,,en,1.3
-April 18,April 18,DATE,,,en,1.3
 2026-12-02,2026-12-02,DATE,,,en,1.3
 500,500,CARDINAL,,,en,1.3
-14,14,DATE,,,en,1.3
-almost 500,almost 500,CARDINAL,,,en,1.3
-Flamingo,Flamingo,PRODUCT,,,en,1.3
-the lunar calendar,the lunar calendar,DATE,,,en,1.3
-Slavs,Slavs,NORP,,,en,1.3
-monthly,monthly,DATE,,,en,1.3
 2026-09-04,2026-09-04,DATE,,,en,1.2
 1,1,CARDINAL,,,en,1.1
-About 200 million years ago,About 200 million years ago,DATE,,,en,1.0
-the night of April 20,the night of April 20,TIME,,,en,1.0
-about 200 million years ago,about 200 million years ago,DATE,,,en,1.0
-50 meters,50 meters,QUANTITY,,,en,1.0
-83 kilometers,83 kilometers,QUANTITY,,,en,1.0
-2026-30-05,2026-30-05,DATE,,,en,1.0
-"April 27, 2026","April 27, 2026",DATE,,,en,1.0
-20.23 UTC,20.23 UTC,TIME,,,en,1.0
-1.6 thousand hectares,1.6 thousand hectares,QUANTITY,,,en,1.0
-festival,festival,EVENT,,,en,1.0
-Moscow International Film Festival,Moscow International Film Festival,EVENT,,,en,1.0
-the Moscow International Film Festival,the Moscow International Film Festival,EVENT,,,en,1.0
-Passion,Passion,WORK_OF_ART,,,en,1.0
-That year,That year,DATE,,,en,1.0
-The last few years,The last few years,DATE,,,en,1.0
-Savelovsky,Savelovsky,NORP,,,en,1.0
-decades,decades,DATE,,,en,1.0
-several thousand,several thousand,CARDINAL,,,en,1.0
-the Tornado-S MLRS,the Tornado-S MLRS,FAC,,,en,1.0
-six days in a row,six days in a row,DATE,,,en,1.0
-the night of April 27,the night of April 27,TIME,,,en,1.0
-May holidays,May holidays,DATE,,,en,1.0
-Tornado-S MLRS,Tornado-S MLRS,PRODUCT,,,en,1.0
+"May 25 to May 31, 2026","May 25 to May 31, 2026",DATE,,,en,1.0
 556 km,556 km,QUANTITY,,,en,1.0
-this season,this season,DATE,,,en,1.0
+midnight,midnight,TIME,,,en,1.0
+million,million,CARDINAL,,,en,1.0
+23.23,23.23,CARDINAL,,,en,1.0
 "Monday, April 27th","Monday, April 27th",DATE,,,en,1.0
+Almost a third,Almost a third,CARDINAL,,,en,1.0
+the Chinese Seismological Center,the Chinese Seismological Center,FAC,,,en,1.0
+yesterday,yesterday,DATE,,,en,1.0
 April 27,April 27,DATE,,,en,1.0
 30 kilometers,30 kilometers,QUANTITY,,,en,1.0
-2024,2024,DATE,,,en,1.0
-200%,200%,PERCENT,,,en,1.0
-Summer,Summer,DATE,,,en,1.0
-23.23,23.23,CARDINAL,,,en,1.0
-just fourteen days,just fourteen days,DATE,,,en,1.0
-15.10,15.10,CARDINAL,,,en,1.0
-1️⃣,1️⃣,CARDINAL,,,en,1.0
-14 cm,14 cm,QUANTITY,,,en,1.0
-Wednesday night,Wednesday night,TIME,,,en,1.0
-169 km,169 km,QUANTITY,,,en,1.0
-June 9,June 9,DATE,,,en,1.0
-15 meters,15 meters,QUANTITY,,,en,1.0
-Labor Day,Labor Day,DATE,,,en,1.0
-Siberians,Siberians,NORP,,,en,1.0
-2026-09-06,2026-09-06,DATE,,,en,1.0
-Exercise Spring Storm,Exercise Spring Storm,EVENT,,,en,1.0
-07:58 Sat,07:58 Sat,FAC,,,en,1.0
-the last 100 years,the last 100 years,DATE,,,en,1.0
-1708,1708,CARDINAL,,,en,1.0
-Seven,Seven,CARDINAL,,,en,1.0
-50 thousand,50 thousand,CARDINAL,,,en,1.0
-Almost 10 thousand,Almost 10 thousand,CARDINAL,,,en,1.0
-1221,1221,DATE,,,en,1.0
-up to 13 meters,up to 13 meters,QUANTITY,,,en,1.0
-rainy Friday,rainy Friday,DATE,,,en,1.0
-85 km,85 km,QUANTITY,,,en,1.0
-30,30,CARDINAL,,,en,1.0
-minus 3.6 degrees,minus 3.6 degrees,QUANTITY,,,en,1.0
+35 km,35 km,QUANTITY,,,en,1.0
 2-5 cm,2-5 cm,QUANTITY,,,en,1.0
-10:30 Sakhalin,10:30 Sakhalin,TIME,,,en,1.0
-7,7,CARDINAL,,,en,1.0
-up to plus,up to plus,CARDINAL,,,en,1.0
-13 degrees,13 degrees,QUANTITY,,,en,1.0
-Almost a century ago,Almost a century ago,DATE,,,en,1.0
-up to 7.7,up to 7.7,CARDINAL,,,en,1.0
-"about 3,000","about 3,000",CARDINAL,,,en,1.0
-winter months,winter months,DATE,,,en,1.0
-all-Russian,all-Russian,NORP,,,en,1.0
-This past weekend,This past weekend,DATE,,,en,1.0
-12 kilometers,12 kilometers,QUANTITY,,,en,1.0
-June 12,June 12,DATE,,,en,1.0
-7.7,7.7,CARDINAL,,,en,1.0
-two holidays,two holidays,DATE,,,en,1.0
-the warmest day of the week,the warmest day of the week,DATE,,,en,1.0
-nine-meter,nine-meter,QUANTITY,,,en,1.0
-Aleutian,Aleutian,NORP,,,en,1.0
-up to nine meters,up to nine meters,QUANTITY,,,en,1.0
+That year,That year,DATE,,,en,1.0
+the first minutes,the first minutes,TIME,,,en,1.0
+2024,2024,DATE,,,en,1.0
+14 cm,14 cm,QUANTITY,,,en,1.0
+The last few years,The last few years,DATE,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+2026-30-05,2026-30-05,DATE,,,en,1.0
+the night of May 29,the night of May 29,TIME,,,en,1.0
+1.6 thousand hectares,1.6 thousand hectares,QUANTITY,,,en,1.0
+May 27,May 27,DATE,,,en,1.0
+the night of April 20,the night of April 20,TIME,,,en,1.0
+about the first minutes,about the first minutes,TIME,,,en,1.0
+83 kilometers,83 kilometers,QUANTITY,,,en,1.0
+May 28 marks 31 years,May 28 marks 31 years,DATE,,,en,1.0
+1897,1897,DATE,,,en,1.0
+2026-31-05,2026-31-05,DATE,,,en,1.0
+20.23 UTC,20.23 UTC,TIME,,,en,1.0
+the first May holidays,the first May holidays,DATE,,,en,1.0
+six days in a row,six days in a row,DATE,,,en,1.0
+several thousand,several thousand,CARDINAL,,,en,1.0
+the Tornado-S MLRS,the Tornado-S MLRS,FAC,,,en,1.0
+the night of April 27,the night of April 27,TIME,,,en,1.0
+Tornado-S MLRS,Tornado-S MLRS,PRODUCT,,,en,1.0
+World War II,World War II,EVENT,,,en,1.0
+this season,this season,DATE,,,en,1.0
+"April 27, 2026","April 27, 2026",DATE,,,en,1.0
+200%,200%,PERCENT,,,en,1.0
+35 degrees,35 degrees,QUANTITY,,,en,1.0
+Nikolaevka Italians,Nikolaevka Italians,NORP,,,en,1.0
+just fourteen days,just fourteen days,DATE,,,en,1.0
+May holidays,May holidays,DATE,,,en,1.0
+This night,This night,TIME,,,en,1.0
+Rosneft,Rosneft,NORP,,,en,1.0
+about 200 million years ago,about 200 million years ago,DATE,,,en,1.0
+Syzran,Syzran,NORP,,,en,1.0
+About 200 million years ago,About 200 million years ago,DATE,,,en,1.0
+50 meters,50 meters,QUANTITY,,,en,1.0
+almost two dozen,almost two dozen,CARDINAL,,,en,1.0
+The Great Water Battle,The Great Water Battle,EVENT,,,en,1.0
+8,8,CARDINAL,,,en,1.0
+the Moscow International Film Festival,the Moscow International Film Festival,EVENT,,,en,1.0
+September,September,DATE,,,en,1.0
+two dozen,two dozen,CARDINAL,,,en,1.0
+15-17 m/s,15-17 m/s,QUANTITY,,,en,1.0
+Savelovsky,Savelovsky,NORP,,,en,1.0
+the last week,the last week,DATE,,,en,1.0
+1966,1966,DATE,,,en,1.0
+Passion,Passion,WORK_OF_ART,,,en,1.0
+the school year early,the school year early,DATE,,,en,1.0
+decades,decades,DATE,,,en,1.0
+such days,such days,DATE,,,en,1.0
+festival,festival,EVENT,,,en,1.0
+Eurasian,Eurasian,NORP,,,en,1.0
+Moscow International Film Festival,Moscow International Film Festival,EVENT,,,en,1.0
+Armenian,Armenian,NORP,,,en,1.0
+cool days,cool days,DATE,,,en,1.0
+the next day,the next day,DATE,,,en,1.0
+the Moscow Ring Road,the Moscow Ring Road,FAC,,,en,1.0
+May 13th,May 13th,DATE,,,en,1.0
+60 years ago,60 years ago,DATE,,,en,1.0
+the first hours,the first hours,TIME,,,en,1.0
+Sokurov | AIR,Sokurov | AIR,PRODUCT,,,en,1.0
+12-17 meters,12-17 meters,QUANTITY,,,en,1.0
+Up to a third,Up to a third,CARDINAL,,,en,1.0
+85 km,85 km,QUANTITY,,,en,1.0
+Sunday evening,Sunday evening,TIME,,,en,1.0
+June 14,June 14,DATE,,,en,1.0
+3:00,3:00,TIME,,,en,1.0
+up to 17 meters,up to 17 meters,QUANTITY,,,en,1.0
+three o'clock in the morning,three o'clock in the morning,TIME,,,en,1.0
+3 am,3 am,TIME,,,en,1.0
 several hours ago,several hours ago,TIME,,,en,1.0
 "Friday, April 24","Friday, April 24",DATE,,,en,1.0
 the Vance Air Force Base,the Vance Air Force Base,FAC,,,en,1.0
 at least 1,at least 1,CARDINAL,,,en,1.0
-1934,1934,DATE,,,en,1.0
-the Kabardino-Balkarian Republic,the Kabardino-Balkarian Republic,FAC,,,en,1.0
-Chegem,Chegem,NORP,,,en,1.0
-"April 26, 1966","April 26, 1966",DATE,,,en,1.0
-10 am,10 am,TIME,,,en,1.0
-8-9,8-9,QUANTITY,,,en,1.0
-Uzbek,Uzbek,NORP,,,en,1.0
-SSR,SSR,PRODUCT,,,en,1.0
-the first hours,the first hours,TIME,,,en,1.0
-60 years ago,60 years ago,DATE,,,en,1.0
-1966,1966,DATE,,,en,1.0
-midnight,midnight,TIME,,,en,1.0
-Almost a third,Almost a third,CARDINAL,,,en,1.0
-yesterday,yesterday,DATE,,,en,1.0
-2026-31-05,2026-31-05,DATE,,,en,1.0
-million,million,CARDINAL,,,en,1.0
-the Chinese Seismological Center,the Chinese Seismological Center,FAC,,,en,1.0
-1959,1959,DATE,,,en,1.0
-The Color of the Red Yaritsa,The Color of the Red Yaritsa,WORK_OF_ART,,,en,1.0
-1947,1947,DATE,,,en,1.0
-727.6 mm,727.6 mm,QUANTITY,,,en,1.0
 ten in the morning,ten in the morning,TIME,,,en,1.0
+recent days,recent days,DATE,,,en,1.0
 26th,26th,ORDINAL,,,en,1.0
 Party Congress,Party Congress,EVENT,,,en,1.0
 up to 29 m/s,up to 29 m/s,QUANTITY,,,en,1.0
+rainy Friday,rainy Friday,DATE,,,en,1.0
+2026-15-06,2026-15-06,DATE,,,en,1.0
+up to 13 meters,up to 13 meters,QUANTITY,,,en,1.0
+Seven,Seven,CARDINAL,,,en,1.0
+15 meters,15 meters,QUANTITY,,,en,1.0
+June 18,June 18,DATE,,,en,1.0
+Labor Day,Labor Day,DATE,,,en,1.0
+Siberians,Siberians,NORP,,,en,1.0
+2026-18-06,2026-18-06,DATE,,,en,1.0
+07:58 Sat,07:58 Sat,FAC,,,en,1.0
+"the week, June 17–20, 2026","the week, June 17–20, 2026",DATE,,,en,1.0
+the last 100 years,the last 100 years,DATE,,,en,1.0
+50 thousand,50 thousand,CARDINAL,,,en,1.0
+June 15,June 15,DATE,,,en,1.0
+19,19,CARDINAL,,,en,1.0
+June 17,June 17,DATE,,,en,1.0
+Almost 10 thousand,Almost 10 thousand,CARDINAL,,,en,1.0
+2026-17-06,2026-17-06,DATE,,,en,1.0
+️NEWS | BRIDGE,️NEWS | BRIDGE,TIME,,,en,1.0
+"June 17, 2026","June 17, 2026",DATE,,,en,1.0
+Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.0
+the beginning of autumn,the beginning of autumn,DATE,,,en,1.0
+"Thursday, June 11","Thursday, June 11",DATE,,,en,1.0
+June 11,June 11,DATE,,,en,1.0
 all day,all day,DATE,,,en,1.0
-Four,Four,CARDINAL,,,en,1.0
-June 1,June 1,DATE,,,en,1.0
-200-500 m,200-500 m,QUANTITY,,,en,1.0
+1221,1221,DATE,,,en,1.0
+The Color of the Red Yaritsa,The Color of the Red Yaritsa,WORK_OF_ART,,,en,1.0
+27 degrees Celsius,27 degrees Celsius,QUANTITY,,,en,1.0
+1959,1959,DATE,,,en,1.0
+1934,1934,DATE,,,en,1.0
+the Kabardino-Balkarian Republic,the Kabardino-Balkarian Republic,FAC,,,en,1.0
+Chegem,Chegem,NORP,,,en,1.0
+Exercise Spring Storm,Exercise Spring Storm,EVENT,,,en,1.0
+1708,1708,CARDINAL,,,en,1.0
+three years,three years,DATE,,,en,1.0
 the Lena Pillars,the Lena Pillars,FAC,,,en,1.0
+"April 26, 1966","April 26, 1966",DATE,,,en,1.0
+8-9,8-9,QUANTITY,,,en,1.0
+200-500 m,200-500 m,QUANTITY,,,en,1.0
+00:00 to 10:00,00:00 to 10:00,TIME,,,en,1.0
+Uzbek,Uzbek,NORP,,,en,1.0
+midnight to morning,midnight to morning,TIME,,,en,1.0
+SSR,SSR,PRODUCT,,,en,1.0
+10 am,10 am,TIME,,,en,1.0
+1947,1947,DATE,,,en,1.0
+1/5,1/5,CARDINAL,,,en,1.0
+Four,Four,CARDINAL,,,en,1.0
+"Wednesday, June 10","Wednesday, June 10",DATE,,,en,1.0
+33 degrees Celsius,33 degrees Celsius,QUANTITY,,,en,1.0
+the long weekend,the long weekend,DATE,,,en,1.0
+Almost a century ago,Almost a century ago,DATE,,,en,1.0
+all-Russian,all-Russian,NORP,,,en,1.0
+June 12,June 12,DATE,,,en,1.0
+two holidays,two holidays,DATE,,,en,1.0
+727.6 mm,727.6 mm,QUANTITY,,,en,1.0
+29-31 degrees Celsius,29-31 degrees Celsius,QUANTITY,,,en,1.0
+June 9,June 9,DATE,,,en,1.0
+about 10,about 10,CARDINAL,,,en,1.0
 Constitution,Constitution,LAW,,,en,1.0
 2026-25-04,2026-25-04,DATE,,,en,1.0
-00:00 to 10:00,00:00 to 10:00,TIME,,,en,1.0
 10 minutes,10 minutes,TIME,,,en,1.0
+2026-09-06,2026-09-06,DATE,,,en,1.0
+around 30 degrees,around 30 degrees,QUANTITY,,,en,1.0
+1️⃣,1️⃣,CARDINAL,,,en,1.0
+28 degrees,28 degrees,QUANTITY,,,en,1.0
 year 1953,year 1953,DATE,,,en,1.0
-1/5,1/5,CARDINAL,,,en,1.0
-midnight to morning,midnight to morning,TIME,,,en,1.0
-the first May holidays,the first May holidays,DATE,,,en,1.0
-the first day of May,the first day of May,DATE,,,en,1.0
-the next day,the next day,DATE,,,en,1.0
-May 10,May 10,DATE,,,en,1.0
+June 1,June 1,DATE,,,en,1.0
+the night of April 30,the night of April 30,TIME,,,en,1.0
+Troll,Troll,PRODUCT,,,en,1.0
+the best days,the best days,DATE,,,en,1.0
+May 15 to 18,May 15 to 18,DATE,,,en,1.0
+the end of the working week,the end of the working week,DATE,,,en,1.0
+234 kilometers,234 kilometers,QUANTITY,,,en,1.0
+Attu Station,Attu Station,FAC,,,en,1.0
+Thirty-degree,Thirty-degree,QUANTITY,,,en,1.0
+the beginning of summer,the beginning of summer,DATE,,,en,1.0
+early summer,early summer,DATE,,,en,1.0
+12 noon,12 noon,TIME,,,en,1.0
+12:00,12:00,TIME,,,en,1.0
+15 m/s,15 m/s,QUANTITY,,,en,1.0
+the main month,the main month,DATE,,,en,1.0
+the coming weekend,the coming weekend,DATE,,,en,1.0
+midday,midday,TIME,,,en,1.0
+23 degrees,23 degrees,QUANTITY,,,en,1.0
+21 degrees,21 degrees,QUANTITY,,,en,1.0
+the beginning of the year - the,the beginning of the year - the,DATE,,,en,1.0
+22:00,22:00,TIME,,,en,1.0
+"Today, May 7, 2026","Today, May 7, 2026",DATE,,,en,1.0
+the evening of Wednesday,the evening of Wednesday,TIME,,,en,1.0
+the next few hours,the next few hours,TIME,,,en,1.0
+5:00,5:00,TIME,,,en,1.0
+Fob,Fob,PRODUCT,,,en,1.0
+Every day,Every day,DATE,,,en,1.0
+The Belarus Cup,The Belarus Cup,EVENT,,,en,1.0
+the Belarus Cup,the Belarus Cup,EVENT,,,en,1.0
+the Garden Ring,the Garden Ring,FAC,,,en,1.0
+more than three million barrels,more than three million barrels,QUANTITY,,,en,1.0
+about half,about half,CARDINAL,,,en,1.0
++31 degrees,+31 degrees,QUANTITY,,,en,1.0
+mid-May,mid-May,DATE,,,en,1.0
+about 250 hectares,about 250 hectares,QUANTITY,,,en,1.0
+1986,1986,DATE,,,en,1.0
+more than a century ago,more than a century ago,DATE,,,en,1.0
+"February 11, 1992","February 11, 1992",DATE,,,en,1.0
+the early 90s,the early 90s,DATE,,,en,1.0
+early May,early May,DATE,,,en,1.0
+a tough week,a tough week,DATE,,,en,1.0
+Mirrored Glasses,Mirrored Glasses,WORK_OF_ART,,,en,1.0
+every 10–15 years,every 10–15 years,DATE,,,en,1.0
+Moscow Region,Moscow Region,WORK_OF_ART,,,en,1.0
+18:30,18:30,TIME,,,en,1.0
+"more than 1,000 hectares","more than 1,000 hectares",QUANTITY,,,en,1.0
+the 42nd year,the 42nd year,DATE,,,en,1.0
+"1,449 hours","1,449 hours",TIME,,,en,1.0
+02:34 UTC time,02:34 UTC time,TIME,,,en,1.0
+May 13,May 13,DATE,,,en,1.0
+Late in the evening,Late in the evening,TIME,,,en,1.0
+​​about 1.2 thousand hectares,​​about 1.2 thousand hectares,QUANTITY,,,en,1.0
+​​which,​​which,FAC,0.11278195488721804,0.22556390977443608,en,1.0
+Superjets,Superjets,NORP,,,en,1.0
 "1,200 hectares","1,200 hectares",QUANTITY,,,en,1.0
 the night of May 13,the night of May 13,TIME,,,en,1.0
-This night,This night,TIME,,,en,1.0
 half-million dollar,half-million dollar,MONEY,,,en,1.0
-FIRST,FIRST,ORDINAL,,,en,1.0
-May 13th,May 13th,DATE,,,en,1.0
-Kremlin,Kremlin,FAC,,,en,1.0
-Dnepropetrovsk,Dnepropetrovsk,NORP,-0.17647058823529413,0.23529411764705885,en,1.0
-at least eight,at least eight,CARDINAL,,,en,1.0
-the Laboratory of Solar Astronomy IKI,the Laboratory of Solar Astronomy IKI,FAC,,,en,1.0
-almost winter,almost winter,DATE,,,en,1.0
-midday,midday,TIME,,,en,1.0
-approximately 16 km,approximately 16 km,QUANTITY,,,en,1.0
+"​​more than 1,100 hectares","​​more than 1,100 hectares",QUANTITY,,,en,1.0
 "more than 6,500 hours","more than 6,500 hours",TIME,,,en,1.0
-"1,449 hours","1,449 hours",TIME,,,en,1.0
-Superjets,Superjets,NORP,,,en,1.0
-Late in the evening,Late in the evening,TIME,,,en,1.0
-Rosneft,Rosneft,NORP,,,en,1.0
-May 13,May 13,DATE,,,en,1.0
-"May 14–16, 2026","May 14–16, 2026",DATE,,,en,1.0
-+27 °,+27 °,QUANTITY,,,en,1.0
-23 degrees,23 degrees,QUANTITY,,,en,1.0
-Nikolaevka Italians,Nikolaevka Italians,NORP,,,en,1.0
-​​which,​​which,FAC,0.11278195488721804,0.22556390977443608,en,1.0
-​​about 1.2 thousand hectares,​​about 1.2 thousand hectares,QUANTITY,,,en,1.0
-02:34 UTC time,02:34 UTC time,TIME,,,en,1.0
-cool days,cool days,DATE,,,en,1.0
-the calendar summer,the calendar summer,DATE,,,en,1.0
-one thousand hectares,one thousand hectares,QUANTITY,,,en,1.0
-more than 1.1 thousand,more than 1.1 thousand,CARDINAL,,,en,1.0
-8,8,CARDINAL,,,en,1.0
+approximately 16 km,approximately 16 km,QUANTITY,,,en,1.0
+FIRST,FIRST,ORDINAL,,,en,1.0
+almost winter,almost winter,DATE,,,en,1.0
+May 10,May 10,DATE,,,en,1.0
+the Laboratory of Solar Astronomy IKI,the Laboratory of Solar Astronomy IKI,FAC,,,en,1.0
+at least eight,at least eight,CARDINAL,,,en,1.0
+Dnepropetrovsk,Dnepropetrovsk,NORP,-0.17647058823529413,0.23529411764705885,en,1.0
+the night of May 10,the night of May 10,TIME,,,en,1.0
+"​​1,100 hectares","​​1,100 hectares",QUANTITY,,,en,1.0
+"more than 1,100 hectares","more than 1,100 hectares",QUANTITY,,,en,1.0
 Neptune,Neptune,PRODUCT,0.0611111111111111,0.22222222222222224,en,1.0
-The Great Water Battle,The Great Water Battle,EVENT,,,en,1.0
+more than half,more than half,CARDINAL,,,en,1.0
+a century ago,a century ago,DATE,,,en,1.0
+five-day,five-day,DATE,,,en,1.0
+the calendar summer,the calendar summer,DATE,,,en,1.0
+the night of May 15,the night of May 15,TIME,,,en,1.0
++27 °,+27 °,QUANTITY,,,en,1.0
+more than 1.1 thousand,more than 1.1 thousand,CARDINAL,,,en,1.0
+"May 14–16, 2026","May 14–16, 2026",DATE,,,en,1.0
 more than 4.3 thousand,more than 4.3 thousand,CARDINAL,,,en,1.0
+the USSR Gosatomnadzor,the USSR Gosatomnadzor,FAC,,,en,1.0
 "4,385","4,385",CARDINAL,,,en,1.0
 44,44,CARDINAL,,,en,1.0
 May 2,May 2,DATE,,,en,1.0
+up to 15 meters,up to 15 meters,QUANTITY,,,en,1.0
 40,40,CARDINAL,,,en,1.0
 more than a thousand hectares,more than a thousand hectares,QUANTITY,,,en,1.0
 early spring,early spring,DATE,,,en,1.0
-almost two dozen,almost two dozen,CARDINAL,,,en,1.0
 just 16–25 days,just 16–25 days,DATE,,,en,1.0
-the USSR Gosatomnadzor,the USSR Gosatomnadzor,FAC,,,en,1.0
-"​​1,100 hectares","​​1,100 hectares",QUANTITY,,,en,1.0
-"​​more than 1,100 hectares","​​more than 1,100 hectares",QUANTITY,,,en,1.0
-the night of May 10,the night of May 10,TIME,,,en,1.0
-World War II,World War II,EVENT,,,en,1.0
-May 15,May 15,DATE,,,en,1.0
-12:00,12:00,TIME,,,en,1.0
-five-day,five-day,DATE,,,en,1.0
-"May 20 to 22, 2026","May 20 to 22, 2026",DATE,,,en,1.0
-24 kilometers,24 kilometers,QUANTITY,,,en,1.0
-May 18 to 21,May 18 to 21,DATE,,,en,1.0
-May 19-21,May 19-21,DATE,,,en,1.0
-28 °,28 °,QUANTITY,,,en,1.0
-1897,1897,DATE,,,en,1.0
-more than a thousand,more than a thousand,CARDINAL,,,en,1.0
-"about 1,075","about 1,075",CARDINAL,,,en,1.0
-32 degrees,32 degrees,QUANTITY,,,en,1.0
-May 18 to 22,May 18 to 22,DATE,,,en,1.0
-the last 24 hours,the last 24 hours,TIME,,,en,1.0
-"May 18–19, 2026 due","May 18–19, 2026 due",DATE,,,en,1.0
-12 noon,12 noon,TIME,,,en,1.0
-3 hectares,3 hectares,QUANTITY,,,en,1.0
-three-day,three-day,DATE,,,en,1.0
-the end of spring,the end of spring,DATE,,,en,1.0
-summer 2026,summer 2026,DATE,,,en,1.0
-the next 7 days,the next 7 days,DATE,,,en,1.0
+May 5,May 5,DATE,,,en,1.0
+18:00,18:00,TIME,,,en,1.0
+Dynamo Minsk,Dynamo Minsk,NORP,,,en,1.0
 This coming weekend,This coming weekend,DATE,,,en,1.0
-Daytime,Daytime,TIME,,,en,1.0
-up to 30,up to 30,CARDINAL,,,en,1.0
-"May 18, 2026","May 18, 2026",DATE,,,en,1.0
-30.5 degrees Celsius,30.5 degrees Celsius,QUANTITY,,,en,1.0
-tomorrow,tomorrow,DATE,,,en,1.0
-two dozen,two dozen,CARDINAL,,,en,1.0
-the daytime hours,the daytime hours,TIME,,,en,1.0
-15-17 m/s,15-17 m/s,QUANTITY,,,en,1.0
-Syzran,Syzran,NORP,,,en,1.0
-31 degrees,31 degrees,QUANTITY,,,en,1.0
-Thirty-degree,Thirty-degree,QUANTITY,,,en,1.0
-the end of the working week,the end of the working week,DATE,,,en,1.0
-May 15 to 18,May 15 to 18,DATE,,,en,1.0
-1986,1986,DATE,,,en,1.0
-Mirrored Glasses,Mirrored Glasses,WORK_OF_ART,,,en,1.0
-a tough week,a tough week,DATE,,,en,1.0
-the early 90s,the early 90s,DATE,,,en,1.0
-"February 11, 1992","February 11, 1992",DATE,,,en,1.0
-more than a century ago,more than a century ago,DATE,,,en,1.0
-35 degrees,35 degrees,QUANTITY,,,en,1.0
-Fob,Fob,PRODUCT,,,en,1.0
-the school year early,the school year early,DATE,,,en,1.0
-mid-May,mid-May,DATE,,,en,1.0
-+31 degrees,+31 degrees,QUANTITY,,,en,1.0
-the Garden Ring,the Garden Ring,FAC,,,en,1.0
-the last week,the last week,DATE,,,en,1.0
-the second half of Sunday,the second half of Sunday,DATE,,,en,1.0
-Monday to Saturday,Monday to Saturday,DATE,,,en,1.0
-penultimate,penultimate,ORDINAL,,,en,1.0
-Armenian,Armenian,NORP,,,en,1.0
-a century ago,a century ago,DATE,,,en,1.0
-three years,three years,DATE,,,en,1.0
-17 hectares,17 hectares,QUANTITY,,,en,1.0
+1 thousand,1 thousand,CARDINAL,,,en,1.0
 more than 8 thousand,more than 8 thousand,CARDINAL,,,en,1.0
 over a thousand,over a thousand,CARDINAL,,,en,1.0
+30.5 degrees Celsius,30.5 degrees Celsius,QUANTITY,,,en,1.0
 About eight thousand,About eight thousand,CARDINAL,,,en,1.0
-May 28 marks 31 years,May 28 marks 31 years,DATE,,,en,1.0
-the Heat Music Awards,the Heat Music Awards,WORK_OF_ART,,,en,1.0
+"May 18, 2026","May 18, 2026",DATE,,,en,1.0
+up to 30,up to 30,CARDINAL,,,en,1.0
+the first day of May,the first day of May,DATE,,,en,1.0
+the next 7 days,the next 7 days,DATE,,,en,1.0
+2026-30-04,2026-30-04,DATE,,,en,1.0
+summer 2026,summer 2026,DATE,,,en,1.0
 20-30 liters,20-30 liters,QUANTITY,,,en,1.0
 the Esaulovskaya Loop,the Esaulovskaya Loop,FAC,,,en,1.0
-17 seconds,17 seconds,TIME,,,en,1.0
 ​​three and a half hectares,​​three and a half hectares,DATE,,,en,1.0
 70 kilometers,70 kilometers,QUANTITY,,,en,1.0
+17 hectares,17 hectares,QUANTITY,,,en,1.0
 May.,May.,DATE,,,en,1.0
-26,26,CARDINAL,,,en,1.0
 Fog,Fog,WORK_OF_ART,,,en,1.0
-thousands of kilometers,thousands of kilometers,QUANTITY,,,en,1.0
-Himalayas,Himalayas,NORP,,,en,1.0
-2026-03-05,2026-03-05,DATE,,,en,1.0
-May 3,May 3,DATE,,,en,1.0
-334,334,CARDINAL,,,en,1.0
-overnight,overnight,TIME,,,en,1.0
-60,60,CARDINAL,,,en,1.0
-10 hectares,10 hectares,QUANTITY,,,en,1.0
-35 km,35 km,QUANTITY,,,en,1.0
-1 thousand,1 thousand,CARDINAL,,,en,1.0
 8 thousand,8 thousand,CARDINAL,,,en,1.0
-2026-30-04,2026-30-04,DATE,,,en,1.0
 the Breakfast Show,the Breakfast Show,FAC,,,en,1.0
-Troll,Troll,PRODUCT,,,en,1.0
-the night of May 29,the night of May 29,TIME,,,en,1.0
-the 42nd year,the 42nd year,DATE,,,en,1.0
+the second half of Sunday,the second half of Sunday,DATE,,,en,1.0
+minus four degrees,minus four degrees,QUANTITY,,,en,1.0
 the summer of 2025,the summer of 2025,DATE,,,en,1.0
-the first minutes,the first minutes,TIME,,,en,1.0
 117,117,CARDINAL,,,en,1.0
 1700s,1700s,DATE,,,en,1.0
+"May 20 to 22, 2026","May 20 to 22, 2026",DATE,,,en,1.0
+the Heat Music Awards,the Heat Music Awards,WORK_OF_ART,,,en,1.0
 the Collapse of Persia,the Collapse of Persia,FAC,,,en,1.0
 1721–1725,1721–1725,CARDINAL,,,en,1.0
-the night of April 30,the night of April 30,TIME,,,en,1.0
-minus four degrees,minus four degrees,QUANTITY,,,en,1.0
+Kremlin,Kremlin,FAC,,,en,1.0
 this coming night,this coming night,TIME,,,en,1.0
+"April 30, 2026","April 30, 2026",DATE,,,en,1.0
 April 29,April 29,DATE,,,en,1.0
 "May 1, 2026","May 1, 2026",DATE,,,en,1.0
+15.10,15.10,CARDINAL,,,en,1.0
 May 2 and 3,May 2 and 3,DATE,,,en,1.0
 The end of spring,The end of spring,DATE,,,en,1.0
 only one,only one,CARDINAL,,,en,1.0
 10%,10%,PERCENT,,,en,1.0
-about the first minutes,about the first minutes,TIME,,,en,1.0
 The end of April,The end of April,DATE,,,en,1.0
-"April 30, 2026","April 30, 2026",DATE,,,en,1.0
-112,112,CARDINAL,,,en,1.0
-next weekend,next weekend,DATE,,,en,1.0
-more than half,more than half,CARDINAL,,,en,1.0
-the main month,the main month,DATE,,,en,1.0
-the evening of Wednesday,the evening of Wednesday,TIME,,,en,1.0
-234 kilometers,234 kilometers,QUANTITY,,,en,1.0
-"May 25 to May 31, 2026","May 25 to May 31, 2026",DATE,,,en,1.0
-Attu Station,Attu Station,FAC,,,en,1.0
-the beginning of summer,the beginning of summer,DATE,,,en,1.0
-September,September,DATE,,,en,1.0
-the Moscow Ring Road,the Moscow Ring Road,FAC,,,en,1.0
-early summer,early summer,DATE,,,en,1.0
-the best days,the best days,DATE,,,en,1.0
-the end of this week,the end of this week,DATE,,,en,1.0
-the coming weekend,the coming weekend,DATE,,,en,1.0
-the first month of summer,the first month of summer,DATE,,,en,1.0
-21 degrees,21 degrees,QUANTITY,,,en,1.0
-the beginning of the year - the,the beginning of the year - the,DATE,,,en,1.0
-such days,such days,DATE,,,en,1.0
-22:00,22:00,TIME,,,en,1.0
-"Today, May 7, 2026","Today, May 7, 2026",DATE,,,en,1.0
-18:30,18:30,TIME,,,en,1.0
-Eurasian,Eurasian,NORP,,,en,1.0
-5:00,5:00,TIME,,,en,1.0
-"more than 1,000 hectares","more than 1,000 hectares",QUANTITY,,,en,1.0
-"more than 1,100 hectares","more than 1,100 hectares",QUANTITY,,,en,1.0
-15 m/s,15 m/s,QUANTITY,,,en,1.0
-the next few hours,the next few hours,TIME,,,en,1.0
-Moscow Region,Moscow Region,WORK_OF_ART,,,en,1.0
-every 10–15 years,every 10–15 years,DATE,,,en,1.0
-15.00,15.00,CARDINAL,,,en,1.0
-338 km,338 km,QUANTITY,,,en,1.0
-Cuban,Cuban,NORP,,,en,1.0
+thousands of kilometers,thousands of kilometers,QUANTITY,,,en,1.0
+Himalayas,Himalayas,NORP,,,en,1.0
+2026-03-05,2026-03-05,DATE,,,en,1.0
+May 18 to 21,May 18 to 21,DATE,,,en,1.0
+21.1 mm,21.1 mm,QUANTITY,,,en,1.0
+55%,55%,PERCENT,,,en,1.0
 Cubans,Cubans,NORP,,,en,1.0
 approximately 7%,approximately 7%,PERCENT,,,en,1.0
 the next month,the next month,DATE,,,en,1.0
+34 mm,34 mm,QUANTITY,,,en,1.0
 more than 12 thousand,more than 12 thousand,CARDINAL,,,en,1.0
 Annual,Annual,DATE,,,en,1.0
 year,year,DATE,,,en,1.0
-May 25,May 25,DATE,,,en,1.0
+May 3,May 3,DATE,,,en,1.0
+24 kilometers,24 kilometers,QUANTITY,,,en,1.0
+tomorrow,tomorrow,DATE,,,en,1.0
+the daytime hours,the daytime hours,TIME,,,en,1.0
 May 4 to June 1,May 4 to June 1,DATE,,,en,1.0
+penultimate,penultimate,ORDINAL,,,en,1.0
 Spring Storm,Spring Storm,WORK_OF_ART,,,en,1.0
+Monday to Saturday,Monday to Saturday,DATE,,,en,1.0
 12 thousand,12 thousand,CARDINAL,,,en,1.0
-the next hour,the next hour,TIME,,,en,1.0
-18:00,18:00,TIME,,,en,1.0
-May 5,May 5,DATE,,,en,1.0
-Every day,Every day,DATE,,,en,1.0
-more than three million barrels,more than three million barrels,QUANTITY,,,en,1.0
-about half,about half,CARDINAL,,,en,1.0
-about 250 hectares,about 250 hectares,QUANTITY,,,en,1.0
-early May,early May,DATE,,,en,1.0
+Cuban,Cuban,NORP,,,en,1.0
+May 19-21,May 19-21,DATE,,,en,1.0
+28 °,28 °,QUANTITY,,,en,1.0
+338 km,338 km,QUANTITY,,,en,1.0
+334,334,CARDINAL,,,en,1.0
+the end of spring,the end of spring,DATE,,,en,1.0
+three-day,three-day,DATE,,,en,1.0
+overnight,overnight,TIME,,,en,1.0
+60,60,CARDINAL,,,en,1.0
+10 hectares,10 hectares,QUANTITY,,,en,1.0
+112,112,CARDINAL,,,en,1.0
+26,26,CARDINAL,,,en,1.0
+3 hectares,3 hectares,QUANTITY,,,en,1.0
+next weekend,next weekend,DATE,,,en,1.0
+"May 18–19, 2026 due","May 18–19, 2026 due",DATE,,,en,1.0
+the last 24 hours,the last 24 hours,TIME,,,en,1.0
+32 degrees,32 degrees,QUANTITY,,,en,1.0
+"about 1,075","about 1,075",CARDINAL,,,en,1.0
+the first month of summer,the first month of summer,DATE,,,en,1.0
+more than a thousand,more than a thousand,CARDINAL,,,en,1.0
+15.00,15.00,CARDINAL,,,en,1.0
+one thousand hectares,one thousand hectares,QUANTITY,,,en,1.0
 the night of November 18,the night of November 18,TIME,,,en,1.0
-23 m/s,23 m/s,QUANTITY,,,en,1.0
-14 centimeters,14 centimeters,QUANTITY,,,en,1.0
-"January 26, 2026","January 26, 2026",DATE,,,en,1.0
-winter heat,winter heat,WORK_OF_ART,,,en,1.0
-up to 5 mm,up to 5 mm,QUANTITY,,,en,1.0
-the following days,the following days,DATE,,,en,1.0
-Day 93,Day 93,DATE,,,en,1.0
-Chilean,Chilean,NORP,,,en,1.0
+169 km,169 km,QUANTITY,,,en,1.0
 A day,A day,DATE,,,en,1.0
-3 years,3 years,DATE,,,en,1.0
 10 - 72,10 - 72,DATE,,,en,1.0
 Day 92,Day 92,DATE,,,en,1.0
 Sertolovo,Sertolovo,NORP,0.0,0.0,en,1.0
+"January 26, 2026","January 26, 2026",DATE,,,en,1.0
 2026-26-01,2026-26-01,DATE,,,en,1.0
-more than 30,more than 30,CARDINAL,,,en,1.0
 At least 423,At least 423,CARDINAL,,,en,1.0
 General Frost,General Frost,WORK_OF_ART,,,en,1.0
 "7,325","7,325",CARDINAL,,,en,1.0
@@ -652,22 +674,24 @@ the early Middle Ages,the early Middle Ages,DATE,,,en,1.0
 July 26,July 26,DATE,,,en,1.0
 the tenth day,the tenth day,DATE,,,en,1.0
 ten days,ten days,DATE,,,en,1.0
-about -46 degrees,about -46 degrees,QUANTITY,,,en,1.0
-Novokuznetsk,Novokuznetsk,NORP,,,en,1.0
-SANTA CLAUS SHOPPED,SANTA CLAUS SHOPPED,WORK_OF_ART,,,en,1.0
-"the morning of Thursday, January 15","the morning of Thursday, January 15",TIME,,,en,1.0
-May 2025,May 2025,DATE,,,en,1.0
-2026-12-01,2026-12-01,DATE,,,en,1.0
-January 12,January 12,DATE,,,en,1.0
-the first working day,the first working day,DATE,,,en,1.0
+"Thursday, January 29","Thursday, January 29",DATE,,,en,1.0
+days,days,DATE,,,en,1.0
+months,months,DATE,,,en,1.0
+years,years,DATE,,,en,1.0
+February,February,DATE,,,en,1.0
+February 4,February 4,DATE,,,en,1.0
+4–9 m/s,4–9 m/s,MONEY,,,en,1.0
+14 m/s,14 m/s,MONEY,,,en,1.0
+3 years,3 years,DATE,,,en,1.0
+Chilean,Chilean,NORP,,,en,1.0
 the holidays,the holidays,DATE,,,en,1.0
-43 centimeters,43 centimeters,QUANTITY,,,en,1.0
+Day 93,Day 93,DATE,,,en,1.0
 the beginning of winter,the beginning of winter,DATE,,,en,1.0
 the fifth day,the fifth day,DATE,,,en,1.0
 700 m,700 m,QUANTITY,,,en,1.0
 "the evening of Wednesday, January 14","the evening of Wednesday, January 14",TIME,,,en,1.0
+"the morning of Thursday, January 15","the morning of Thursday, January 15",TIME,,,en,1.0
 "Wednesday, January 14","Wednesday, January 14",DATE,,,en,1.0
-January 19,January 19,DATE,,,en,1.0
 January 15,January 15,DATE,,,en,1.0
 several tens of millions,several tens of millions,MONEY,,,en,1.0
 "20,000 rubles","20,000 rubles",MONEY,,,en,1.0
@@ -678,22 +702,20 @@ every month,every month,DATE,,,en,1.0
 January 15th,January 15th,DATE,,,en,1.0
 Millions,Millions,CARDINAL,,,en,1.0
 2026-19-01,2026-19-01,DATE,,,en,1.0
-"Thursday, January 29","Thursday, January 29",DATE,,,en,1.0
-days,days,DATE,,,en,1.0
-months,months,DATE,,,en,1.0
-below zero,below zero,CARDINAL,,,en,1.0
-February 12 to 10:00,February 12 to 10:00,DATE,,,en,1.0
-up to a third,up to a third,CARDINAL,,,en,1.0
-"Thursday, February 12","Thursday, February 12",DATE,,,en,1.0
-French,French,NORP,,,en,1.0
-iCaur,iCaur,PRODUCT,,,en,1.0
-1961,1961,DATE,,,en,1.0
-264,264,CARDINAL,,,en,1.0
-the previous five decades,the previous five decades,DATE,,,en,1.0
-4 years,4 years,DATE,,,en,1.0
+January 19,January 19,DATE,,,en,1.0
+Novokuznetsk,Novokuznetsk,NORP,,,en,1.0
+more than 30,more than 30,CARDINAL,,,en,1.0
+about -46 degrees,about -46 degrees,QUANTITY,,,en,1.0
+winter heat,winter heat,WORK_OF_ART,,,en,1.0
+up to 5 mm,up to 5 mm,QUANTITY,,,en,1.0
+the following days,the following days,DATE,,,en,1.0
+nightfall,nightfall,TIME,,,en,1.0
+200–700 m,200–700 m,QUANTITY,,,en,1.0
+the first half of the day,the first half of the day,DATE,,,en,1.0
+"Wednesday, February 4","Wednesday, February 4",DATE,,,en,1.0
 four years ago,four years ago,DATE,,,en,1.0
+below zero,below zero,CARDINAL,,,en,1.0
 20th century,20th century,DATE,,,en,1.0
-years,years,DATE,,,en,1.0
 61 cm,61 cm,QUANTITY,,,en,1.0
 ten,ten,CARDINAL,,,en,1.0
 only 4,only 4,CARDINAL,,,en,1.0
@@ -704,18 +726,20 @@ minus 26 degrees,minus 26 degrees,QUANTITY,,,en,1.0
 "the morning of Wednesday, February 18","the morning of Wednesday, February 18",TIME,,,en,1.0
 minus 10 degrees,minus 10 degrees,QUANTITY,,,en,1.0
 the night of February 19,the night of February 19,TIME,,,en,1.0
-9:00,9:00,TIME,,,en,1.0
-"Wednesday, February 11","Wednesday, February 11",DATE,,,en,1.0
-February 12 to 13,February 12 to 13,DATE,,,en,1.0
-season - winter,season - winter,DATE,,,en,1.0
-February,February,DATE,,,en,1.0
-February 4,February 4,DATE,,,en,1.0
-4–9 m/s,4–9 m/s,MONEY,,,en,1.0
-14 m/s,14 m/s,MONEY,,,en,1.0
-nightfall,nightfall,TIME,,,en,1.0
-200–700 m,200–700 m,QUANTITY,,,en,1.0
-the first half of the day,the first half of the day,DATE,,,en,1.0
-"Wednesday, February 4","Wednesday, February 4",DATE,,,en,1.0
+"February 20, 2026","February 20, 2026",DATE,,,en,1.0
+SANTA CLAUS SHOPPED,SANTA CLAUS SHOPPED,WORK_OF_ART,,,en,1.0
+German,German,NORP,,,en,1.0
+minus 7 degrees,minus 7 degrees,QUANTITY,,,en,1.0
+More than half,More than half,CARDINAL,,,en,1.0
+the last winter month,the last winter month,DATE,,,en,1.0
+the past 24 hours,the past 24 hours,TIME,,,en,1.0
+28 millimeters,28 millimeters,QUANTITY,,,en,1.0
+| SNOW:,| SNOW:,WORK_OF_ART,,,en,1.0
+2026-20-02,2026-20-02,DATE,,,en,1.0
+4 years,4 years,DATE,,,en,1.0
+the previous five decades,the previous five decades,DATE,,,en,1.0
+264,264,CARDINAL,,,en,1.0
+2026-10-02,2026-10-02,DATE,,,en,1.0
 9 km,9 km,QUANTITY,,,en,1.0
 the Volcanic Eruption Response Team,the Volcanic Eruption Response Team,PRODUCT,,,en,1.0
 2026-05-02,2026-05-02,DATE,,,en,1.0
@@ -726,25 +750,31 @@ February 12,February 12,DATE,,,en,1.0
 09:00 February 13,09:00 February 13,DATE,,,en,1.0
 "Tuesday, February 10","Tuesday, February 10",DATE,,,en,1.0
 the day of February 12,the day of February 12,DATE,,,en,1.0
-2026-10-02,2026-10-02,DATE,,,en,1.0
 February 10,February 10,DATE,,,en,1.0
+1961,1961,DATE,,,en,1.0
 African-Arabian,African-Arabian,NORP,,,en,1.0
-the winter of 2021,the winter of 2021,DATE,,,en,1.0
-winters,winters,DATE,,,en,1.0
-fifth,fifth,ORDINAL,,,en,1.0
-the pre-New Year week,the pre-New Year week,DATE,,,en,1.0
+season - winter,season - winter,DATE,,,en,1.0
+February 12 to 13,February 12 to 13,DATE,,,en,1.0
+"Wednesday, February 11","Wednesday, February 11",DATE,,,en,1.0
+9:00,9:00,TIME,,,en,1.0
+February 12 to 10:00,February 12 to 10:00,DATE,,,en,1.0
+up to a third,up to a third,CARDINAL,,,en,1.0
+"Thursday, February 12","Thursday, February 12",DATE,,,en,1.0
+French,French,NORP,,,en,1.0
+iCaur,iCaur,PRODUCT,,,en,1.0
+43 centimeters,43 centimeters,QUANTITY,,,en,1.0
+the first working day,the first working day,DATE,,,en,1.0
+30,30,CARDINAL,,,en,1.0
 the second half of December,the second half of December,DATE,,,en,1.0
-the Russian Cup,the Russian Cup,EVENT,,,en,1.0
 about 92%,about 92%,PERCENT,,,en,1.0
 December 7,December 7,DATE,,,en,1.0
-This week,This week,DATE,,,en,1.0
 this evening,this evening,TIME,,,en,1.0
 4-9 degrees,4-9 degrees,QUANTITY,,,en,1.0
 "Friday, December 12","Friday, December 12",DATE,,,en,1.0
 "December 15, 2025","December 15, 2025",DATE,,,en,1.0
 the week before New Year's,the week before New Year's,DATE,,,en,1.0
+the pre-New Year week,the pre-New Year week,DATE,,,en,1.0
 December 17,December 17,DATE,,,en,1.0
-The Man Without a TV,The Man Without a TV,WORK_OF_ART,,,en,1.0
 38 centimeters,38 centimeters,QUANTITY,,,en,1.0
 “Weather in Yekaterinburg”,“Weather in Yekaterinburg”,WORK_OF_ART,,,en,1.0
 about 95%,about 95%,PERCENT,,,en,1.0
@@ -755,10 +785,14 @@ Chelyabinsk M5 highway,Chelyabinsk M5 highway,FAC,,,en,1.0
 five thousand,five thousand,CARDINAL,,,en,1.0
 demagoguery / Russians,demagoguery / Russians,NORP,,,en,1.0
 Oscars,Oscars,PRODUCT,,,en,1.0
+2025-20-12,2025-20-12,DATE,,,en,1.0
+The Man Without a TV,The Man Without a TV,WORK_OF_ART,,,en,1.0
+almost 100%,almost 100%,PERCENT,,,en,1.0
+December 21,December 21,DATE,,,en,1.0
+the Russian Cup,the Russian Cup,EVENT,,,en,1.0
 the second half,the second half,DATE,,,en,1.0
+January 12,January 12,DATE,,,en,1.0
 the middle of the month,the middle of the month,DATE,,,en,1.0
-mid-December,mid-December,DATE,,,en,1.0
-"December 5, 2025","December 5, 2025",DATE,,,en,1.0
 10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.0
 "November 19, 2025","November 19, 2025",DATE,,,en,1.0
 New Year's Eve,New Year's Eve,EVENT,,,en,1.0
@@ -780,22 +814,19 @@ early afternoon,early afternoon,TIME,,,en,1.0
 December 3,December 3,DATE,,,en,1.0
 minus 2 to zero degrees,minus 2 to zero degrees,QUANTITY,,,en,1.0
 minus 3 to plus,minus 3 to plus,CARDINAL,,,en,1.0
-2025-20-12,2025-20-12,DATE,,,en,1.0
-almost 100%,almost 100%,PERCENT,,,en,1.0
-January 11,January 11,DATE,,,en,1.0
-Byzantine,Byzantine,NORP,,,en,1.0
-New Year’s Eve,New Year’s Eve,EVENT,,,en,1.0
-more than two dozen,more than two dozen,CARDINAL,,,en,1.0
-Festivalny Lane,Festivalny Lane,FAC,,,en,1.0
-DAY 1408,DAY 1408,DATE,,,en,1.0
-2026-01-01,2026-01-01,DATE,,,en,1.0
+"December 5, 2025","December 5, 2025",DATE,,,en,1.0
+mid-December,mid-December,DATE,,,en,1.0
+"December 26, 2025 to January 12, 2026","December 26, 2025 to January 12, 2026",DATE,,,en,1.0
+Surgut cloud,Surgut cloud,PRODUCT,,,en,1.0
+a week a year,a week a year,DATE,,,en,1.0
+2025-26-12,2025-26-12,DATE,,,en,1.0
 28,28,CARDINAL,,,en,1.0
 minus 18.6 degrees,minus 18.6 degrees,QUANTITY,,,en,1.0
 731–740,731–740,CARDINAL,,,en,1.0
 721–730,721–730,CARDINAL,,,en,1.0
 Arabs,Arabs,NORP,,,en,1.0
+Byzantine,Byzantine,NORP,,,en,1.0
 Khazars,Khazars,NORP,,,en,1.0
-December 21,December 21,DATE,,,en,1.0
 Arab,Arab,NORP,,,en,1.0
 730,730,CARDINAL,,,en,1.0
 The Charlemagne Show,The Charlemagne Show,EVENT,,,en,1.0
@@ -806,14 +837,16 @@ almost 13 years ago,almost 13 years ago,DATE,,,en,1.0
 the night of January 9,the night of January 9,TIME,,,en,1.0
 January 9,January 9,DATE,,,en,1.0
 the final day,the final day,DATE,,,en,1.0
-2025-31-12,2025-31-12,DATE,,,en,1.0
-11,11,CARDINAL,,,en,1.0
-the eve of the New Year,the eve of the New Year,DATE,,,en,1.0
-the 90s,the 90s,DATE,,,en,1.0
-"December 26, 2025 to January 12, 2026","December 26, 2025 to January 12, 2026",DATE,,,en,1.0
-Surgut cloud,Surgut cloud,PRODUCT,,,en,1.0
-a week a year,a week a year,DATE,,,en,1.0
-2025-26-12,2025-26-12,DATE,,,en,1.0
+January 11,January 11,DATE,,,en,1.0
+fifth,fifth,ORDINAL,,,en,1.0
+winters,winters,DATE,,,en,1.0
+the winter of 2021,the winter of 2021,DATE,,,en,1.0
+May 2025,May 2025,DATE,,,en,1.0
+2026-12-01,2026-12-01,DATE,,,en,1.0
+2026-01-01,2026-01-01,DATE,,,en,1.0
+DAY 1408,DAY 1408,DATE,,,en,1.0
+Festivalny Lane,Festivalny Lane,FAC,,,en,1.0
+Once Upon a Time,Once Upon a Time,WORK_OF_ART,,,en,1.0
 week,week,DATE,,,en,1.0
 Dozhd,Dozhd,WORK_OF_ART,,,en,1.0
 2025-27-12,2025-27-12,DATE,,,en,1.0
@@ -824,31 +857,22 @@ the Golden Dinar: Chronicles,the Golden Dinar: Chronicles,EVENT,,,en,1.0
 691–700,691–700,CARDINAL,,,en,1.0
 681–690,681–690,CARDINAL,,,en,1.0
 2025-28-12,2025-28-12,DATE,,,en,1.0
-Once Upon a Time,Once Upon a Time,WORK_OF_ART,,,en,1.0
 Olympic,Olympic,EVENT,,,en,1.0
+more than two dozen,more than two dozen,CARDINAL,,,en,1.0
 International Cello Day,International Cello Day,EVENT,,,en,1.0
 this day,this day,DATE,,,en,1.0
 December 29 to January 1,December 29 to January 1,DATE,,,en,1.0
 20 centimeters,20 centimeters,QUANTITY,,,en,1.0
 minus 12 to minus,minus 12 to minus,DATE,,,en,1.0
-"February 20, 2026","February 20, 2026",DATE,,,en,1.0
-German,German,NORP,,,en,1.0
-Celsius,Celsius,PRODUCT,,,en,1.0
-April “winter,April “winter,DATE,,,en,1.0
-more than 72 kilometers,more than 72 kilometers,QUANTITY,,,en,1.0
-over 72 kilometers,over 72 kilometers,QUANTITY,,,en,1.0
-Wednesday to Sunday,Wednesday to Sunday,DATE,,,en,1.0
-20-30 mm,20-30 mm,QUANTITY,,,en,1.0
-2026-08-04,2026-08-04,DATE,,,en,1.0
-two-week,two-week,DATE,,,en,1.0
-eight,eight,CARDINAL,,,en,1.0
-"Wednesday, April 8","Wednesday, April 8",DATE,,,en,1.0
-April 9 to April 14,April 9 to April 14,DATE,,,en,1.0
-Saturday night,Saturday night,TIME,,,en,1.0
-winter fairy tale,winter fairy tale,WORK_OF_ART,,,en,1.0
-about 737,about 737,QUANTITY,,,en,1.0
+the 90s,the 90s,DATE,,,en,1.0
+the eve of the New Year,the eve of the New Year,DATE,,,en,1.0
+11,11,CARDINAL,,,en,1.0
+2025-31-12,2025-31-12,DATE,,,en,1.0
+New Year’s Eve,New Year’s Eve,EVENT,,,en,1.0
+February 20th,February 20th,DATE,,,en,1.0
+one degree,one degree,QUANTITY,,,en,1.0
+more than 12 hours,more than 12 hours,TIME,,,en,1.0
 174 km,174 km,QUANTITY,,,en,1.0
-6 degrees,6 degrees,QUANTITY,,,en,1.0
 as early as next year,as early as next year,DATE,,,en,1.0
 Raven,Raven,PRODUCT,,,en,1.0
 the past week,the past week,DATE,,,en,1.0
@@ -857,62 +881,10 @@ Mexicans,Mexicans,NORP,,,en,1.0
 April 12 and 13,April 12 and 13,DATE,,,en,1.0
 0,0,CARDINAL,,,en,1.0
 0-3,0-3,CARDINAL,,,en,1.0
-72 km,72 km,QUANTITY,,,en,1.0
-4-5 m/s,4-5 m/s,QUANTITY,,,en,1.0
-minus 7 degrees,minus 7 degrees,QUANTITY,,,en,1.0
-100 years,100 years,DATE,,,en,1.0
-a very fertile March,a very fertile March,DATE,,,en,1.0
-ten degrees,ten degrees,QUANTITY,,,en,1.0
-April 4-6,April 4-6,DATE,,,en,1.0
-20-23 m,20-23 m,QUANTITY,,,en,1.0
-Dagestan,Dagestan,FAC,-0.003906250000000003,0.011718750000000009,en,1.0
-99 km,99 km,QUANTITY,,,en,1.0
-14 degrees,14 degrees,QUANTITY,,,en,1.0
-eight-year-old,eight-year-old,DATE,,,en,1.0
-2026-05-04,2026-05-04,DATE,,,en,1.0
-as early as next week,as early as next week,DATE,,,en,1.0
-the last 100+ years,the last 100+ years,DATE,,,en,1.0
-65-70%,65-70%,PERCENT,,,en,1.0
-April 6,April 6,DATE,,,en,1.0
-approximately 32 km,approximately 32 km,QUANTITY,,,en,1.0
-09:07 Sakhalin time,09:07 Sakhalin time,TIME,,,en,1.0
-11 degrees,11 degrees,QUANTITY,,,en,1.0
-the afternoon of Tuesday,the afternoon of Tuesday,TIME,,,en,1.0
-minus 5 degrees,minus 5 degrees,QUANTITY,,,en,1.0
-"the morning of Monday, April 6","the morning of Monday, April 6",TIME,,,en,1.0
-3 days,3 days,DATE,,,en,1.0
-the working days of the week,the working days of the week,DATE,,,en,1.0
-Derbent,Derbent,NORP,0.11403508771929824,0.19298245614035087,en,1.0
 the second half of April,the second half of April,DATE,,,en,1.0
 C/2025 R3,C/2025 R3,PRODUCT,,,en,1.0
 "Monday, April 13","Monday, April 13",DATE,,,en,1.0
-"Monday, April 20","Monday, April 20",DATE,,,en,1.0
-1895 - 1978,1895 - 1978,DATE,,,en,1.0
-about 8 a.m.,about 8 a.m.,TIME,,,en,1.0
-340,340,CARDINAL,,,en,1.0
-1977,1977,DATE,,,en,1.0
-next year,next year,DATE,,,en,1.0
-5-7 degrees,5-7 degrees,QUANTITY,,,en,1.0
-early next week,early next week,DATE,,,en,1.0
-A kilometer,A kilometer,QUANTITY,,,en,1.0
-4.1,4.1,CARDINAL,,,en,1.0
-the Ust-Kamchatka Okrug,the Ust-Kamchatka Okrug,FAC,,,en,1.0
-spring,spring,DATE,,,en,1.0
 Grad MLRS,Grad MLRS,PRODUCT,,,en,1.0
-73,73,CARDINAL,,,en,1.0
-100-500 meters,100-500 meters,QUANTITY,,,en,1.0
-"Friday, April 17","Friday, April 17",DATE,,,en,1.0
-April 17,April 17,DATE,,,en,1.0
-"Sunday, April 19","Sunday, April 19",DATE,,,en,1.0
-"April 17 to April 20, 2026","April 17 to April 20, 2026",DATE,,,en,1.0
-"April 17, 2026","April 17, 2026",DATE,,,en,1.0
-Ukrainians,Ukrainians,NORP,,,en,1.0
-hundreds,hundreds,CARDINAL,,,en,1.0
-about a hundred,about a hundred,CARDINAL,,,en,1.0
-The Greats and Food,The Greats and Food,WORK_OF_ART,,,en,1.0
-at least ten,at least ten,CARDINAL,,,en,1.0
-Amur Mash,Amur Mash,WORK_OF_ART,,,en,1.0
-"April 15, 2026","April 15, 2026",DATE,,,en,1.0
 the last ten days of April,the last ten days of April,DATE,,,en,1.0
 three degrees,three degrees,QUANTITY,,,en,1.0
 eight hours,eight hours,TIME,,,en,1.0
@@ -924,32 +896,91 @@ Guards Tank Division,Guards Tank Division,EVENT,,,en,1.0
 "Wednesday, April 15","Wednesday, April 15",DATE,,,en,1.0
 one hundred percent,one hundred percent,PERCENT,,,en,1.0
 Loo,Loo,FAC,,,en,1.0
+6 degrees,6 degrees,QUANTITY,,,en,1.0
+winter fairy tale,winter fairy tale,WORK_OF_ART,,,en,1.0
+10 years ago,10 years ago,DATE,,,en,1.0
+April “winter,April “winter,DATE,,,en,1.0
+09:07 Sakhalin time,09:07 Sakhalin time,TIME,,,en,1.0
+11 degrees,11 degrees,QUANTITY,,,en,1.0
+the afternoon of Tuesday,the afternoon of Tuesday,TIME,,,en,1.0
+minus 5 degrees,minus 5 degrees,QUANTITY,,,en,1.0
+"the morning of Monday, April 6","the morning of Monday, April 6",TIME,,,en,1.0
+3 days,3 days,DATE,,,en,1.0
+the working days of the week,the working days of the week,DATE,,,en,1.0
+Derbent,Derbent,NORP,0.11403508771929824,0.19298245614035087,en,1.0
+65-70%,65-70%,PERCENT,,,en,1.0
+4-5 m/s,4-5 m/s,QUANTITY,,,en,1.0
+about 737,about 737,QUANTITY,,,en,1.0
+72 km,72 km,QUANTITY,,,en,1.0
+more than 72 kilometers,more than 72 kilometers,QUANTITY,,,en,1.0
+over 72 kilometers,over 72 kilometers,QUANTITY,,,en,1.0
+Wednesday to Sunday,Wednesday to Sunday,DATE,,,en,1.0
+20-30 mm,20-30 mm,QUANTITY,,,en,1.0
+2026-08-04,2026-08-04,DATE,,,en,1.0
+two-week,two-week,DATE,,,en,1.0
+eight,eight,CARDINAL,,,en,1.0
+23 m/s,23 m/s,QUANTITY,,,en,1.0
+"Wednesday, April 8","Wednesday, April 8",DATE,,,en,1.0
+April 9 to April 14,April 9 to April 14,DATE,,,en,1.0
+Saturday night,Saturday night,TIME,,,en,1.0
 ​​operation,​​operation,FAC,,,en,1.0
 The coming week,The coming week,DATE,,,en,1.0
 up to 16 m/s,up to 16 m/s,QUANTITY,,,en,1.0
 Krona,Krona,FAC,,,en,1.0
+"April 17 to April 20, 2026","April 17 to April 20, 2026",DATE,,,en,1.0
+"April 17, 2026","April 17, 2026",DATE,,,en,1.0
+Ukrainians,Ukrainians,NORP,,,en,1.0
+hundreds,hundreds,CARDINAL,,,en,1.0
+about a hundred,about a hundred,CARDINAL,,,en,1.0
+Celsius,Celsius,PRODUCT,,,en,1.0
+14 centimeters,14 centimeters,QUANTITY,,,en,1.0
+7,7,CARDINAL,,,en,1.0
+up to plus,up to plus,CARDINAL,,,en,1.0
+13 degrees,13 degrees,QUANTITY,,,en,1.0
+up to 7.7,up to 7.7,CARDINAL,,,en,1.0
+"about 3,000","about 3,000",CARDINAL,,,en,1.0
+winter months,winter months,DATE,,,en,1.0
+This past weekend,This past weekend,DATE,,,en,1.0
+12 kilometers,12 kilometers,QUANTITY,,,en,1.0
+7.7,7.7,CARDINAL,,,en,1.0
+the warmest day of the week,the warmest day of the week,DATE,,,en,1.0
+nine-meter,nine-meter,QUANTITY,,,en,1.0
+Aleutian,Aleutian,NORP,,,en,1.0
+up to nine meters,up to nine meters,QUANTITY,,,en,1.0
+10:30 Sakhalin,10:30 Sakhalin,TIME,,,en,1.0
+minus 3.6 degrees,minus 3.6 degrees,QUANTITY,,,en,1.0
+Wednesday night,Wednesday night,TIME,,,en,1.0
+"Sunday, April 19","Sunday, April 19",DATE,,,en,1.0
+April 17,April 17,DATE,,,en,1.0
+"Friday, April 17","Friday, April 17",DATE,,,en,1.0
+about 8 a.m.,about 8 a.m.,TIME,,,en,1.0
 "April 14, 2026","April 14, 2026",DATE,,,en,1.0
 the weekend of April 18 and 19,the weekend of April 18 and 19,DATE,,,en,1.0
 Tornado,Tornado,WORK_OF_ART,,,en,1.0
-fourth,fourth,ORDINAL,,,en,1.0
 More than 80%,More than 80%,PERCENT,,,en,1.0
 ​​over 51 thousand hectares,​​over 51 thousand hectares,QUANTITY,,,en,1.0
-0 degrees,0 degrees,QUANTITY,,,en,1.0
-9 degrees,9 degrees,QUANTITY,,,en,1.0
-Hydrometeorological Center,Hydrometeorological Center,FAC,,,en,1.0
-zero degrees,zero degrees,QUANTITY,,,en,1.0
-16.58,16.58,CARDINAL,,,en,1.0
-7.58,7.58,CARDINAL,,,en,1.0
-"February 26, 2026","February 26, 2026",DATE,,,en,1.0
-"February 28 and March 1, 2026","February 28 and March 1, 2026",DATE,,,en,1.0
-Five,Five,CARDINAL,,,en,1.0
-20 kilo,20 kilo,QUANTITY,,,en,1.0
-February 27,February 27,DATE,,,en,1.0
-the Chigirinsky Reservoir,the Chigirinsky Reservoir,FAC,,,en,1.0
-around half past six in the morning,around half past six in the morning,DATE,,,en,1.0
-"March 2, 2026","March 2, 2026",DATE,,,en,1.0
+"April 15, 2026","April 15, 2026",DATE,,,en,1.0
+Amur Mash,Amur Mash,WORK_OF_ART,,,en,1.0
+at least ten,at least ten,CARDINAL,,,en,1.0
+The Greats and Food,The Greats and Food,WORK_OF_ART,,,en,1.0
+1895 - 1978,1895 - 1978,DATE,,,en,1.0
+340,340,CARDINAL,,,en,1.0
+100-500 meters,100-500 meters,QUANTITY,,,en,1.0
+1977,1977,DATE,,,en,1.0
+next year,next year,DATE,,,en,1.0
+5-7 degrees,5-7 degrees,QUANTITY,,,en,1.0
+early next week,early next week,DATE,,,en,1.0
+A kilometer,A kilometer,QUANTITY,,,en,1.0
+4.1,4.1,CARDINAL,,,en,1.0
+the Ust-Kamchatka Okrug,the Ust-Kamchatka Okrug,FAC,,,en,1.0
+"Monday, April 20","Monday, April 20",DATE,,,en,1.0
+spring,spring,DATE,,,en,1.0
+73,73,CARDINAL,,,en,1.0
+approximately 32 km,approximately 32 km,QUANTITY,,,en,1.0
+April 6,April 6,DATE,,,en,1.0
+the last 100+ years,the last 100+ years,DATE,,,en,1.0
+Vorya,Vorya,WORK_OF_ART,,,en,1.0
 "Tuesday, March 3","Tuesday, March 3",DATE,,,en,1.0
-March 8,March 8,DATE,,,en,1.0
 0 to plus 2 degrees,0 to plus 2 degrees,QUANTITY,,,en,1.0
 "March 4, 2026","March 4, 2026",DATE,,,en,1.0
 200 million years ago,200 million years ago,DATE,,,en,1.0
@@ -960,20 +991,22 @@ up to 4 cm,up to 4 cm,QUANTITY,,,en,1.0
 March 7 to March 9,March 7 to March 9,DATE,,,en,1.0
 March 6 to March 8,March 6 to March 8,DATE,,,en,1.0
 Tyumen,Tyumen,NORP,-0.30833333333333335,0.625,en,1.0
-"February 25 to February 28, 2026","February 25 to February 28, 2026",DATE,,,en,1.0
-less than a week,less than a week,DATE,,,en,1.0
-"Wednesday, February 25","Wednesday, February 25",DATE,,,en,1.0
-"Tuesday, February 24","Tuesday, February 24",DATE,,,en,1.0
-More than half,More than half,CARDINAL,,,en,1.0
-the last winter month,the last winter month,DATE,,,en,1.0
-the past 24 hours,the past 24 hours,TIME,,,en,1.0
-28 millimeters,28 millimeters,QUANTITY,,,en,1.0
-| SNOW:,| SNOW:,WORK_OF_ART,,,en,1.0
-2026-20-02,2026-20-02,DATE,,,en,1.0
-February 20th,February 20th,DATE,,,en,1.0
-one degree,one degree,QUANTITY,,,en,1.0
-more than 12 hours,more than 12 hours,TIME,,,en,1.0
-10 years ago,10 years ago,DATE,,,en,1.0
+March 6 to 8,March 6 to 8,DATE,,,en,1.0
+March 8,March 8,DATE,,,en,1.0
+March 8th,March 8th,DATE,,,en,1.0
+February 21,February 21,DATE,,,en,1.0
+This spring,This spring,DATE,,,en,1.0
+fifteen,fifteen,CARDINAL,,,en,1.0
+"March 13, 2026","March 13, 2026",DATE,,,en,1.0
+this spring,this spring,DATE,,,en,1.0
+2026-13-03,2026-13-03,DATE,,,en,1.0
+Cold,Cold,WORK_OF_ART,,,en,1.0
+Slavic,Slavic,NORP,,,en,1.0
+350,350,CARDINAL,,,en,1.0
+zero degrees,zero degrees,QUANTITY,,,en,1.0
+"March 2, 2026","March 2, 2026",DATE,,,en,1.0
+around half past six in the morning,around half past six in the morning,DATE,,,en,1.0
+"February 24 to March 1, 2026","February 24 to March 1, 2026",DATE,,,en,1.0
 the end of winter,the end of winter,DATE,,,en,1.0
 Hours-long queues,Hours-long queues,TIME,,,en,1.0
 Hundreds,Hundreds,CARDINAL,,,en,1.0
@@ -984,24 +1017,22 @@ February 20,February 20,DATE,,,en,1.0
 minus 15 degrees,minus 15 degrees,QUANTITY,,,en,1.0
 minus 4 degrees,minus 4 degrees,QUANTITY,,,en,1.0
 -20 degrees,-20 degrees,QUANTITY,,,en,1.0
-"February 24 to March 1, 2026","February 24 to March 1, 2026",DATE,,,en,1.0
-March 6 to 8,March 6 to 8,DATE,,,en,1.0
-March 8th,March 8th,DATE,,,en,1.0
-a record warm March,a record warm March,DATE,,,en,1.0
-"April 1, 2026","April 1, 2026",DATE,,,en,1.0
-April 5th,April 5th,DATE,,,en,1.0
-| 20,| 20,DATE,,,en,1.0
-| DEATH,| DEATH,DATE,,,en,1.0
-2026-31-03,2026-31-03,DATE,,,en,1.0
-"Tuesday, March 31st","Tuesday, March 31st",DATE,,,en,1.0
-9th,9th,ORDINAL,,,en,1.0
-the last 19 years,the last 19 years,DATE,,,en,1.0
-the upcoming weekend,the upcoming weekend,DATE,,,en,1.0
-April 4 and 5,April 4 and 5,DATE,,,en,1.0
-The beginning of April,The beginning of April,DATE,,,en,1.0
-5-7 degrees Celsius,5-7 degrees Celsius,QUANTITY,,,en,1.0
-February 21,February 21,DATE,,,en,1.0
-"Thursday, April 2","Thursday, April 2",DATE,,,en,1.0
+"Tuesday, February 24","Tuesday, February 24",DATE,,,en,1.0
+the Chigirinsky Reservoir,the Chigirinsky Reservoir,FAC,,,en,1.0
+"Wednesday, February 25","Wednesday, February 25",DATE,,,en,1.0
+less than a week,less than a week,DATE,,,en,1.0
+"February 25 to February 28, 2026","February 25 to February 28, 2026",DATE,,,en,1.0
+16.58,16.58,CARDINAL,,,en,1.0
+7.58,7.58,CARDINAL,,,en,1.0
+"February 26, 2026","February 26, 2026",DATE,,,en,1.0
+"February 28 and March 1, 2026","February 28 and March 1, 2026",DATE,,,en,1.0
+Five,Five,CARDINAL,,,en,1.0
+20 kilo,20 kilo,QUANTITY,,,en,1.0
+February 27,February 27,DATE,,,en,1.0
+day 334,day 334,DATE,,,en,1.0
+the National Center,the National Center,FAC,,,en,1.0
+100 years,100 years,DATE,,,en,1.0
+11:15,11:15,TIME,,,en,1.0
 2026-02-04,2026-02-04,DATE,,,en,1.0
 April 2,April 2,DATE,,,en,1.0
 30%,30%,PERCENT,,,en,1.0
@@ -1011,22 +1042,24 @@ More than 70,More than 70,CARDINAL,,,en,1.0
 a few hours,a few hours,TIME,,,en,1.0
 "April 3, 2026","April 3, 2026",DATE,,,en,1.0
 "April 4 to April 5, 2026","April 4 to April 5, 2026",DATE,,,en,1.0
-"March 30 to April 3, 2026","March 30 to April 3, 2026",DATE,,,en,1.0
-The working week,The working week,DATE,,,en,1.0
+a record warm March,a record warm March,DATE,,,en,1.0
+Hydrometeorological Center,Hydrometeorological Center,FAC,,,en,1.0
+9 degrees,9 degrees,QUANTITY,,,en,1.0
+0 degrees,0 degrees,QUANTITY,,,en,1.0
+a very fertile March,a very fertile March,DATE,,,en,1.0
+ten degrees,ten degrees,QUANTITY,,,en,1.0
+April 4-6,April 4-6,DATE,,,en,1.0
+20-23 m,20-23 m,QUANTITY,,,en,1.0
+Dagestan,Dagestan,FAC,-0.0038226299694189623,0.011467889908256887,en,1.0
+99 km,99 km,QUANTITY,,,en,1.0
+14 degrees,14 degrees,QUANTITY,,,en,1.0
+eight-year-old,eight-year-old,DATE,,,en,1.0
+2026-05-04,2026-05-04,DATE,,,en,1.0
+as early as next week,as early as next week,DATE,,,en,1.0
+"Thursday, April 2","Thursday, April 2",DATE,,,en,1.0
+5-7 degrees Celsius,5-7 degrees Celsius,QUANTITY,,,en,1.0
+"April 1, 2026","April 1, 2026",DATE,,,en,1.0
 Ghost,Ghost,WORK_OF_ART,,,en,1.0
-250 thousand rubles,250 thousand rubles,MONEY,,,en,1.0
-This spring,This spring,DATE,,,en,1.0
-fifteen,fifteen,CARDINAL,,,en,1.0
-"March 13, 2026","March 13, 2026",DATE,,,en,1.0
-this spring,this spring,DATE,,,en,1.0
-2026-13-03,2026-13-03,DATE,,,en,1.0
-Cold,Cold,WORK_OF_ART,,,en,1.0
-Slavic,Slavic,NORP,,,en,1.0
-350,350,CARDINAL,,,en,1.0
-day 334,day 334,DATE,,,en,1.0
-Vorya,Vorya,WORK_OF_ART,,,en,1.0
-the National Center,the National Center,FAC,,,en,1.0
-11:15,11:15,TIME,,,en,1.0
 20:15,20:15,TIME,,,en,1.0
 Scottish,Scottish,NORP,,,en,1.0
 End of the 13th century,End of the 13th century,DATE,,,en,1.0
@@ -1036,4 +1069,17 @@ the evening of March 28,the evening of March 28,TIME,,,en,1.0
 March 26,March 26,DATE,,,en,1.0
 2026-30-03,2026-30-03,DATE,,,en,1.0
 "Monday, March 30th","Monday, March 30th",DATE,,,en,1.0
-recent days,recent days,DATE,,,en,1.0
+250 thousand rubles,250 thousand rubles,MONEY,,,en,1.0
+The working week,The working week,DATE,,,en,1.0
+The beginning of April,The beginning of April,DATE,,,en,1.0
+"March 30 to April 3, 2026","March 30 to April 3, 2026",DATE,,,en,1.0
+April 5th,April 5th,DATE,,,en,1.0
+| 20,| 20,DATE,,,en,1.0
+| DEATH,| DEATH,DATE,,,en,1.0
+2026-31-03,2026-31-03,DATE,,,en,1.0
+"Tuesday, March 31st","Tuesday, March 31st",DATE,,,en,1.0
+9th,9th,ORDINAL,,,en,1.0
+the last 19 years,the last 19 years,DATE,,,en,1.0
+the upcoming weekend,the upcoming weekend,DATE,,,en,1.0
+April 4 and 5,April 4 and 5,DATE,,,en,1.0
+About 200,About 200,CARDINAL,,,en,1.0
