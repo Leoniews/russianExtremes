@@ -1,12 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8ae5f98de0',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Ненецком автономном округе,2026-06-21T07:16:00+00:00,Russia,0.7355523670204313,0,1,ru,ESB,Europe
-'76ad379230',extremes,Earthquake,#870007,usgs,землетрясение Петропавловск Камчатский,2026-06-06T06:08:00+00:00,Russia,0.731375047473446,0,1,ru,RFE,Europe
-'36d971b235',extremes,Fog,#d60d2b,wmo,туман туруханский м.р.,2026-06-21T07:16:00+00:00,Russia,0.7273507928408204,0,1,ru,ESB,Europe
-'11e6721071',extremes,Storm,#b3b2b1,wmo,гроза Забайкальский край,2026-06-20T06:47:00+00:00,Russia,0.7272109056248216,0,1,ru,ESB,Europe
-'5314ce2fb7',extremes,Wildfire,#d60d2b,wmo,лесной пожар в омской области,2026-06-22T08:39:00+00:00,Russia,0.7189923706593327,0,1,ru,ESB,Europe
-'846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-06-07T06:48:00+00:00,Russia,0.7185210352702925,0,1,ru,ESB,Europe
 '943604e768',extremes,Storm,#b3b2b1,wmo,штормовой нагон на юге республики Саха,2026-06-20T06:47:00+00:00,Russia,0.7158565909923217,0,1,ru,ESB,Europe
 '55bf3fd2d7',extremes,Flood,#030ba1,wmo,паводок в Ханты-Мансийском автономном округе,2026-06-21T07:16:00+00:00,Russia,0.7146752677419146,0,1,ru,ESB,Europe
+'846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-06-07T06:48:00+00:00,Russia,0.6500430599797486,1,1,ru,ESB,Europe
 '2831c60cb5',extremes,Wildfire,#d60d2b,wmo,лесной пожар Костромская область,2026-06-14T07:07:00+00:00,Russia,0.6298130122354079,1,1,ru,ESB,Europe
 '1c3859b268',extremes,Wildfire,#d60d2b,wmo,лесной пожар ростовской области,2026-06-09T06:32:00+00:00,Russia,0.6297859485212658,1,1,ru,ESB,Europe
 '4bb5f40d4f',extremes,Wildfire,#d60d2b,wmo,лесной пожар Владимирская область,2026-06-11T07:14:00+00:00,Russia,0.6293982133343009,1,1,ru,ESB,Europe
@@ -16,6 +11,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c119ba6f6',extremes,Wildfire,#d60d2b,wmo,лесной пожар в республике калмыкия,2026-06-12T07:05:00+00:00,Russia,0.6269484447299621,1,1,ru,ESB,Europe
 '6680336437',extremes,Fog,#d60d2b,wmo,туман Ненецкого автономного округа,2026-06-07T06:48:00+00:00,Russia,0.6262133920171511,1,1,ru,ESB,Europe
 'eada3ead46',extremes,Snow&Ice,#d60d2b,wmo,снег Иркутской области,2026-06-21T07:16:00+00:00,Russia,0.6258772663620602,1,1,ru,ESB,Europe
+'8ae5f98de0',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Ненецком автономном округе,2026-06-21T07:16:00+00:00,Russia,0.6252195119673666,1,1,ru,ESB,Europe
+'76ad379230',extremes,Earthquake,#870007,usgs,землетрясение Петропавловск Камчатский,2026-06-06T06:08:00+00:00,Russia,0.6216687903524291,1,1,ru,RFE,Europe
+'36d971b235',extremes,Fog,#d60d2b,wmo,туман туруханский м.р.,2026-06-21T07:16:00+00:00,Russia,0.6182481739146973,1,1,ru,ESB,Europe
+'11e6721071',extremes,Storm,#b3b2b1,wmo,гроза Забайкальский край,2026-06-20T06:47:00+00:00,Russia,0.6181292697810984,1,1,ru,ESB,Europe
+'5314ce2fb7',extremes,Wildfire,#d60d2b,wmo,лесной пожар в омской области,2026-06-22T08:39:00+00:00,Russia,0.6111435150604329,1,1,ru,ESB,Europe
 '450c59fb41',extremes,Snow&Ice,#d60d2b,wmo,снег Рязанской области,2026-05-29T06:38:00+00:00,Russia,0.5492552655928495,3,1,ru,ESB,Europe
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,лавина россия,2026-06-06T06:08:00+00:00,Russia,0.5396499311481419,2,1,ru,ESB,Europe
 '04d3913051',extremes,Wildfire,#d60d2b,wmo,лесной пожар воронежской области,2026-06-13T06:38:00+00:00,Russia,0.5367214807009605,2,1,ru,ESB,Europe
