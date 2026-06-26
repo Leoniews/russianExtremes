@@ -1,7 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,снег России,2026-06-16T08:27:00+00:00,Russia,0.755135992665735,2,2,ru,ESB,Europe
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,ливень россия,2026-06-06T06:08:00+00:00,Russia,0.6684977260484446,2,2,ru,ESB,Europe
+'2f5d946284',extremes,Thunderstorm,#53785a,wmo,град Вологодская область,2026-06-21T07:16:00+00:00,Russia,0.6544952105765525,0,1,ru,ESB,Europe
+'4d07446ddc',extremes,Thunderstorm,#53785a,wmo,гроза ростовская область,2026-06-07T06:48:00+00:00,Russia,0.6540354702995262,0,1,ru,ESB,Europe
+'dfdb260e46',extremes,Heat Wave,#c40202,wmo,жара кемеровская область,2026-06-22T08:39:00+00:00,Russia,0.6536676711320618,0,1,ru,ESB,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,жара в москве,2026-06-07T06:48:00+00:00,Russia,0.6536485325055578,2,2,ru,ESB,Europe
+'e48e12b021',extremes,Storm,#b3b2b1,wmo,штормовой нагон Псковской области,2026-06-14T07:07:00+00:00,Russia,0.6528882319488771,0,1,ru,ESB,Europe
+'2fb9bcabc4',extremes,Drought,#edc291,edo,засуха Эстония,2026-06-07T06:48:00+00:00,Estonia,0.6522573790562859,0,1,ru,NEU,Europe
+'f53a3cd374',extremes,Thunderstorm,#53785a,wmo,здравствуй республика татарстан,2026-06-23T06:33:00+00:00,Russia,0.6507289550125294,0,1,ru,ESB,Europe
+'00ca557010',extremes,Heat Wave,#c40202,wmo,жара в Латвии,2026-06-21T07:16:00+00:00,Latvia,0.6489390515387656,0,1,ru,WCE,Europe
+'879b86eefd',extremes,Thunderstorm,#53785a,wmo,гроза Приморский край,2026-06-11T07:14:00+00:00,Russia,0.6487203619830463,0,1,ru,ESB,Europe
+'962162d921',extremes,Thunderstorm,#53785a,wmo,суровая погода астраханская область,2026-06-10T06:49:00+00:00,Russia,0.6473372600240168,0,1,ru,ESB,Europe
+'661d95994d',extremes,Thunderstorm,#53785a,wmo,гроза на юге Красноярского края,2026-06-24T06:30:00+00:00,Russia,0.6463706735937689,0,1,ru,ESB,Europe
 '2a41ead196',extremes,Storm,#b3b2b1,wmo,гроза тюменская область,2026-06-08T07:13:00+00:00,Russia,0.5731182054522467,1,1,ru,ESB,Europe
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-06-07T06:48:00+00:00,Russia,0.5668367809827863,2,1,ru,ESB,Europe
 'e5a222f315',extremes,Thunderstorm,#53785a,wmo,гроза тюменская область,2026-06-24T06:30:00+00:00,Russia,0.5659483683999835,1,1,ru,ESB,Europe
@@ -154,7 +164,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a1f6918a1',extremes,Precipitation,#d60d2b,wmo,проливной дождь Кемеровская область,2026-05-30T06:01:00+00:00,Russia,0.4966791966375583,2,1,ru,ESB,Europe
 '5295642073',extremes,Flood,#030ba1,wmo,наводнение россии,2026-05-30T06:01:00+00:00,Russia,0.496576360315337,4,2,ru,ESB,Europe
 '523a9f3430',extremes,Flood,#030ba1,wmo,затопление Чукотского автономного округа,2026-05-30T06:01:00+00:00,Russia,0.4960516732602349,2,1,ru,ESB,Europe
-'f5862b3280',extremes,Thunderstorm,#53785a,wmo,град Приморский край,2026-06-24T06:30:00+00:00,Russia,0.49553835513791233,2,1,ru,ESB,Europe
+'f5862b3280',extremes,Thunderstorm,#53785a,wmo,град Приморский край,2026-06-24T06:30:00+00:00,Russia,0.4955383551379123,2,1,ru,ESB,Europe
 '4016db9e4b',extremes,Flood,#030ba1,wmo,паводок Карачаево-Черкесская республика,2026-05-26T06:31:00+00:00,Russia,0.4954015762576144,2,1,ru,ESB,Europe
 '8e0946a5f2',extremes,Drought,#edc291,edo,отсутствие дождя Эстония,2026-06-02T07:08:00+00:00,Estonia,0.4951817229063726,2,1,ru,NEU,Europe
 '2820469dd6',extremes,Flood,#030ba1,wmo,наводнение на юге Хабаровского края,2026-05-25T06:53:00+00:00,Russia,0.4950150255421637,2,1,ru,ESB,Europe
