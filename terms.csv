@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,снег России,2026-06-16T08:27:00+00:00,Russia,0.755135992665735,2,2,ru,ESB,Europe
-'53a3fc4fb7',extremes,Wildfire,#d60d2b,wmo,лесной пожар в иркутской области,2026-06-14T07:07:00+00:00,Russia,0.7356832862141012,0,1,ru,ESB,Europe
 'c37650b8be',extremes,Flood,#030ba1,wmo,паводок в россии,2026-06-11T07:14:00+00:00,Russia,0.7305568073329944,3,2,ru,ESB,Europe
-'c667de00ed',extremes,Flood,#030ba1,wmo,паводок Краснодарский край,2026-06-27T06:08:00+00:00,Russia,0.7243535422578989,0,1,ru,ESB,Europe
+'c667de00ed',extremes,Flood,#030ba1,wmo,паводок Краснодарский край,2026-06-27T06:08:00+00:00,Russia,0.7243535422578989,1,1,ru,ESB,Europe
 'a66a74e507',extremes,Precipitation,#d60d2b,wmo,ливень Забайкальский край,2026-06-17T07:33:00+00:00,Russia,0.722977531779038,0,1,ru,ESB,Europe
 'be0dcc9cd5',extremes,Fog,#d60d2b,wmo,туман карачаево-черкесской республики,2026-06-27T06:08:00+00:00,Russia,0.721256177187698,0,1,ru,ESB,Europe
 '74dd94b4e6',extremes,Thunderstorm,#53785a,wmo,здравствуй республика алтай,2026-06-27T06:08:00+00:00,Russia,0.7048557271920706,0,1,ru,ESB,Europe
@@ -13,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '253283d718',extremes,Storm,#b3b2b1,wmo,штормовой нагон Ханты-Мансийского автономного округа,2026-06-11T07:14:00+00:00,Russia,0.6752641223763884,0,1,ru,ESB,Europe
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,ливень россия,2026-06-06T06:08:00+00:00,Russia,0.6684977260484446,2,2,ru,ESB,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,жара в москве,2026-06-07T06:48:00+00:00,Russia,0.6536485325055578,2,2,ru,ESB,Europe
+'53a3fc4fb7',extremes,Wildfire,#d60d2b,wmo,лесной пожар в иркутской области,2026-06-14T07:07:00+00:00,Russia,0.6253307932819859,1,1,ru,ESB,Europe
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-06-07T06:48:00+00:00,Russia,0.5668367809827863,2,1,ru,ESB,Europe
 '962162d921',extremes,Thunderstorm,#53785a,wmo,суровая погода астраханская область,2026-06-10T06:49:00+00:00,Russia,0.5502366710204143,1,1,ru,ESB,Europe
 '661d95994d',extremes,Thunderstorm,#53785a,wmo,гроза на юге Красноярского края,2026-06-24T06:30:00+00:00,Russia,0.5494150725547036,1,1,ru,ESB,Europe
