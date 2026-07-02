@@ -52,7 +52,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78dd43be95',extremes,Wildfire,#d60d2b,wmo,лесной пожар курская область,2026-06-11T07:14:00+00:00,Russia,0.5302828790185303,2,1,ru,ESB,Europe
 'c8293bc7d1',extremes,Wildfire,#d60d2b,wmo,лесной пожар на юге Камчатского края,2026-06-11T07:14:00+00:00,Russia,0.5296556722565291,2,1,ru,ESB,Europe
 '59bf84a5dd',extremes,Fog,#d60d2b,wmo,туман Ханты-Мансийского автономного округа,2026-06-11T07:14:00+00:00,Russia,0.5294730261878303,2,1,ru,ESB,Europe
-'38e291c515',extremes,Fog,#d60d2b,wmo,туман Тульская область,2026-06-13T06:38:00+00:00,Russia,0.5291975308730887,2,1,ru,ESB,Europe
+'38e291c515',extremes,Fog,#d60d2b,wmo,туман Тульская область,2026-06-13T06:38:00+00:00,Russia,0.5291975308730887,3,1,ru,ESB,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,шторм в Литве,2026-06-14T07:07:00+00:00,Lithuania,0.5290422357532767,3,1,ru,WCE,Europe
 'e1feb4bbda',extremes,Wildfire,#d60d2b,wmo,лесной пожар на севере Амурской области,2026-06-29T07:13:00+00:00,Russia,0.5287480453130866,2,1,ru,ESB,Europe
 '7c1e10f7d0',extremes,Wildfire,#d60d2b,wmo,лесной пожар в мурманской области,2026-06-14T07:07:00+00:00,Russia,0.5284318767416198,2,1,ru,ESB,Europe
@@ -247,7 +247,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00ca557010',extremes,Heat Wave,#c40202,wmo,жара в Латвии,2026-06-21T07:16:00+00:00,Latvia,0.4688584647367581,2,1,ru,WCE,Europe
 '879b86eefd',extremes,Thunderstorm,#53785a,wmo,гроза Приморский край,2026-06-11T07:14:00+00:00,Russia,0.4687004615327509,2,1,ru,ESB,Europe
 'f9485b996d',extremes,Storm,#b3b2b1,wmo,гроза Краснодарский край,2026-06-13T06:38:00+00:00,Russia,0.4682836990567524,2,1,ru,ESB,Europe
-'69da86d7c3',extremes,Thunderstorm,#53785a,wmo,град Ставропольского края,2026-06-25T06:32:00+00:00,Russia,0.46810386164316176,2,1,ru,ESB,Europe
+'69da86d7c3',extremes,Thunderstorm,#53785a,wmo,град Ставропольского края,2026-06-25T06:32:00+00:00,Russia,0.4681038616431617,2,1,ru,ESB,Europe
 '3f97675e45',extremes,Thunderstorm,#53785a,wmo,суровая погода республика северная осетия алания,2026-06-15T08:36:00+00:00,Russia,0.4680048549602605,2,1,ru,ESB,Europe
 '962162d921',extremes,Thunderstorm,#53785a,wmo,суровая погода астраханская область,2026-06-10T06:49:00+00:00,Russia,0.4677011703673521,2,1,ru,ESB,Europe
 'f7921ef009',extremes,Earthquake,#870007,usgs,землетрясение вилючинск,2026-06-06T06:08:00+00:00,Russia,0.4675611057868024,2,1,ru,RFE,Asia
