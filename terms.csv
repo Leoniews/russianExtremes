@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'43fc77790b',extremes,Heat Wave,#c40202,wmo,жара новосибирская область,2026-06-24T06:30:00+00:00,Russia,0.7437488145619029,1,2,ru,ESB,Europe
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,дождь россия,2026-06-18T07:16:00+00:00,Russia,0.6871056622139674,2,2,ru,ESB,Europe
 '7ca151807a',extremes,Flood,#030ba1,wmo,паводок на севере Хабаровского края,2026-07-02T06:24:00+00:00,Russia,0.6813361979982548,0,1,ru,ESB,Europe
-'cb66b8e14e',extremes,Thunderstorm,#53785a,wmo,суровая погода в Эстонии,2026-07-03T06:09:00+00:00,Estonia,0.6635433634868306,0,1,ru,NEU,Europe
 'd3c4546428',extremes,Precipitation,#d60d2b,wmo,дождь Эстония,2026-07-08T05:37:00+00:00,Estonia,0.658517986814246,0,1,ru,NEU,Europe
 '01e4b0cc71',extremes,Earthquake,#870007,usgs,землетрясение Курильск,2026-07-02T06:23:00+00:00,Russia,0.651302813768943,0,1,ru,EAS,Asia
 'cc12a3a810',extremes,Precipitation,#d60d2b,wmo,проливной дождь Псковская область,2026-07-08T05:37:00+00:00,Russia,0.6469901564680531,0,1,ru,ESB,Europe
@@ -10,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c34799f92',extremes,Storm,#b3b2b1,wmo,шторм республика северная осетия алания,2026-06-24T06:30:00+00:00,Russia,0.6413945929457147,0,1,ru,ESB,Europe
 '13ae0b391f',extremes,Precipitation,#d60d2b,wmo,проливной дождь в Латвии,2026-07-08T05:37:00+00:00,Latvia,0.6366865782504185,0,1,ru,WCE,Europe
 '7f8fa74bb6',extremes,Drought,#edc291,edo,отсутствие дождей в россии,2026-07-08T05:37:00+00:00,Russia,0.6350179361559268,0,1,ru,,
+'43fc77790b',extremes,Heat Wave,#c40202,wmo,жара новосибирская область,2026-06-24T06:30:00+00:00,Russia,0.6323365073776175,2,2,ru,ESB,Europe
 '9279ab2e67',extremes,Storm,#b3b2b1,wmo,штормовой нагон на севере Рижского залива,2026-07-08T05:37:00+00:00,Estonia,0.6318661367417242,0,1,ru,NEU,Europe
 'b84e9af525',extremes,Thunderstorm,#53785a,wmo,гроза псковская область,2026-07-07T06:30:00+00:00,Russia,0.63136141873321,0,1,ru,ESB,Europe
 '539e5b93ba',extremes,Storm,#b3b2b1,wmo,штормовой нагон Мунзунд,2026-07-05T06:25:00+00:00,Estonia,0.6298446456659068,0,1,ru,NEU,Europe
@@ -21,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd6c57c846e',extremes,Flood,#030ba1,wmo,наводнение на севере Хабаровского края,2026-06-26T06:36:00+00:00,Russia,0.5949061385820809,1,1,ru,ESB,Europe
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,ливень россия,2026-06-26T06:36:00+00:00,Russia,0.5736619933982338,2,1,ru,ESB,Europe
 '01e3ebf984',extremes,Thunderstorm,#53785a,wmo,град Краснодарский край,2026-07-08T05:37:00+00:00,Russia,0.5724701874231476,1,1,ru,ESB,Europe
+'cb66b8e14e',extremes,Thunderstorm,#53785a,wmo,суровая погода в Эстонии,2026-07-03T06:09:00+00:00,Estonia,0.564011858963806,1,1,ru,NEU,Europe
 'e3a987b8b9',extremes,Thunderstorm,#53785a,wmo,град Архангельская область,2026-07-07T06:30:00+00:00,Russia,0.5611592976766823,1,1,ru,ESB,Europe
 '3c1d8fa457',extremes,Thunderstorm,#53785a,wmo,суровая погода Псковская область,2026-06-20T06:47:00+00:00,Russia,0.560697958145681,1,1,ru,ESB,Europe
 'df214f7453',extremes,Thunderstorm,#53785a,wmo,гроза в россии,2026-06-23T06:33:00+00:00,Russia,0.5587460026474579,3,1,ru,ESB,Europe
