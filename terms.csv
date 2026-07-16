@@ -1,32 +1,21 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4820c4d405',extremes,Flood,#030ba1,wmo,наводнение на юге Камчатского края,2026-06-30T06:39:00+00:00,Russia,0.729330485745906,0,1,ru,ESB,Europe
-'5d7dd68372',extremes,Flood,#030ba1,wmo,затопление республики бурятия,2026-07-09T06:27:00+00:00,Russia,0.7287602017198312,0,1,ru,ESB,Europe
-'cb805a2aaf',extremes,Storm,#b3b2b1,wmo,штормовой нагон Иркутская область,2026-07-07T06:30:00+00:00,Russia,0.7197299381468197,0,1,ru,ESB,Europe
 'f82258495e',extremes,Flood,#030ba1,wmo,затопление свердловской области,2026-07-11T05:27:00+00:00,Russia,0.7105128490789205,3,2,ru,ESB,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-06-27T06:08:00+00:00,Russia,0.6628559366057545,1,1,ru,EAS,Asia
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,шторм в россии,2026-06-26T06:36:00+00:00,Russia,0.644575819544276,2,2,ru,ESB,Europe
 '01e3ebf984',extremes,Thunderstorm,#53785a,wmo,град Краснодарский край,2026-07-08T05:37:00+00:00,Russia,0.6367496743096754,2,2,ru,ESB,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,жара в москве,2026-07-01T06:52:00+00:00,Russia,0.6367201543213674,2,3,ru,ESB,Europe
-'404a3ce925',extremes,Fog,#d60d2b,wmo,туман Калининградская область,2026-07-16T05:25:00+00:00,Russia,0.6322826353111574,1,1,ru,ESB,Europe
-'bd7d2db506',extremes,Wildfire,#d60d2b,wmo,лесной пожар республика хакасия,2026-07-04T05:59:00+00:00,Russia,0.6291018105124788,1,1,ru,ESB,Europe
-'1c3859b268',extremes,Wildfire,#d60d2b,wmo,лесной пожар ростовской области,2026-07-04T05:59:00+00:00,Russia,0.6285301350338927,1,1,ru,ESB,Europe
+'520d37d7b0',extremes,Fog,#d60d2b,wmo,туман беларусь,2026-07-12T05:43:00+00:00,Belarus,0.6344677615973748,2,2,ru,WCE,Europe
 '5625c1f158',extremes,Thunderstorm,#53785a,wmo,гроза в Москве,2026-07-10T06:27:00+00:00,Russia,0.627559878441059,1,3,ru,ESB,Europe
-'04d3913051',extremes,Wildfire,#d60d2b,wmo,лесной пожар воронежской области,2026-07-04T05:59:00+00:00,Russia,0.6259431105400657,1,1,ru,ESB,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,лесной пожар в россии,2026-06-26T06:36:00+00:00,Russia,0.6257522234929167,2,1,ru,ESB,Europe
-'02e96b5a44',extremes,Wildfire,#d60d2b,wmo,лесной пожар Тамбовской области,2026-07-04T05:59:00+00:00,Russia,0.6241749511526751,1,1,ru,ESB,Europe
-'b2ac0b6233',extremes,Flood,#030ba1,wmo,паводок Смоленской области,2026-07-16T05:25:00+00:00,Russia,0.6224245943842049,1,1,ru,ESB,Europe
+'4820c4d405',extremes,Flood,#030ba1,wmo,наводнение на юге Камчатского края,2026-06-30T06:39:00+00:00,Russia,0.61993091288402,1,1,ru,ESB,Europe
+'5d7dd68372',extremes,Flood,#030ba1,wmo,затопление республики бурятия,2026-07-09T06:27:00+00:00,Russia,0.6194461714618565,1,1,ru,ESB,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-07-03T06:09:00+00:00,Russia,0.6180688190394579,3,3,ru,ESB,Europe
+'cb805a2aaf',extremes,Storm,#b3b2b1,wmo,штормовой нагон Иркутская область,2026-07-07T06:30:00+00:00,Russia,0.6117704474247968,1,1,ru,ESB,Europe
 '2322468d4d',extremes,Storm,#b3b2b1,wmo,гроза в Москве,2026-07-04T05:59:00+00:00,Russia,0.5937245284478764,2,2,ru,ESB,Europe
-'633327399f',extremes,Storm,#b3b2b1,wmo,штормовой нагон Кемеровская область,2026-07-15T05:15:00+00:00,Russia,0.5867263178407842,1,1,ru,ESB,Europe
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,дождь россия,2026-06-18T07:16:00+00:00,Russia,0.5840399628818722,3,1,ru,ESB,Europe
 '4e770bc10e',extremes,Precipitation,#d60d2b,wmo,осадки в Беларуси,2026-06-28T06:44:00+00:00,Belarus,0.5819438999606305,2,1,ru,WCE,Europe
-'a295c781ad',extremes,Heat Wave,#c40202,wmo,жара ярославская область,2026-07-10T06:27:00+00:00,Russia,0.5772180808294309,1,1,ru,ESB,Europe
-'6b1d759a5f',extremes,Precipitation,#d60d2b,wmo,осадки на юге Амурской области,2026-07-04T05:59:00+00:00,Russia,0.5763209106732914,1,1,ru,ESB,Europe
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,ливень россия,2026-06-26T06:36:00+00:00,Russia,0.5736619933982338,2,1,ru,ESB,Europe
-'cf99db758d',extremes,Fog,#d60d2b,wmo,туман в Латвии,2026-07-12T05:43:00+00:00,Latvia,0.5713849394660026,1,1,ru,WCE,Europe
 'c37650b8be',extremes,Flood,#030ba1,wmo,паводок в россии,2026-07-03T06:09:00+00:00,Russia,0.5703429420476448,3,1,ru,ESB,Europe
-'09834ec863',extremes,Thunderstorm,#53785a,wmo,град республика калмыкия,2026-07-06T06:52:00+00:00,Russia,0.5701560131716975,1,1,ru,ESB,Europe
-'520d37d7b0',extremes,Fog,#d60d2b,wmo,туман беларусь,2026-07-12T05:43:00+00:00,Belarus,0.5697855842322057,1,1,ru,WCE,Europe
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,туман Литва,2026-07-11T05:27:00+00:00,Lithuania,0.5697719029373233,1,1,ru,WCE,Europe
 '6fccd25a8e',extremes,Storm,#b3b2b1,wmo,штормовой центр Республики Саха,2026-07-13T05:53:00+00:00,Russia,0.5689310758339481,1,1,ru,ESB,Europe
 '79727cc707',extremes,Precipitation,#d60d2b,wmo,проливной дождь республика бурятия,2026-07-11T05:27:00+00:00,Russia,0.5676707943211388,1,1,ru,ESB,Europe
@@ -95,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '288e7f4724',extremes,Wildfire,#d60d2b,wmo,лесной пожар туруханский м.р.,2026-06-26T06:36:00+00:00,Russia,0.5376874802514394,2,1,ru,ESB,Europe
 '43fc77790b',extremes,Heat Wave,#c40202,wmo,жара новосибирская область,2026-06-24T06:30:00+00:00,Russia,0.5374860462709748,3,1,ru,ESB,Europe
 'fbd53a357e',extremes,Thunderstorm,#53785a,wmo,гроза Челябинская область,2026-06-21T07:16:00+00:00,Russia,0.5374727535322457,1,1,ru,ESB,Europe
+'404a3ce925',extremes,Fog,#d60d2b,wmo,туман Калининградская область,2026-07-16T05:25:00+00:00,Russia,0.5374402400144838,2,1,ru,ESB,Europe
 'fcd1ab5579',extremes,Precipitation,#d60d2b,wmo,проливной дождь на севере Амурской области.,2026-06-21T07:16:00+00:00,Russia,0.5373386780813812,1,1,ru,ESB,Europe
 'ab417df746',extremes,Thunderstorm,#53785a,wmo,суровая погода вологодская область,2026-06-10T06:49:00+00:00,Russia,0.5372994631439848,1,1,ru,ESB,Europe
 'ca64be4528',extremes,Storm,#b3b2b1,wmo,шторм в Беларуси,2026-06-19T07:39:00+00:00,Belarus,0.5371181816260289,1,1,ru,WCE,Europe
@@ -119,12 +109,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '540632b130',extremes,Fog,#d60d2b,wmo,туман курская область,2026-07-11T05:27:00+00:00,Russia,0.5348584803329486,2,1,ru,ESB,Europe
 '8710bd49ea',extremes,Earthquake,#870007,usgs,землетрясение Северо-Курильск,2026-06-28T06:44:00+00:00,Russia,0.5348137626665171,2,1,ru,NPO,Pacific Ocean
 '7ba1677e33',extremes,Wildfire,#d60d2b,wmo,лесной пожар эвенкийский м.р.,2026-06-27T06:08:00+00:00,Russia,0.5348102228899997,2,1,ru,ESB,Europe
+'bd7d2db506',extremes,Wildfire,#d60d2b,wmo,лесной пожар республика хакасия,2026-07-04T05:59:00+00:00,Russia,0.534736538935607,2,1,ru,ESB,Europe
 '05ebd8cb9c',extremes,Fog,#d60d2b,wmo,туман республика бурятия,2026-07-06T06:52:00+00:00,Russia,0.534647388517636,2,1,ru,ESB,Europe
 '3ebd14c0c6',extremes,Storm,#b3b2b1,wmo,шторм на севере Камчатского края,2026-06-14T07:07:00+00:00,Russia,0.5346352384927504,1,1,ru,ESB,Europe
 '8042bf38e0',extremes,Thunderstorm,#53785a,wmo,град Ханты-Мансийский автономный округ,2026-07-10T06:27:00+00:00,Russia,0.534534311165343,2,1,ru,ESB,Europe
 'af786d008e',extremes,Wildfire,#d60d2b,wmo,лесной пожар Краснодарский край,2026-07-03T06:09:00+00:00,Russia,0.534466554791361,2,1,ru,ESB,Europe
 '52a2fddad0',extremes,Wildfire,#d60d2b,wmo,лесной пожар республика алтай,2026-06-26T06:36:00+00:00,Russia,0.534391548288301,2,1,ru,ESB,Europe
 'f0e5ced70e',extremes,Fog,#d60d2b,wmo,туман республика ингушетия,2026-07-12T05:43:00+00:00,Russia,0.5343836938615941,2,1,ru,ESB,Europe
+'1c3859b268',extremes,Wildfire,#d60d2b,wmo,лесной пожар ростовской области,2026-07-04T05:59:00+00:00,Russia,0.5342506147788088,2,1,ru,ESB,Europe
 'fa7bad72b0',extremes,Thunderstorm,#53785a,wmo,суровая погода воронежская область,2026-07-04T05:59:00+00:00,Russia,0.5342328548343177,1,1,ru,ESB,Europe
 'bc294b50d8',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика карелия,2026-06-23T06:33:00+00:00,Russia,0.5341215808561851,1,1,ru,ESB,Europe
 'ee479a3672',extremes,Thunderstorm,#53785a,wmo,гроза ленинградская область,2026-06-08T07:13:00+00:00,Russia,0.533963789928155,1,1,ru,ESB,Europe
@@ -147,6 +139,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd957a9afa4',extremes,Storm,#b3b2b1,wmo,штормовой нагон Брянская область,2026-07-04T05:59:00+00:00,Russia,0.5324482367442065,1,1,ru,ESB,Europe
 '39d8c4a5db',extremes,Wildfire,#d60d2b,wmo,лесной пожар в рязанской области,2026-07-05T06:25:00+00:00,Russia,0.5323595129913359,2,1,ru,ESB,Europe
 '54b0538d48',extremes,Storm,#b3b2b1,wmo,штормовой нагон к северу от Курильских островов,2026-06-15T08:36:00+00:00,Russia,0.5321393155240074,1,1,ru,ESB,Europe
+'04d3913051',extremes,Wildfire,#d60d2b,wmo,лесной пожар воронежской области,2026-07-04T05:59:00+00:00,Russia,0.5320516439590558,2,1,ru,ESB,Europe
 '6896a1cd72',extremes,Storm,#b3b2b1,wmo,штормовой нагон Кабардино-Балкарская республика,2026-06-29T07:13:00+00:00,Russia,0.532051474669037,1,1,ru,ESB,Europe
 'd5963abd98',extremes,Storm,#b3b2b1,wmo,гроза туруханский м.р.,2026-06-20T06:47:00+00:00,Russia,0.5316628517068579,1,1,ru,ESB,Europe
 '22d9314aa1',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика алтай,2026-06-18T07:16:00+00:00,Russia,0.5316185135057485,2,1,ru,ESB,Europe
@@ -160,6 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a6169f5f',extremes,Heat Wave,#c40202,wmo,жара Владимирская область,2026-07-01T06:52:00+00:00,Russia,0.530845496469301,1,1,ru,ESB,Europe
 'a62f76e8d7',extremes,Thunderstorm,#53785a,wmo,град Волгоградская область,2026-07-15T05:15:00+00:00,Russia,0.5307080466868713,2,1,ru,ESB,Europe
 '14a88a89d5',extremes,Wildfire,#d60d2b,wmo,лесной пожар в республике коми,2026-06-15T08:36:00+00:00,Russia,0.5306741832979601,2,1,ru,ESB,Europe
+'02e96b5a44',extremes,Wildfire,#d60d2b,wmo,лесной пожар Тамбовской области,2026-07-04T05:59:00+00:00,Russia,0.5305487084797738,2,1,ru,ESB,Europe
 '50729baf34',extremes,Precipitation,#d60d2b,wmo,проливной дождь на севере Хабаровского края.,2026-07-02T06:24:00+00:00,Russia,0.5305181662376799,1,1,ru,ESB,Europe
 'eca0296088',extremes,Wildfire,#d60d2b,wmo,лесной пожар Чукотский автономный округ,2026-06-25T06:32:00+00:00,Russia,0.5304764748149272,2,1,ru,ESB,Europe
 '2c0f2bf1b3',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика башкортостан,2026-06-30T06:39:00+00:00,Russia,0.5304276823070736,1,1,ru,ESB,Europe
@@ -175,6 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4b42490673',extremes,Storm,#b3b2b1,wmo,гроза Тамбовской области,2026-07-10T06:27:00+00:00,Russia,0.5295428867875176,1,1,ru,ESB,Europe
 '9fdafe82e8',extremes,Wildfire,#d60d2b,wmo,лесной пожар республика адыгея,2026-07-10T06:27:00+00:00,Russia,0.5293343720894251,1,1,ru,ESB,Europe
 '59ba4a4410',extremes,Wildfire,#d60d2b,wmo,пожарный центр Красноярского края,2026-06-20T06:47:00+00:00,Russia,0.5290797344906836,2,1,ru,ESB,Europe
+'b2ac0b6233',extremes,Flood,#030ba1,wmo,паводок Смоленской области,2026-07-16T05:25:00+00:00,Russia,0.5290609052265742,2,1,ru,ESB,Europe
 '1d9c104bbb',extremes,Storm,#b3b2b1,wmo,шторм в Литве,2026-06-14T07:07:00+00:00,Lithuania,0.5290422357532767,3,1,ru,WCE,Europe
 '813e8fb134',extremes,Precipitation,#d60d2b,wmo,центр дождей Республики Саха,2026-06-18T07:16:00+00:00,Russia,0.5289352510549793,1,1,ru,ESB,Europe
 'e1feb4bbda',extremes,Wildfire,#d60d2b,wmo,лесной пожар на севере Амурской области,2026-06-29T07:13:00+00:00,Russia,0.5287480453130866,2,1,ru,ESB,Europe
@@ -270,6 +265,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e80e3965c',extremes,Storm,#b3b2b1,wmo,штормовой нагон республика тыва,2026-06-18T07:16:00+00:00,Russia,0.4998223934241648,2,1,ru,ESB,Europe
 '044d6d0797',extremes,Flood,#030ba1,wmo,наводнение карачаево-черкесской республики,2026-06-20T06:47:00+00:00,Russia,0.4996798651806037,2,1,ru,ESB,Europe
 '96e8824946',extremes,Flood,#030ba1,wmo,затопление карачаево-черкесской республики,2026-06-18T07:16:00+00:00,Russia,0.4987428109872718,2,1,ru,ESB,Europe
+'633327399f',extremes,Storm,#b3b2b1,wmo,штормовой нагон Кемеровская область,2026-07-15T05:15:00+00:00,Russia,0.49871737016466655,2,1,ru,ESB,Europe
 '9e21150190',extremes,Flood,#030ba1,wmo,затопление Краснодарского края,2026-06-26T06:36:00+00:00,Russia,0.4986552953148715,2,1,ru,ESB,Europe
 '07f7c2e78c',extremes,Heat Wave,#c40202,wmo,жара Тульская область,2026-06-12T07:05:00+00:00,Russia,0.4982917562414541,2,1,ru,ESB,Europe
 '65bc4c435b',extremes,Heat Wave,#c40202,wmo,жара эвенкийский мр,2026-06-15T08:36:00+00:00,Russia,0.4967347969198984,2,1,ru,ESB,Europe
@@ -292,8 +288,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb7769ac53',extremes,Storm,#b3b2b1,wmo,штормовой нагон чеченской республики,2026-06-29T07:13:00+00:00,Russia,0.491848606243171,2,1,ru,ESB,Europe
 'a62e788c6c',extremes,Storm,#b3b2b1,wmo,шторм на севере Хабаровского края,2026-06-12T07:05:00+00:00,Russia,0.4912125192262611,2,1,ru,ESB,Europe
 '7de02bef4c',extremes,Heat Wave,#c40202,wmo,жара томская область,2026-06-28T06:44:00+00:00,Russia,0.4910390947264831,2,1,ru,ESB,Europe
+'a295c781ad',extremes,Heat Wave,#c40202,wmo,жара ярославская область,2026-07-10T06:27:00+00:00,Russia,0.4906353687050163,2,1,ru,ESB,Europe
 '444d0cdf2a',extremes,Heat Wave,#c40202,wmo,жара ульяновская область,2026-07-04T05:59:00+00:00,Russia,0.4901839764291446,2,1,ru,ESB,Europe
 '488fdb4426',extremes,Storm,#b3b2b1,wmo,гроза томская область,2026-06-12T07:05:00+00:00,Russia,0.4900300277750107,2,1,ru,ESB,Europe
+'6b1d759a5f',extremes,Precipitation,#d60d2b,wmo,осадки на юге Амурской области,2026-07-04T05:59:00+00:00,Russia,0.4898727740722977,2,1,ru,ESB,Europe
 '2c96546107',extremes,Storm,#b3b2b1,wmo,гроза республика хакасия,2026-06-25T06:32:00+00:00,Russia,0.488274786742376,2,1,ru,ESB,Europe
 '0ed10aaca0',extremes,Thunderstorm,#53785a,wmo,гроза Забайкальский край,2026-06-15T08:36:00+00:00,Russia,0.4879676980035495,2,1,ru,ESB,Europe
 '253283d718',extremes,Storm,#b3b2b1,wmo,штормовой нагон Ханты-Мансийского автономного округа,2026-06-11T07:14:00+00:00,Russia,0.4878783284169405,2,1,ru,ESB,Europe
@@ -304,8 +302,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb51062825',extremes,Storm,#b3b2b1,wmo,штормовой нагон Мурманской области,2026-06-23T06:33:00+00:00,Russia,0.4865613881903221,2,1,ru,ESB,Europe
 'ff5e9e9ffb',extremes,Thunderstorm,#53785a,wmo,гроза на востоке республики Саха,2026-07-02T06:24:00+00:00,Russia,0.4861773351998875,2,1,ru,ESB,Europe
 '9b031c92bc',extremes,Fog,#d60d2b,wmo,туман Орловской области,2026-07-12T05:43:00+00:00,Russia,0.4857783242976571,2,1,ru,ESB,Europe
+'cf99db758d',extremes,Fog,#d60d2b,wmo,туман в Латвии,2026-07-12T05:43:00+00:00,Latvia,0.48567719854610214,2,1,ru,WCE,Europe
 'a4877f2acd',extremes,Thunderstorm,#53785a,wmo,град Тамбовская область,2026-07-05T06:25:00+00:00,Russia,0.4852897797091175,2,1,ru,ESB,Europe
 '56e6275c86',extremes,Storm,#b3b2b1,wmo,гроза оренбургская область,2026-06-15T08:36:00+00:00,Russia,0.4849185850225045,2,1,ru,ESB,Europe
+'09834ec863',extremes,Thunderstorm,#53785a,wmo,град республика калмыкия,2026-07-06T06:52:00+00:00,Russia,0.48463261119594286,2,1,ru,ESB,Europe
 '95e4eb7693',extremes,Storm,#b3b2b1,wmo,штормовой нагон Вологодской области,2026-06-13T06:38:00+00:00,Russia,0.4841379536111802,2,1,ru,ESB,Europe
 'f7b7b0a6b9',extremes,Heat Wave,#c40202,wmo,аномальная жара на юге Красноярского края,2026-06-23T06:33:00+00:00,Russia,0.4837990922945035,2,1,ru,ESB,Europe
 '79b755bf34',extremes,Storm,#b3b2b1,wmo,штормовой центр Красноярского края,2026-06-13T06:38:00+00:00,Russia,0.4836167319841403,2,1,ru,ESB,Europe
