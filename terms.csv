@@ -1,6 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-07-24T05:36:00+00:00,Russia,0.7170654670159241,4,3,ru,ESB,Europe
+'80b11ba481',extremes,Storm,#b3b2b1,wmo,шторм в санкт-петербурге,2026-07-21T05:36:00+00:00,Russia,0.7114061694973788,0,1,ru,ESB,Europe
+'928605b1e6',extremes,Flood,#030ba1,wmo,наводнение на севере Амурской области,2026-08-07T04:37:00+00:00,Russia,0.7067719712166906,0,1,ru,ESB,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-07-18T05:10:00+00:00,Russia,0.7047256392478078,2,2,ru,WSB,Europe
+'01879c4312',extremes,Heat Wave,#c40202,wmo,жара липецкая область,2026-08-07T04:37:00+00:00,Russia,0.7035441376843605,0,1,ru,ESB,Europe
+'49c0bb2976',extremes,Thunderstorm,#53785a,wmo,гроза липецкая область,2026-08-07T09:56:00+00:00,Russia,0.702187348315766,0,1,ru,ESB,Europe
+'ba44037fd3',extremes,Heat Wave,#c40202,wmo,жара курская область,2026-08-05T05:31:00+00:00,Russia,0.6985096925239187,0,1,ru,ESB,Europe
+'64c8b1295a',extremes,Heat Wave,#c40202,wmo,жара волгоградская область,2026-07-25T05:29:00+00:00,Russia,0.6976134616416917,0,1,ru,ESB,Europe
+'4820c4d405',extremes,Flood,#030ba1,wmo,наводнение на юге Камчатского края,2026-07-22T05:35:00+00:00,Russia,0.6959298145763343,0,1,ru,ESB,Europe
+'76ad379230',extremes,Earthquake,#870007,usgs,землетрясение Петропавловск Камчатский,2026-07-31T05:51:00+00:00,Russia,0.6943444504932664,0,1,ru,RFE,Asia
+'9cfb4578c4',extremes,Thunderstorm,#53785a,meteo,гроза в Молдове,2026-08-07T11:06:00+00:00,Moldova,0.69423547988845,0,1,ru,WCE,Europe
+'f1acbb862e',extremes,Storm,#b3b2b1,wmo,шторм республика адыгея,2026-08-06T05:33:00+00:00,Russia,0.6896955067530327,0,1,ru,ESB,Europe
 '7747997246',extremes,Fog,#d60d2b,wmo,туман россии,2026-07-17T05:27:00+00:00,Russia,0.6858739934530544,2,1,ru,ESB,Europe
 '53a3fc4fb7',extremes,Wildfire,#d60d2b,wmo,лесной пожар в иркутской области,2026-07-28T05:31:00+00:00,Russia,0.6331588426686987,1,1,ru,ESB,Europe
 '78dd43be95',extremes,Wildfire,#d60d2b,wmo,лесной пожар курская область,2026-08-07T04:37:00+00:00,Russia,0.6233742717360184,1,1,ru,ESB,Europe
@@ -522,5 +532,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5963abd98',extremes,Storm,#b3b2b1,wmo,гроза туруханский м.р.,2026-07-21T05:36:00+00:00,Russia,0.3996522738811675,3,1,ru,ESB,Europe
 'e0a20b939f',extremes,Storm,#b3b2b1,wmo,гроза Ставропольского края,2026-07-28T05:31:00+00:00,Russia,0.3945486254186842,3,1,ru,ESB,Europe
 '0ed10aaca0',extremes,Thunderstorm,#53785a,wmo,гроза Забайкальский край,2026-07-21T05:36:00+00:00,Russia,0.3897231604865899,4,1,ru,ESB,Europe
-'d05d7b6ebc',extremes,Fog,#d60d2b,wmo,туман Псковская область,2026-07-29T05:37:00+00:00,Russia,0.38852764916299387,4,1,ru,ESB,Europe
+'d05d7b6ebc',extremes,Fog,#d60d2b,wmo,туман Псковская область,2026-07-29T05:37:00+00:00,Russia,0.3885276491629938,4,1,ru,ESB,Europe
 'e25656c7b5',extremes,Wildfire,#d60d2b,wmo,лесной пожар в орловской области,2026-07-29T05:37:00+00:00,Russia,0.3874497142129709,4,1,ru,ESB,Europe
