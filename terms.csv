@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e33f5d7d80',extremes,Flood,#030ba1,wmo,затопление Еврейской автономной области,2026-08-01T05:42:00+00:00,Russia,0.7430728663112076,0,1,ru,ESB,Europe
+'7b40bb1cca',extremes,Fog,#d60d2b,wmo,туман республика коми,2026-08-06T05:33:00+00:00,Russia,0.7413575544322675,0,1,ru,ESB,Europe
+'5436243a4b',extremes,Wildfire,#d60d2b,wmo,лесной пожар Ставропольского края,2026-07-30T05:24:00+00:00,Russia,0.7413139026896594,0,1,ru,ESB,Europe
+'59ba4a4410',extremes,Wildfire,#d60d2b,wmo,пожарный центр Красноярского края,2026-08-05T05:31:00+00:00,Russia,0.7409087394562808,0,1,ru,ESB,Europe
+'f0e5ced70e',extremes,Fog,#d60d2b,wmo,туман республика ингушетия,2026-08-07T04:37:00+00:00,Russia,0.7394172247773655,0,1,ru,ESB,Europe
+'bdb3ebf6fc',extremes,Fog,#d60d2b,wmo,туман чеченская республика,2026-08-15T03:13:00+00:00,Russia,0.7391042198615722,0,1,ru,ESB,Europe
+'5877d58b55',extremes,Fog,#d60d2b,wmo,туман ивановская область,2026-08-05T05:31:00+00:00,Russia,0.7373037208649448,0,1,ru,ESB,Europe
+'14a88a89d5',extremes,Wildfire,#d60d2b,wmo,лесной пожар в республике коми,2026-08-02T05:42:00+00:00,Russia,0.7340003464085175,0,1,ru,ESB,Europe
+'df214f7453',extremes,Thunderstorm,#53785a,wmo,гроза в россии,2026-08-03T05:57:00+00:00,Russia,0.7284223825816077,0,1,ru,ESB,Europe
+'9fdafe82e8',extremes,Wildfire,#d60d2b,wmo,лесной пожар республика адыгея,2026-08-04T05:32:00+00:00,Russia,0.7228607449026943,0,1,ru,ESB,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-07-24T05:36:00+00:00,Russia,0.6747394561690051,6,3,ru,ESB,Europe
 '368baf069d',extremes,Drought,#edc291,edo,засуха в россии,2026-07-29T05:38:00+00:00,Russia,0.6732024494139066,2,2,ru,,
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,жара в москве,2026-08-06T05:33:00+00:00,Russia,0.6703277059075311,3,3,ru,ESB,Europe
@@ -222,7 +232,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f8f3ed16f',extremes,Fog,#d60d2b,wmo,туман новосибирская область,2026-07-23T05:40:00+00:00,Russia,0.4906533631584105,2,1,ru,ESB,Europe
 'b1c32750eb',extremes,Storm,#b3b2b1,wmo,гроза Белгородская область,2026-07-24T05:36:00+00:00,Russia,0.4900413006580572,2,1,ru,ESB,Europe
 'b858ad91e2',extremes,Precipitation,#d60d2b,wmo,ливень Иркутская область,2026-07-27T06:05:00+00:00,Russia,0.489025215662087,2,1,ru,ESB,Europe
-'769057ce5f',extremes,Storm,#b3b2b1,wmo,штормовой нагон Пермский край,2026-07-24T05:36:00+00:00,Russia,0.48886679304496117,2,1,ru,ESB,Europe
+'769057ce5f',extremes,Storm,#b3b2b1,wmo,штормовой нагон Пермский край,2026-07-24T05:36:00+00:00,Russia,0.4888667930449611,2,1,ru,ESB,Europe
 '044d6d0797',extremes,Flood,#030ba1,wmo,наводнение карачаево-черкесской республики,2026-07-24T05:36:00+00:00,Russia,0.4882665959514439,2,1,ru,ESB,Europe
 '95ea98243a',extremes,Wildfire,#d60d2b,wmo,лесной пожар Свердловская область,2026-07-28T05:31:00+00:00,Russia,0.4878621392679002,2,1,ru,ESB,Europe
 'c54798ae88',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Молдове,2026-07-12T05:43:00+00:00,Moldova,0.487012320824463,2,1,ru,WCE,Europe
@@ -239,7 +249,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,туман Литва,2026-07-11T05:27:00+00:00,Lithuania,0.4843061174967247,2,1,ru,WCE,Europe
 'eb51062825',extremes,Storm,#b3b2b1,wmo,штормовой нагон Мурманской области,2026-07-17T05:27:00+00:00,Russia,0.4841469894086904,2,1,ru,ESB,Europe
 'd5f19885f3',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Ханты-Мансийском автономном округе,2026-07-20T05:54:00+00:00,Russia,0.4840843090758309,2,1,ru,ESB,Europe
-'5966f3dffc',extremes,Storm,#b3b2b1,wmo,штормовой нагон в Латвии,2026-07-27T06:05:00+00:00,Latvia,0.48405666046985985,2,1,ru,WCE,Europe
+'5966f3dffc',extremes,Storm,#b3b2b1,wmo,штормовой нагон в Латвии,2026-07-27T06:05:00+00:00,Latvia,0.4840566604698598,2,1,ru,WCE,Europe
 'dfdb260e46',extremes,Heat Wave,#c40202,wmo,жара кемеровская область,2026-07-16T05:25:00+00:00,Russia,0.4838394510298603,2,1,ru,ESB,Europe
 '0c32f6c523',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Кировской области,2026-07-27T06:05:00+00:00,Russia,0.4838324662339315,2,1,ru,ESB,Europe
 '79727cc707',extremes,Precipitation,#d60d2b,wmo,проливной дождь республика бурятия,2026-07-11T05:27:00+00:00,Russia,0.4825201751729679,2,1,ru,ESB,Europe
