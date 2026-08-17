@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b2b1441a86',extremes,Snow&Ice,#d60d2b,wmo,снег Омской области,2026-08-17T03:28:00+00:00,Russia,0.7509732209981724,0,1,ru,ESB,Europe
-'d7b5dc98dc',extremes,Flood,#030ba1,wmo,наводнение россия,2026-07-29T05:37:00+00:00,Russia,0.7478814577356636,0,1,ru,ESB,Europe
 '2bc586afe7',extremes,Fog,#d60d2b,wmo,туман республика татарстан,2026-08-01T05:42:00+00:00,Russia,0.7433985047311997,0,1,ru,ESB,Europe
 '4e13fe3c45',extremes,Fog,#d60d2b,wmo,туман Челябинская область,2026-08-17T03:28:00+00:00,Russia,0.7423360386231246,0,1,ru,ESB,Europe
 '082eba1e1c',extremes,Storm,#b3b2b1,wmo,гроза Иркутская область,2026-08-17T03:28:00+00:00,Russia,0.7290454834879808,0,1,ru,ESB,Europe
@@ -12,6 +10,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-07-24T05:36:00+00:00,Russia,0.6747394561690051,6,3,ru,ESB,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,жара в москве,2026-08-06T05:33:00+00:00,Russia,0.6703277059075311,3,3,ru,ESB,Europe
 '368baf069d',extremes,Drought,#edc291,edo,засуха в россии,2026-07-29T05:38:00+00:00,Russia,0.6584239107015474,4,2,ru,,
+'b2b1441a86',extremes,Snow&Ice,#d60d2b,wmo,снег Омской области,2026-08-17T03:28:00+00:00,Russia,0.6383272378484466,1,1,ru,ESB,Europe
+'d7b5dc98dc',extremes,Flood,#030ba1,wmo,наводнение россия,2026-07-29T05:37:00+00:00,Russia,0.635999269075314,1,1,ru,ESB,Europe
 '5877d58b55',extremes,Fog,#d60d2b,wmo,туман ивановская область,2026-08-05T05:31:00+00:00,Russia,0.626708162735203,1,1,ru,ESB,Europe
 '14a88a89d5',extremes,Wildfire,#d60d2b,wmo,лесной пожар в республике коми,2026-08-02T05:42:00+00:00,Russia,0.6239002944472399,1,1,ru,ESB,Europe
 '7f8fa74bb6',extremes,Drought,#edc291,edo,отсутствие дождей в россии,2026-07-31T05:51:00+00:00,Russia,0.6194528629489392,2,1,ru,,
