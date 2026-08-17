@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b2b1441a86',extremes,Snow&Ice,#d60d2b,wmo,снег Омской области,2026-08-17T03:28:00+00:00,Russia,0.7509732209981724,0,1,ru,ESB,Europe
+'d7b5dc98dc',extremes,Flood,#030ba1,wmo,наводнение россия,2026-07-29T05:37:00+00:00,Russia,0.7478814577356636,0,1,ru,ESB,Europe
+'2bc586afe7',extremes,Fog,#d60d2b,wmo,туман республика татарстан,2026-08-01T05:42:00+00:00,Russia,0.7433985047311997,0,1,ru,ESB,Europe
+'4e13fe3c45',extremes,Fog,#d60d2b,wmo,туман Челябинская область,2026-08-17T03:28:00+00:00,Russia,0.7423360386231246,0,1,ru,ESB,Europe
+'082eba1e1c',extremes,Storm,#b3b2b1,wmo,гроза Иркутская область,2026-08-17T03:28:00+00:00,Russia,0.7290454834879808,0,1,ru,ESB,Europe
+'7ca151807a',extremes,Flood,#030ba1,wmo,паводок на севере Хабаровского края,2026-07-31T05:51:00+00:00,Russia,0.711831589689,0,1,ru,ESB,Europe
+'bda20639a1',extremes,Flood,#030ba1,wmo,наводнение Еврейской автономной области,2026-07-31T05:51:00+00:00,Russia,0.7030021005854159,0,1,ru,ESB,Europe
+'ce300c8d92',extremes,Flood,#030ba1,wmo,наводнение на севере Хабаровского края,2026-08-05T05:31:00+00:00,Russia,0.7027312092371372,0,1,ru,ESB,Europe
+'00d0fc4dbe',extremes,Flood,#030ba1,wmo,паводок на юге Амурской области,2026-08-01T05:42:00+00:00,Russia,0.6986511704786127,0,1,ru,ESB,Europe
+'02a9e3923b',extremes,Storm,#b3b2b1,wmo,шторм Подмосковье,2026-08-06T05:33:00+00:00,Russia,0.698403044349353,0,1,ru,ESB,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-07-24T05:36:00+00:00,Russia,0.6747394561690051,6,3,ru,ESB,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,жара в москве,2026-08-06T05:33:00+00:00,Russia,0.6703277059075311,3,3,ru,ESB,Europe
 '368baf069d',extremes,Drought,#edc291,edo,засуха в россии,2026-07-29T05:38:00+00:00,Russia,0.6584239107015474,4,2,ru,,
@@ -204,7 +214,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a23d616ae5',extremes,Wildfire,#d60d2b,wmo,пожарный центр Республики Саха,2026-08-11T04:01:00+00:00,Russia,0.4995143025888118,2,1,ru,ESB,Europe
 '633327399f',extremes,Storm,#b3b2b1,wmo,штормовой нагон Кемеровская область,2026-07-15T05:15:00+00:00,Russia,0.4987173701646665,2,1,ru,ESB,Europe
 'f1acbb862e',extremes,Storm,#b3b2b1,wmo,шторм республика адыгея,2026-08-06T05:33:00+00:00,Russia,0.4983050036290661,2,1,ru,ESB,Europe
-'7de02bef4c',extremes,Heat Wave,#c40202,wmo,жара томская область,2026-07-30T05:24:00+00:00,Russia,0.49815751604602815,2,1,ru,ESB,Europe
+'7de02bef4c',extremes,Heat Wave,#c40202,wmo,жара томская область,2026-07-30T05:24:00+00:00,Russia,0.4981575160460281,2,1,ru,ESB,Europe
 '0cdaff18b8',extremes,Flood,#030ba1,wmo,паводок Кабардино-Балкарская республика,2026-07-16T05:25:00+00:00,Russia,0.4972570462815264,2,1,ru,ESB,Europe
 '9fb68ab478',extremes,Thunderstorm,#53785a,wmo,град Карачаево-Черкесской Республики,2026-07-16T05:25:00+00:00,Russia,0.496999500091751,2,1,ru,ESB,Europe
 'f31a64264a',extremes,Storm,#b3b2b1,wmo,штормовой нагон на юге Амурской области,2026-07-16T05:25:00+00:00,Russia,0.4969268061445374,2,1,ru,ESB,Europe
@@ -256,7 +266,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a79014677f',extremes,Heat Wave,#c40202,wmo,жара кабардино-балкарская республика,2026-07-24T05:36:00+00:00,Russia,0.4775740201686489,2,1,ru,ESB,Europe
 '42487fa38d',extremes,Drought,#edc291,edo,засуха россия,2026-07-18T05:10:00+00:00,Russia,0.4774673328428099,2,1,ru,,
 'e5a222f315',extremes,Thunderstorm,#53785a,wmo,гроза тюменская область,2026-07-26T05:46:00+00:00,Russia,0.4771212955194473,2,1,ru,ESB,Europe
-'1d9c104bbb',extremes,Storm,#b3b2b1,wmo,шторм в Литве,2026-08-01T05:42:00+00:00,Lithuania,0.47691388509281735,2,1,ru,WCE,Europe
+'1d9c104bbb',extremes,Storm,#b3b2b1,wmo,шторм в Литве,2026-08-01T05:42:00+00:00,Lithuania,0.4769138850928173,2,1,ru,WCE,Europe
 '8761acf92e',extremes,Storm,#b3b2b1,wmo,центр штормовых нагонов Красноярского края,2026-07-27T06:05:00+00:00,Russia,0.4769041069136509,2,1,ru,ESB,Europe
 '3e07519e3b',extremes,Fog,#d60d2b,wmo,туман Гродненская область,2026-07-19T05:37:00+00:00,Belarus,0.4768418419918846,2,1,ru,WCE,Europe
 '0f8063f25b',extremes,Earthquake,#870007,usgs,землетрясение маго,2026-08-01T05:41:00+00:00,Russia,0.4767687981034535,2,1,ru,RFE,Europe
@@ -379,7 +389,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79e472aeaf',extremes,Precipitation,#d60d2b,wmo,ливень Алтайский край,2026-07-29T05:37:00+00:00,Russia,0.4506866103623983,2,1,ru,ESB,Europe
 '34fe16d2c0',extremes,Flood,#030ba1,wmo,наводнение к северу от Амурской области,2026-07-17T05:27:00+00:00,Russia,0.4504274634726272,3,1,ru,ESB,Europe
 'bde72a4cae',extremes,Flood,#030ba1,wmo,паводок республика северная осетия алания,2026-07-27T06:05:00+00:00,Russia,0.4495742974684747,3,1,ru,ESB,Europe
-'59d246b767',extremes,Thunderstorm,#53785a,wmo,гроза карачаево-черкесская республика,2026-07-31T05:51:00+00:00,Russia,0.44275390524497504,3,1,ru,ESB,Europe
+'59d246b767',extremes,Thunderstorm,#53785a,wmo,гроза карачаево-черкесская республика,2026-07-31T05:51:00+00:00,Russia,0.442753905244975,3,1,ru,ESB,Europe
 '14b1e130be',extremes,Thunderstorm,#53785a,wmo,суровая погода в россии,2026-07-27T06:05:00+00:00,Russia,0.4401314039008051,3,1,ru,ESB,Europe
 '0d9aab2bad',extremes,Heat Wave,#c40202,wmo,жара челябинская область,2026-07-25T05:29:00+00:00,Russia,0.4275808391926343,3,1,ru,ESB,Europe
 '25f8d8528b',extremes,Storm,#b3b2b1,wmo,штормовой нагон на севере Хабаровского края,2026-07-16T05:25:00+00:00,Russia,0.4261061699985919,3,1,ru,ESB,Europe
