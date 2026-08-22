@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7747997246',extremes,Fog,#d60d2b,wmo,туман россии,2026-08-07T04:37:00+00:00,Russia,0.7481034962653577,0,1,ru,ESB,Europe
-'0631ca1034',extremes,Wildfire,#d60d2b,wmo,лесной пожар республика северная осетия алания,2026-08-07T04:37:00+00:00,Russia,0.7365444216645914,0,1,ru,ESB,Europe
 'a53d92bc21',extremes,Storm,#b3b2b1,wmo,гроза республика тыва,2026-08-07T04:37:00+00:00,Russia,0.7008874831311208,0,1,ru,ESB,Europe
 'f05a6139b4',extremes,Precipitation,#d60d2b,wmo,ливень россия,2026-08-07T04:37:00+00:00,Russia,0.6761639562081291,0,1,ru,ESB,Europe
 '19e4bbc007',extremes,Fog,#d60d2b,wmo,туман Эстония,2026-08-22T03:22:00+00:00,Estonia,0.6737871424837649,0,1,ru,NEU,Europe
@@ -16,7 +14,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb51062825',extremes,Storm,#b3b2b1,wmo,штормовой нагон Мурманской области,2026-08-07T04:37:00+00:00,Russia,0.6569687095907354,0,1,ru,ESB,Europe
 '1260f3a52f',extremes,Heat Wave,#c40202,wmo,жара в москве,2026-08-06T05:33:00+00:00,Russia,0.6520020572941287,4,3,ru,ESB,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-07-24T05:36:00+00:00,Russia,0.6399154520293686,7,3,ru,ESB,Europe
+'7747997246',extremes,Fog,#d60d2b,wmo,туман россии,2026-08-07T04:37:00+00:00,Russia,0.636338016825554,1,1,ru,ESB,Europe
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,дождь россия,2026-07-30T05:24:00+00:00,Russia,0.6313948971802712,2,2,ru,ESB,Europe
+'0631ca1034',extremes,Wildfire,#d60d2b,wmo,лесной пожар республика северная осетия алания,2026-08-07T04:37:00+00:00,Russia,0.6260627584149027,1,1,ru,ESB,Europe
 'b426b7cca7',extremes,Heat Wave,#c40202,wmo,жара алтайский край,2026-07-21T05:36:00+00:00,Russia,0.6169190151484323,3,2,ru,ESB,Europe
 'df214f7453',extremes,Thunderstorm,#53785a,wmo,гроза в россии,2026-08-03T05:57:00+00:00,Russia,0.616299101343783,2,1,ru,ESB,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-07-18T05:10:00+00:00,Russia,0.61006920114056,5,2,ru,WSB,Europe
