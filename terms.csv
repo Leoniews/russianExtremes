@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'25b6813d1f',extremes,Flood,#030ba1,wmo,паводок на юге Камчатского края,2026-08-23T03:30:00+00:00,Russia,0.7295985325117212,0,1,ru,ESB,Europe
-'d6c57c846e',extremes,Flood,#030ba1,wmo,наводнение на севере Хабаровского края,2026-08-07T09:56:00+00:00,Russia,0.7235832029770695,0,1,ru,ESB,Europe
-'5f5c31b2b1',extremes,Heat Wave,#c40202,wmo,жара Краснодарский край,2026-08-23T03:30:00+00:00,Russia,0.7070579912530092,0,1,ru,ESB,Europe
+'5f5c31b2b1',extremes,Heat Wave,#c40202,wmo,жара Краснодарский край,2026-08-23T03:30:00+00:00,Russia,0.7511493075650578,1,2,ru,ESB,Europe
 '7c7ee3b12b',extremes,Storm,#b3b2b1,wmo,штормовой нагон россия,2026-08-07T04:37:00+00:00,Russia,0.7041332851689639,0,1,ru,ESB,Europe
 '56dc5e1ecc',extremes,Heat Wave,#c40202,wmo,жара республика адыгея,2026-08-23T03:30:00+00:00,Russia,0.7037719952674343,0,1,ru,ESB,Europe
 'd1c9ff439b',extremes,Storm,#b3b2b1,wmo,гроза республика татарстан,2026-08-23T03:30:00+00:00,Russia,0.6962229478568331,0,1,ru,ESB,Europe
@@ -15,8 +13,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9fb68ab478',extremes,Thunderstorm,#53785a,wmo,град Карачаево-Черкесской Республики,2026-08-06T05:33:00+00:00,Russia,0.6502158251301183,0,1,ru,ESB,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-07-24T05:36:00+00:00,Russia,0.6399154520293686,7,3,ru,ESB,Europe
 'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,дождь россия,2026-07-30T05:24:00+00:00,Russia,0.6313948971802712,2,2,ru,ESB,Europe
+'25b6813d1f',extremes,Flood,#030ba1,wmo,паводок на юге Камчатского края,2026-08-23T03:30:00+00:00,Russia,0.620158752634963,1,1,ru,ESB,Europe
 'b426b7cca7',extremes,Heat Wave,#c40202,wmo,жара алтайский край,2026-07-21T05:36:00+00:00,Russia,0.6169190151484323,3,2,ru,ESB,Europe
 'df214f7453',extremes,Thunderstorm,#53785a,wmo,гроза в россии,2026-08-03T05:57:00+00:00,Russia,0.616299101343783,2,1,ru,ESB,Europe
+'d6c57c846e',extremes,Flood,#030ba1,wmo,наводнение на севере Хабаровского края,2026-08-07T09:56:00+00:00,Russia,0.615045722530509,1,1,ru,ESB,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-07-18T05:10:00+00:00,Russia,0.61006920114056,5,2,ru,WSB,Europe
 '1c3859b268',extremes,Wildfire,#d60d2b,wmo,лесной пожар ростовской области,2026-07-27T06:05:00+00:00,Russia,0.6069355472288784,4,1,ru,ESB,Europe
 'c1355f81e0',extremes,Storm,#b3b2b1,wmo,штурм чеченской республики,2026-08-03T05:57:00+00:00,Russia,0.5956932959451837,5,1,ru,ESB,Europe
