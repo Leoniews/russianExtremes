@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 the Hydrometeorological Center,the Hydrometeorological Center,ORG,-0.06913352272727274,0.2752129663571195,en,49.60000000000001
 TASS,TASS,ORG,-0.04227225230360028,0.20931889427187228,en,31.89999999999999
-the Russian Ministry of Emergency Situations,the Russian Ministry of Emergency Situations,ORG,0.04813330093942339,0.10665289925494008,en,19.6
+the Russian Ministry of Emergency Situations,the Russian Ministry of Emergency Situations,ORG,0.05444822373393802,0.12335222978080122,en,21.0
 the Russian Academy of Sciences,the Russian Academy of Sciences,ORG,0.011978422973187377,0.11729864085885029,en,19.099999999999994
 the Ukrainian Armed Forces,the Ukrainian Armed Forces,ORG,0.0655014628228914,0.2091316421673565,en,18.199999999999996
 The Ministry of Emergency Situations,The Ministry of Emergency Situations,ORG,-0.04629629629629628,0.19351851851851845,en,18.000000000000007
@@ -9,7 +9,7 @@ the Unified Geophysical Service,the Unified Geophysical Service,ORG,0.0148760330
 The Hydrometeorological Center,The Hydrometeorological Center,ORG,-0.16854745370370375,0.30333719135802467,en,14.4
 Interfax,Interfax,ORG,0.038952991452991456,0.3793376068376069,en,13.0
 the Ministry of Emergency Situations,the Ministry of Emergency Situations,ORG,-0.023347701149425294,0.20557950191570887,en,11.599999999999998
-Ministry of Emergency Situations,Ministry of Emergency Situations,ORG,0.06880252100840338,0.46288515406162484,en,10.199999999999998
+Ministry of Emergency Situations,Ministry of Emergency Situations,ORG,0.07355832241153344,0.5249017038007866,en,10.899999999999997
 the Russian Hydrometeorological Center,the Russian Hydrometeorological Center,ORG,-0.05854971819645733,0.1897393317230274,en,9.2
 the Russian Ministry of Defense,the Russian Ministry of Defense,ORG,-0.0446866832409001,0.06897430993816535,en,8.3
 Hydrometeorological,Hydrometeorological,ORG,-0.11128048780487805,0.2713414634146341,en,8.200000000000001
@@ -41,47 +41,47 @@ Yandex Weather,Yandex Weather,ORG,0.02777777777777779,0.338888888888889,en,2.999
 Kuban,Kuban,ORG,0.03078817733990147,0.14778325123152708,en,2.9000000000000004
 Tolyatti,Tolyatti,ORG,0.0,0.0,en,2.8
 The Ukrainian Armed Forces,The Ukrainian Armed Forces,ORG,0.0925925925925926,0.17901234567901236,en,2.6999999999999997
-The Main Directorate of,The Main Directorate of,ORG,-0.004273504273504258,0.1923076923076923,en,2.6
 NATO,NATO,ORG,0.0,0.15384615384615385,en,2.6
 Tuva,Tuva,ORG,-0.08653846153846152,0.18269230769230768,en,2.6
 Roman Vilfand,Roman Vilfand,ORG,0.03899572649572648,0.32532051282051283,en,2.6
+The Main Directorate of,The Main Directorate of,ORG,-0.004273504273504258,0.1923076923076923,en,2.6
 the US Geological Survey,the US Geological Survey,ORG,0.0,0.0,en,2.5999999999999996
-the State Service of Ukraine,the State Service of Ukraine,ORG,0.0,0.0,en,2.5999999999999996
 the RUDN Institute of Ecology,the RUDN Institute of Ecology,ORG,0.08413461538461539,0.1322115384615385,en,2.5999999999999996
-the Russian Ministry of Emergency Situations for,the Russian Ministry of Emergency Situations for,ORG,-0.028888888888888874,0.16444444444444445,en,2.5
+the State Service of Ukraine,the State Service of Ukraine,ORG,0.0,0.0,en,2.5999999999999996
 Urals,Urals,ORG,-0.065,0.075,en,2.5
+the Russian Ministry of Emergency Situations for,the Russian Ministry of Emergency Situations for,ORG,-0.028888888888888874,0.16444444444444445,en,2.5
 RT,RT,ORG,0.05555555555555556,0.17824074074074076,en,2.4
-the Main Directorate of the Ministry of Emergency Situations of,the Main Directorate of the Ministry of Emergency Situations of,ORG,0.20833333333333334,0.2777777777777778,en,2.4
 Kaliningrad,Kaliningrad,ORG,0.0444023569023569,0.14183501683501684,en,2.4
+the Main Directorate of the Ministry of Emergency Situations of,the Main Directorate of the Ministry of Emergency Situations of,ORG,0.20833333333333334,0.2777777777777778,en,2.4
+Iskander,Iskander,ORG,0.07378472222222222,0.36458333333333337,en,2.4
+Petropavlovsk-Kamchatsky,Petropavlovsk-Kamchatsky,ORG,0.0,0.0,en,2.4
 the Main Directorate of the Ministry of Emergency Situations,the Main Directorate of the Ministry of Emergency Situations,ORG,0.1736111111111111,0.20833333333333334,en,2.4
 MLRS,MLRS,ORG,0.005952380952380949,0.15104166666666666,en,2.4
-Petropavlovsk-Kamchatsky,Petropavlovsk-Kamchatsky,ORG,0.0,0.0,en,2.4
-Iskander,Iskander,ORG,0.07378472222222222,0.36458333333333337,en,2.4
 the Russian Armed Forces,the Russian Armed Forces,ORG,0.0,0.0,en,2.3
 SHENDEROVICH,SHENDEROVICH,ORG,0.1331168831168831,0.47619047619047616,en,2.1
 Reuters,Reuters,ORG,0.05,0.1875,en,2.0
 the Ministry of Defense,the Ministry of Defense,ORG,-0.07777777777777779,0.2277777777777778,en,2.0
-Java,Java,ORG,0.07719298245614035,0.17543859649122806,en,1.9
 The European-Mediterranean Seismological Center,The European-Mediterranean Seismological Center,ORG,-0.016746411483253596,0.145933014354067,en,1.9
-MIFF,MIFF,ORG,0.043859649122807015,0.0,en,1.9
+Java,Java,ORG,0.07719298245614035,0.17543859649122806,en,1.9
 Togliatti,Togliatti,ORG,0.0,0.0,en,1.9
-Koco News,Koco News,ORG,-0.07894736842105263,0.0,en,1.9
-ABC,ABC,ORG,-0.3157894736842105,0.2105263157894737,en,1.9
+MIFF,MIFF,ORG,0.043859649122807015,0.0,en,1.9
 Superjet,Superjet,ORG,0.0,0.0,en,1.9
-Live Science,Live Science,ORG,0.07177033492822966,0.19736842105263158,en,1.9
 The Moscow City Hall,The Moscow City Hall,ORG,0.0,0.5263157894736842,en,1.9
+Live Science,Live Science,ORG,0.07177033492822966,0.19736842105263158,en,1.9
+ABC,ABC,ORG,-0.3157894736842105,0.2105263157894737,en,1.9
 USGS,USGS,ORG,0.0,0.0,en,1.9
 NBC,NBC,ORG,0.1729323308270677,0.0,en,1.9
+Koco News,Koco News,ORG,-0.07894736842105263,0.0,en,1.9
 Transcarpathia,Transcarpathia,ORG,0.017543859649122806,0.07017543859649122,en,1.9
 Sakhalin Neftegorsk,Sakhalin Neftegorsk,ORG,0.002314814814814822,0.19907407407407407,en,1.8
+AFU,AFU,ORG,0.0,0.0,en,1.8
 Karelia,Karelia,ORG,0.0,0.0,en,1.8
 the Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences,the Pushchino Scientific Center for Biological Research of the Russian Academy of Sciences,ORG,-0.05555555555555556,0.02777777777777778,en,1.8
 Vilfand,Vilfand,ORG,-0.02777777777777778,0.0,en,1.8
 the Main Directorate of the Ministry of Internal Affairs of Russia,the Main Directorate of the Ministry of Internal Affairs of Russia,ORG,0.040123456790123455,0.15432098765432095,en,1.8
 the State Traffic Inspectorate,the State Traffic Inspectorate,ORG,0.040123456790123455,0.15432098765432095,en,1.8
-AFU,AFU,ORG,0.0,0.0,en,1.8
 The Russian Armed Forces,The Russian Armed Forces,ORG,0.0,0.0,en,1.7
-Irokinda,Irokinda,ORG,0.22058823529411764,0.5147058823529412,en,1.7
+Lyubertsy,Lyubertsy,ORG,-0.05882352941176471,0.2647058823529412,en,1.7
 the State Duma Committee,the State Duma Committee,ORG,-0.17647058823529413,0.36764705882352944,en,1.7
 Fog,Fog,ORG,0.0,0.07352941176470588,en,1.7
 the crisis management department,the crisis management department,ORG,-0.05882352941176471,0.029411764705882356,en,1.7
@@ -89,60 +89,60 @@ The Ministry of Defense,The Ministry of Defense,ORG,0.0,0.0,en,1.7
 Zhara Music,Zhara Music,ORG,0.0,0.0,en,1.7
 HIMARS,HIMARS,ORG,0.0,0.0,en,1.7
 NSN,NSN,ORG,-0.05882352941176471,0.05882352941176471,en,1.7
-Lyubertsy,Lyubertsy,ORG,-0.05882352941176471,0.2647058823529412,en,1.7
+Irokinda,Irokinda,ORG,0.22058823529411764,0.5147058823529412,en,1.7
+G5,G5,ORG,0.040106951871657755,0.0,en,1.7
 Newsweek,Newsweek,ORG,0.42016806722689076,0.3361344537815126,en,1.7
-the Armed Forces of Ukraine,the Armed Forces of Ukraine,ORG,0.0,0.0,en,1.7
 Surgut,Surgut,ORG,0.049019607843137254,0.22549019607843135,en,1.7
 the Department of Environmental Safety and Product Quality Management,the Department of Environmental Safety and Product Quality Management,ORG,0.1286764705882353,0.20220588235294118,en,1.7
-G5,G5,ORG,0.040106951871657755,0.0,en,1.7
-Crimea,Crimea,ORG,0.10416666666666666,0.20833333333333331,en,1.6
+the Armed Forces of Ukraine,the Armed Forces of Ukraine,ORG,0.0,0.0,en,1.7
 TCC,TCC,ORG,0.08035714285714285,0.20982142857142855,en,1.6
+Crimea,Crimea,ORG,0.10416666666666666,0.20833333333333331,en,1.6
 Chkalovsk,Chkalovsk,ORG,-0.2708333333333333,0.625,en,1.6
 Kostroma,Kostroma,ORG,0.0625,0.18749999999999997,en,1.6
-Wildberries,Wildberries,ORG,0.0,0.0,en,1.3
-the Russian Security Council,the Russian Security Council,ORG,0.017732267732267715,0.26698301698301696,en,1.3
 ️NEWS,️NEWS,ORG,-0.0951825951825952,0.3632478632478633,en,1.3
 Yle,Yle,ORG,0.19871794871794868,0.4266381766381766,en,1.3
-Khinshtein,Khinshtein,ORG,0.0,0.0,en,1.3
-AI,AI,ORG,-0.0641025641025641,0.0641025641025641,en,1.3
 Sberbank,Sberbank,ORG,0.13752913752913754,0.20571095571095568,en,1.3
-CSTO,CSTO,ORG,-0.23076923076923075,0.3589743589743589,en,1.3
-Armed Forces,Armed Forces,ORG,0.0,0.0,en,1.3
 Perm,Perm,ORG,-0.15384615384615385,0.0,en,1.3
+Udmurtia,Udmurtia,ORG,0.7692307692307692,0.3846153846153846,en,1.3
+CSTO,CSTO,ORG,-0.23076923076923075,0.3589743589743589,en,1.3
+Wildberries,Wildberries,ORG,0.0,0.0,en,1.3
+the Russian Security Council,the Russian Security Council,ORG,0.017732267732267715,0.26698301698301696,en,1.3
+Khinshtein,Khinshtein,ORG,0.0,0.0,en,1.3
+Yaroslavl,Yaroslavl,ORG,0.07692307692307693,0.3076923076923077,en,1.3
+Armed Forces,Armed Forces,ORG,0.0,0.0,en,1.3
+AI,AI,ORG,-0.0641025641025641,0.0641025641025641,en,1.3
 Meteum AI,Meteum AI,ORG,0.0,0.0,en,1.3
 Bloomberg,Bloomberg,ORG,0.0,0.0,en,1.3
-Udmurtia,Udmurtia,ORG,0.7692307692307692,0.3846153846153846,en,1.3
-Yaroslavl,Yaroslavl,ORG,0.07692307692307693,0.3076923076923077,en,1.3
-People's Artist,People's Artist,ORG,0.1,0.0,en,1.0
-State Emergency Service,State Emergency Service,ORG,0.0,0.0,en,1.0
-the National Seismological Center of Chile,the National Seismological Center of Chile,ORG,-0.1,0.0,en,1.0
-Doctor of Technical Sciences,Doctor of Technical Sciences,ORG,0.0,0.0,en,1.0
-Ro,Ro,ORG,0.4,0.0,en,1.0
-Rospotrebnadzor,Rospotrebnadzor,ORG,-0.125,0.0,en,1.0
-the Security Council of the Russian Federation,the Security Council of the Russian Federation,ORG,0.0,0.0,en,1.0
-LAWNESS,LAWNESS,ORG,0.07878787878787878,0.0,en,1.0
-the University of Camerino,the University of Camerino,ORG,0.0,0.0,en,1.0
-ISTP,ISTP,ORG,0.0,0.0,en,1.0
-the Ministry of Transport of the Russian Federation,the Ministry of Transport of the Russian Federation,ORG,-0.041666666666666664,0.0,en,1.0
-SberStrakhovanie,SberStrakhovanie,ORG,-0.3999999999999999,0.0,en,1.0
-La Guaira,La Guaira,ORG,0.0,0.0,en,1.0
-KREMLIN,KREMLIN,ORG,-0.07121212121212121,0.0,en,1.0
 The Groza Group of Companies,The Groza Group of Companies,ORG,0.0,0.0,en,1.0
-Tasnim,Tasnim,ORG,0.0,0.0,en,1.0
-Plex,Plex,ORG,-0.045,0.0,en,1.0
-GK,GK,ORG,0.0,0.0,en,1.0
-The Ministry of Energy of Ukraine,The Ministry of Energy of Ukraine,ORG,0.0,0.0,en,1.0
+Doctor of Technical Sciences,Doctor of Technical Sciences,ORG,0.0,0.0,en,1.0
+SberStrakhovanie,SberStrakhovanie,ORG,-0.3999999999999999,0.0,en,1.0
+Zastava,Zastava,ORG,0.0,0.0,en,1.0
+Rospotrebnadzor,Rospotrebnadzor,ORG,-0.125,0.0,en,1.0
+Ro,Ro,ORG,0.4,0.0,en,1.0
+the Federal Forestry Agency,the Federal Forestry Agency,ORG,0.5,0.0,en,1.0
+the National Seismological Center of Chile,the National Seismological Center of Chile,ORG,-0.1,0.0,en,1.0
+State Emergency Service,State Emergency Service,ORG,0.0,0.0,en,1.0
+La Guaira,La Guaira,ORG,0.0,0.0,en,1.0
+ISTP,ISTP,ORG,0.0,0.0,en,1.0
 ERR,ERR,ORG,0.0,0.0,en,1.0
 Elektrilevi,Elektrilevi,ORG,0.0,0.0,en,1.0
-the State Emergency Service of Ukraine,the State Emergency Service of Ukraine,ORG,0.0,0.0,en,1.0
-the State Service for Emergency Situations,the State Service for Emergency Situations,ORG,0.0,0.0,en,1.0
+GK,GK,ORG,0.0,0.0,en,1.0
+KREMLIN,KREMLIN,ORG,-0.07121212121212121,0.0,en,1.0
 the State Emergency Service,the State Emergency Service,ORG,0.0,0.0,en,1.0
-the Federal Forestry Agency,the Federal Forestry Agency,ORG,0.5,0.0,en,1.0
-RELOKANTS,RELOKANTS,ORG,0.0,0.0,en,1.0
+People's Artist,People's Artist,ORG,0.1,0.0,en,1.0
+Tasnim,Tasnim,ORG,0.0,0.0,en,1.0
+LAWNESS,LAWNESS,ORG,0.07878787878787878,0.0,en,1.0
+Plex,Plex,ORG,-0.045,0.0,en,1.0
 The Russian Army,The Russian Army,ORG,-0.025,0.0,en,1.0
-Sevastopol,Sevastopol,ORG,-0.18333333333333335,0.0,en,1.0
-CIA,CIA,ORG,0.0,0.0,en,1.0
+the State Emergency Service of Ukraine,the State Emergency Service of Ukraine,ORG,0.0,0.0,en,1.0
+the University of Camerino,the University of Camerino,ORG,0.0,0.0,en,1.0
+The Ministry of Energy of Ukraine,The Ministry of Energy of Ukraine,ORG,0.0,0.0,en,1.0
+the State Service for Emergency Situations,the State Service for Emergency Situations,ORG,0.0,0.0,en,1.0
+United Russia,United Russia,ORG,0.0,0.0,en,1.0
+the Russian Rugby 7s Cup,the Russian Rugby 7s Cup,ORG,0.0,0.0,en,1.0
+the Ukrainian Navy,the Ukrainian Navy,ORG,0.0,0.0,en,1.0
 GRU,GRU,ORG,0.0,0.0,en,1.0
+Shiryaev,Shiryaev,ORG,0.0,0.0,en,1.0
 Frosts,Frosts,ORG,-0.1,0.0,en,1.0
 the Caucasus Investment Forum,the Caucasus Investment Forum,ORG,0.2,0.0,en,1.0
 Esaulovskaya Loop,Esaulovskaya Loop,ORG,0.05,0.0,en,1.0
@@ -151,100 +151,101 @@ Sobyanin,Sobyanin,ORG,0.0,0.0,en,1.0
 the Laboratory of Solar-Terrestrial Physics of the Trofimuk Institute of Petroleum Geology and Geophysics,the Laboratory of Solar-Terrestrial Physics of the Trofimuk Institute of Petroleum Geology and Geophysics,ORG,0.0,0.0,en,1.0
 INGG,INGG,ORG,0.0,0.0,en,1.0
 Vnukovo,Vnukovo,ORG,-0.08571428571428572,0.0,en,1.0
-Zaporozhye,Zaporozhye,ORG,0.0,0.0,en,1.0
+CIA,CIA,ORG,0.0,0.0,en,1.0
 TA,TA,ORG,0.0,0.0,en,1.0
 the White House,the White House,ORG,-0.13333333333333333,0.0,en,1.0
-the Ukrainian Navy,the Ukrainian Navy,ORG,0.0,0.0,en,1.0
-Khasavyurt,Khasavyurt,ORG,0.0,0.0,en,1.0
-Zastava,Zastava,ORG,0.0,0.0,en,1.0
-Operation Jihad,Operation Jihad,ORG,0.0,0.0,en,1.0
+Zaporozhye,Zaporozhye,ORG,0.0,0.0,en,1.0
+Sevastopol,Sevastopol,ORG,-0.18333333333333335,0.0,en,1.0
+Tyumen Oil Refinery,Tyumen Oil Refinery,ORG,0.0,0.0,en,1.0
 the Estonian Defense Forces,the Estonian Defense Forces,ORG,0.0,0.0,en,1.0
+Khasavyurt,Khasavyurt,ORG,0.0,0.0,en,1.0
+Operation Jihad,Operation Jihad,ORG,0.0,0.0,en,1.0
 Bucha,Bucha,ORG,0.0,0.0,en,1.0
-News Vedomosti,News Vedomosti,ORG,0.0,0.0,en,1.0
 Makarov,Makarov,ORG,-0.16666666666666666,0.0,en,1.0
-Ermolov,Ermolov,ORG,0.0,0.0,en,1.0
-The White House,The White House,ORG,0.11363636363636363,0.0,en,1.0
+News Vedomosti,News Vedomosti,ORG,0.0,0.0,en,1.0
 the Domodedovo Central City Hospital,the Domodedovo Central City Hospital,ORG,0.0,0.0,en,1.0
-the Oval Office,the Oval Office,ORG,-0.1,0.0,en,1.0
+Ermolov,Ermolov,ORG,0.0,0.0,en,1.0
+RELOKANTS,RELOKANTS,ORG,0.0,0.0,en,1.0
+The White House,The White House,ORG,0.11363636363636363,0.0,en,1.0
 Novikov,Novikov,ORG,0.0,0.0,en,1.0
 DSNS Ukraine,DSNS Ukraine,ORG,0.21388888888888888,0.0,en,1.0
+the Oval Office,the Oval Office,ORG,-0.1,0.0,en,1.0
 Pastukhov,Pastukhov,ORG,0.0,0.0,en,1.0
-Tyumen Oil Refinery,Tyumen Oil Refinery,ORG,0.0,0.0,en,1.0
-the Russian Rugby 7s Cup,the Russian Rugby 7s Cup,ORG,0.0,0.0,en,1.0
 Sun,Sun,ORG,0.0,0.0,en,1.0
-the “Fortune Teller”,the “Fortune Teller”,ORG,-0.15,0.0,en,1.0
 Ministry of Transport: Thunderstorms and,Ministry of Transport: Thunderstorms and,ORG,0.0,0.0,en,1.0
 Pentagon,Pentagon,ORG,0.0,0.0,en,1.0
-Bashneft,Bashneft,ORG,0.0,0.0,en,1.0
-CRIMEA,CRIMEA,ORG,0.13636363636363635,0.0,en,1.0
+the Kazan Gubernia,the Kazan Gubernia,ORG,0.0,0.0,en,1.0
+Lavra,Lavra,ORG,0.0,0.0,en,1.0
 Legal Forum,Legal Forum,ORG,0.2785714285714286,0.0,en,1.0
+CRIMEA,CRIMEA,ORG,0.13636363636363635,0.0,en,1.0
+The Armed Forces of Ukraine,The Armed Forces of Ukraine,ORG,0.0,0.0,en,1.0
 the capital's,the capital's,ORG,0.21428571428571427,0.0,en,1.0
 Shower,Shower,ORG,-0.1,0.0,en,1.0
+Axios,Axios,ORG,0.0,0.0,en,1.0
 SBU,SBU,ORG,0.0,0.0,en,1.0
-The Armed Forces of Ukraine,The Armed Forces of Ukraine,ORG,0.0,0.0,en,1.0
-"Belkovsky, Dzyadko","Belkovsky, Dzyadko",ORG,0.0,0.0,en,1.0
+the Civil Defense and Defense Agency,the Civil Defense and Defense Agency,ORG,0.375,0.0,en,1.0
 The Main Directorate of the Ministry of Emergency Situations,The Main Directorate of the Ministry of Emergency Situations,ORG,0.16666666666666666,0.0,en,1.0
 Numbness,Numbness,ORG,0.25,0.0,en,1.0
 Arsenal,Arsenal,ORG,0.0,0.0,en,1.0
 SPIEF,SPIEF,ORG,0.0893939393939394,0.0,en,1.0
-Axios,Axios,ORG,0.0,0.0,en,1.0
 Kurenkov,Kurenkov,ORG,-0.1,0.0,en,1.0
-The British Army,The British Army,ORG,0.03333333333333333,0.0,en,1.0
-Lavra,Lavra,ORG,0.0,0.0,en,1.0
+The CSTO Humanitarian Response Center,The CSTO Humanitarian Response Center,ORG,-0.1,0.0,en,1.0
 the Central Bank,the Central Bank,ORG,0.0,0.0,en,1.0
-Lukoil,Lukoil,ORG,0.0,0.0,en,1.0
-SHIRYAEV,SHIRYAEV,ORG,0.13636363636363635,0.0,en,1.0
+Evraev,Evraev,ORG,0.1,0.0,en,1.0
+Bashneft,Bashneft,ORG,0.0,0.0,en,1.0
+Krutikhin,Krutikhin,ORG,0.0,0.0,en,1.0
+Stairway2Heaven,Stairway2Heaven,ORG,0.10000000000000002,0.0,en,1.0
 Navigation,Navigation,ORG,0.0,0.0,en,1.0
 Tula,Tula,ORG,0.0,0.0,en,1.0
 "Sheitelman, Vakulenko, Astrov","Sheitelman, Vakulenko, Astrov",ORG,0.0,0.0,en,1.0
 Patreon,Patreon,ORG,0.0,0.0,en,1.0
 APU,APU,ORG,0.0,0.0,en,1.0
-Krutikhin,Krutikhin,ORG,0.0,0.0,en,1.0
-THE MINISTRY OF DEFENSE,THE MINISTRY OF DEFENSE,ORG,0.13636363636363635,0.0,en,1.0
-Yekaterinburg,Yekaterinburg,ORG,0.0,0.0,en,1.0
-United Russia,United Russia,ORG,0.0,0.0,en,1.0
-Yashin,Yashin,ORG,0.0,0.0,en,1.0
-Okhlobystin,Okhlobystin,ORG,0.0,0.0,en,1.0
+SHIRYAEV,SHIRYAEV,ORG,0.13636363636363635,0.0,en,1.0
+Lukoil,Lukoil,ORG,0.0,0.0,en,1.0
 the St. Petersburg International Legal Forum,the St. Petersburg International Legal Forum,ORG,-0.1666666666666666,0.0,en,1.0
+THE MINISTRY OF DEFENSE,THE MINISTRY OF DEFENSE,ORG,0.13636363636363635,0.0,en,1.0
+Yashin,Yashin,ORG,0.0,0.0,en,1.0
 the Pushchino Scientific Center,the Pushchino Scientific Center,ORG,-0.05,0.0,en,1.0
-Evraev,Evraev,ORG,0.1,0.0,en,1.0
-the Kazan Gubernia,the Kazan Gubernia,ORG,0.0,0.0,en,1.0
+Okhlobystin,Okhlobystin,ORG,0.0,0.0,en,1.0
+Yekaterinburg,Yekaterinburg,ORG,0.0,0.0,en,1.0
+The British Army,The British Army,ORG,0.03333333333333333,0.0,en,1.0
 "Krutikhin, Martynov","Krutikhin, Martynov",ORG,0.0,0.0,en,1.0
+the Ministry of Transport of the Russian Federation,the Ministry of Transport of the Russian Federation,ORG,-0.041666666666666664,0.0,en,1.0
 LNG,LNG,ORG,0.0,0.0,en,1.0
-the National Football Stadium,the National Football Stadium,ORG,0.5,0.0,en,1.0
+The Seismological Administration of the People's Republic of China,The Seismological Administration of the People's Republic of China,ORG,0.0,0.0,en,1.0
 CENC,CENC,ORG,-0.1,0.0,en,1.0
 the China Seismic Network Center,the China Seismic Network Center,ORG,-0.1,0.0,en,1.0
 Xinhua,Xinhua,ORG,-0.1,0.0,en,1.0
 The Moscow Department of Emergency Situations,The Moscow Department of Emergency Situations,ORG,0.0,0.0,en,1.0
+the “Fortune Teller”,the “Fortune Teller”,ORG,-0.15,0.0,en,1.0
 the United Geophysical Survey,the United Geophysical Survey,ORG,0.03333333333333333,0.0,en,1.0
-The Moscow Department of Transport,The Moscow Department of Transport,ORG,0.0,0.0,en,1.0
+the National Football Stadium,the National Football Stadium,ORG,0.5,0.0,en,1.0
 Baton Rouge,Baton Rouge,ORG,0.0,0.0,en,1.0
-the Euro-Mediterranean Seismological Center,the Euro-Mediterranean Seismological Center,ORG,0.0,0.0,en,1.0
 USS Baton Rouge,USS Baton Rouge,ORG,0.1,0.0,en,1.0
 Bruce Sterling,Bruce Sterling,ORG,0.16666666666666666,0.0,en,1.0
 Rostec,Rostec,ORG,0.0,0.0,en,1.0
-Stairway2Heaven,Stairway2Heaven,ORG,0.10000000000000002,0.0,en,1.0
+the Security Council of the Russian Federation,the Security Council of the Russian Federation,ORG,0.0,0.0,en,1.0
 The United Engine Corporation,The United Engine Corporation,ORG,0.0,0.0,en,1.0
 NATO AI,NATO AI,ORG,0.0,0.0,en,1.0
-The Seismological Administration of the People's Republic of China,The Seismological Administration of the People's Republic of China,ORG,0.0,0.0,en,1.0
+the Euro-Mediterranean Seismological Center,the Euro-Mediterranean Seismological Center,ORG,0.0,0.0,en,1.0
 Namsky,Namsky,ORG,0.0,0.0,en,1.0
-The CSTO Humanitarian Response Center,The CSTO Humanitarian Response Center,ORG,-0.1,0.0,en,1.0
-Army,Army,ORG,0.0,0.0,en,1.0
+YakutiaMedia,YakutiaMedia,ORG,0.0,0.0,en,1.0
+Alpine Corp,Alpine Corp,ORG,0.0,0.0,en,1.0
 Leus,Leus,ORG,0.0,0.0,en,1.0
 the Ministry of Emergency Situations of,the Ministry of Emergency Situations of,ORG,0.0,0.0,en,1.0
+the Research Institute of Physical Measurements,the Research Institute of Physical Measurements,ORG,0.15000000000000002,0.0,en,1.0
 The Moscow Municipal Services Complex,The Moscow Municipal Services Complex,ORG,-0.15,0.0,en,1.0
 Doc,Doc,ORG,-0.125,0.0,en,1.0
 EAEU,EAEU,ORG,0.0,0.0,en,1.0
-Alpine Corp,Alpine Corp,ORG,0.0,0.0,en,1.0
+Army,Army,ORG,0.0,0.0,en,1.0
+Instagram,Instagram,ORG,-0.02777777777777778,0.0,en,1.0
 the Russkiy Mir Foundation,the Russkiy Mir Foundation,ORG,0.0,0.0,en,1.0
-YakutiaMedia,YakutiaMedia,ORG,0.0,0.0,en,1.0
-the Public Chamber of the Russian Federation (OP,the Public Chamber of the Russian Federation (OP,ORG,0.0,0.0,en,1.0
-the Research Institute of Physical Measurements,the Research Institute of Physical Measurements,ORG,0.15000000000000002,0.0,en,1.0
 Stupak,Stupak,ORG,0.0,0.0,en,1.0
 Ermolaev,Ermolaev,ORG,-0.2,0.0,en,1.0
+The Moscow Department of Transport,The Moscow Department of Transport,ORG,0.0,0.0,en,1.0
+the Public Chamber of the Russian Federation (OP,the Public Chamber of the Russian Federation (OP,ORG,0.0,0.0,en,1.0
 Main Directorate of the Ministry of Emergency Situations,Main Directorate of the Ministry of Emergency Situations,ORG,0.12380952380952379,0.0,en,1.0
-Instagram,Instagram,ORG,-0.02777777777777778,0.0,en,1.0
-the Civil Defense and Defense Agency,the Civil Defense and Defense Agency,ORG,0.375,0.0,en,1.0
+"Belkovsky, Dzyadko","Belkovsky, Dzyadko",ORG,0.0,0.0,en,1.0
 the Institute of Earthquake Forecast Theory and Mathematical Geophysics of the Russian Academy of Sciences,the Institute of Earthquake Forecast Theory and Mathematical Geophysics of the Russian Academy of Sciences,ORG,0.0,0.0,en,1.0
 Meteum,Meteum,ORG,0.0,0.0,en,1.0
 Bogomolov,Bogomolov,ORG,0.13636363636363635,0.0,en,1.0
@@ -404,4 +405,4 @@ Data Fusion,Data Fusion,ORG,0.0,0.0,en,1.0
 Novaya Gazeta,Novaya Gazeta,ORG,-0.1,0.0,en,1.0
 The Russian Orthodox Church,The Russian Orthodox Church,ORG,-0.1,0.0,en,1.0
 Life.ru publishes,Life.ru publishes,ORG,0.1,0.0,en,1.0
-Shiryaev,Shiryaev,ORG,0.0,0.0,en,1.0
+Max,Max,ORG,0.0,0.0,en,1.0
