@@ -1,10 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'f7407cdebc',extremes,Fog,#d60d2b,wmo,туман москва,2026-09-03T07:20:00+00:00,Russia,0.7970585224112537,2,2,ru,ESB,Europe
 '1c3859b268',extremes,Wildfire,#d60d2b,wmo,лесной пожар ростовской области,2026-08-17T03:28:00+00:00,Russia,0.7238354768564095,1,2,ru,ESB,Europe
+'475ba7d4ed',extremes,Heat Wave,#c40202,wmo,жара в Беларуси,2026-08-15T03:13:00+00:00,Belarus,0.7228490023542834,1,2,ru,WCE,Europe
 '5295642073',extremes,Flood,#030ba1,wmo,наводнение россии,2026-08-23T03:30:00+00:00,Russia,0.686431942271655,1,1,ru,ESB,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-08-14T04:24:00+00:00,Russia,0.6819465110198586,1,2,ru,ESB,Europe
-'42ce4599b5',extremes,Wildfire,#d60d2b,wmo,лесной пожар в астраханской области,2026-08-22T03:22:00+00:00,Russia,0.6736783879039121,0,1,ru,ESB,Europe
-'475ba7d4ed',extremes,Heat Wave,#c40202,wmo,жара в Беларуси,2026-08-15T03:13:00+00:00,Belarus,0.6734105380638628,0,1,ru,WCE,Europe
 '91c463e37b',extremes,Flood,#030ba1,wmo,затопление Латвии,2026-08-24T03:32:00+00:00,Latvia,0.6723150543551142,0,1,ru,WCE,Europe
 '485a2e6d21',extremes,Flood,#030ba1,wmo,паводок šilutė d. мун.,2026-08-26T03:34:00+00:00,Lithuania,0.6722310617589687,0,1,ru,WCE,Europe
 'e0a20b939f',extremes,Storm,#b3b2b1,wmo,гроза Ставропольского края,2026-08-20T03:26:00+00:00,Russia,0.6714168335752049,0,1,ru,ESB,Europe
@@ -85,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6301d90510',extremes,Heat Wave,#c40202,wmo,жара орловская область,2026-08-07T04:37:00+00:00,Russia,0.5727509116270705,1,1,ru,ESB,Europe
 'cf99db758d',extremes,Fog,#d60d2b,meteo,туман в Латвии,2026-08-18T03:24:00+00:00,Latvia,0.5727365511792227,1,1,ru,WCE,Europe
 '19e4bbc007',extremes,Fog,#d60d2b,wmo,туман Эстония,2026-08-22T03:22:00+00:00,Estonia,0.5727190711112001,1,1,ru,NEU,Europe
+'42ce4599b5',extremes,Wildfire,#d60d2b,wmo,лесной пожар в астраханской области,2026-08-22T03:22:00+00:00,Russia,0.5726266297183252,1,1,ru,ESB,Europe
 'cd28317347',extremes,Storm,#b3b2b1,wmo,шторм Чукотский автономный округ,2026-08-01T05:42:00+00:00,Russia,0.572549472030284,1,1,ru,ESB,Europe
 'c54798ae88',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Молдове,2026-08-02T05:42:00+00:00,Moldova,0.5724063573221521,1,1,ru,WCE,Europe
 '1c4e7fb6c7',extremes,Fog,#d60d2b,meteo,туман Литва,2026-08-18T03:24:00+00:00,Lithuania,0.5718873266172451,1,1,ru,WCE,Europe
