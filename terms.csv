@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5fa8003f5',extremes,Storm,#b3b2b1,wmo,шторм в россии,2026-08-27T13:00:00+00:00,Russia,0.6568994556929716,7,2,ru,ESB,Europe
 '846ed66c82',extremes,Precipitation,#d60d2b,wmo,осадки в россии,2026-08-09T03:59:00+00:00,Russia,0.6199405650973039,4,2,ru,ESB,Europe
 'ffe6caf686',extremes,Snow&Ice,#d60d2b,wmo,снег России,2026-08-27T13:00:00+00:00,Russia,0.6150654220543004,2,1,ru,ESB,Europe
-'62e6975b09',extremes,Snow&Ice,#d60d2b,wmo,снег Архангельской области,2026-08-27T13:00:00+00:00,Russia,0.6098142655939245,4,1,ru,ESB,Europe
 '5295642073',extremes,Flood,#030ba1,wmo,наводнение россии,2026-08-23T03:30:00+00:00,Russia,0.5926099945412707,3,1,ru,ESB,Europe
 '23ad2bb822',extremes,Earthquake,#870007,usgs,землетрясение в России,2026-08-27T13:00:00+00:00,Russia,0.5773782066026127,2,1,ru,RFE,Asia
 '1c3859b268',extremes,Wildfire,#d60d2b,wmo,лесной пожар ростовской области,2026-08-17T03:28:00+00:00,Russia,0.5571082709244426,4,1,ru,ESB,Europe
@@ -78,6 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d62607b85',extremes,Flood,#030ba1,wmo,затопление республика северная осетия алания,2026-08-25T03:27:00+00:00,Russia,0.519381887585985,2,1,ru,ESB,Europe
 '8710bd49ea',extremes,Earthquake,#870007,usgs,землетрясение Северо-Курильск,2026-08-09T03:59:00+00:00,Russia,0.5193350275829326,2,1,ru,NPO,Pacific Ocean
 '896289f740',extremes,Thunderstorm,#53785a,wmo,здравствуй Россия,2026-08-14T04:24:00+00:00,Russia,0.5192134038631315,2,1,ru,ESB,Europe
+'62e6975b09',extremes,Snow&Ice,#d60d2b,wmo,снег Архангельской области,2026-08-27T13:00:00+00:00,Russia,0.5184921407548359,5,1,ru,ESB,Europe
 '4138b67283',extremes,Wildfire,#d60d2b,wmo,лесной пожар в республике ингушетия,2026-08-14T04:24:00+00:00,Russia,0.5179092642472989,2,1,ru,ESB,Europe
 '60c6fb7ef6',extremes,Flood,#030ba1,wmo,паводок на севере Амурской области,2026-08-22T03:22:00+00:00,Russia,0.5178108472864299,2,1,ru,ESB,Europe
 'bbf4eb830f',extremes,Flood,#030ba1,wmo,наводнение Забайкальский край,2026-08-12T04:23:00+00:00,Russia,0.5174983858296857,2,1,ru,ESB,Europe
@@ -127,7 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2409e054ef',extremes,Flood,#030ba1,wmo,наводнение на юге Амурской области,2026-09-03T07:20:00+00:00,Russia,0.4914960959909612,2,1,ru,ESB,Europe
 '3ba39c1261',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Брянской области,2026-08-19T03:26:00+00:00,Russia,0.4902119661283423,2,1,ru,ESB,Europe
 'b1c32750eb',extremes,Storm,#b3b2b1,wmo,гроза Белгородская область,2026-08-19T03:26:00+00:00,Russia,0.4897601599642087,2,1,ru,ESB,Europe
-'f7407cdebc',extremes,Fog,#d60d2b,wmo,туман москва,2026-09-03T07:20:00+00:00,Russia,0.48972947866331124,5,1,ru,ESB,Europe
+'f7407cdebc',extremes,Fog,#d60d2b,wmo,туман москва,2026-09-03T07:20:00+00:00,Russia,0.4897294786633112,5,1,ru,ESB,Europe
 '0ed10aaca0',extremes,Thunderstorm,#53785a,wmo,гроза Забайкальский край,2026-08-15T03:13:00+00:00,Russia,0.4886283677059537,2,1,ru,ESB,Europe
 '7638ee2306',extremes,Wildfire,#d60d2b,wmo,лесной пожар в курганской области,2026-08-16T03:28:00+00:00,Russia,0.4882853558664217,2,1,ru,ESB,Europe
 '09a4f258b3',extremes,Flood,#030ba1,wmo,внезапное наводнение в Литве,2026-08-25T03:27:00+00:00,Lithuania,0.4875064395747265,2,1,ru,WCE,Europe
