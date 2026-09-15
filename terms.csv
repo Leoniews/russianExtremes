@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c37650b8be',extremes,Flood,#030ba1,wmo,паводок в россии,2026-08-14T04:24:00+00:00,Russia,0.5555609862092985,3,1,ru,ESB,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,жара в россии,2026-08-14T04:24:00+00:00,Russia,0.5530294159925706,4,2,ru,ESB,Europe
 'eada3ead46',extremes,Snow&Ice,#d60d2b,wmo,снег Иркутской области,2026-08-26T03:34:00+00:00,Russia,0.5409053855531654,2,1,ru,ESB,Europe
-'d7b5dc98dc',extremes,Flood,#030ba1,wmo,наводнение россия,2026-08-19T03:26:00+00:00,Russia,0.5403322869352978,2,1,ru,ESB,Europe
 '0f8f3ed16f',extremes,Fog,#d60d2b,wmo,туман новосибирская область,2026-08-15T03:13:00+00:00,Russia,0.5388562657846159,2,1,ru,ESB,Europe
 '4562bf137a',extremes,Snow&Ice,#d60d2b,wmo,снег Томской области,2026-09-05T07:05:00+00:00,Russia,0.5382614426040795,2,1,ru,ESB,Europe
 'efefb7bfe5',extremes,Snow&Ice,#d60d2b,wmo,лед Омской области,2026-08-15T03:13:00+00:00,Russia,0.5379829710474956,2,1,ru,ESB,Europe
@@ -77,6 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9e5bd6fbf',extremes,Fog,#d60d2b,wmo,туман республика хакасия,2026-09-03T07:20:00+00:00,Russia,0.51295120177283,2,1,ru,ESB,Europe
 '5f5c31b2b1',extremes,Heat Wave,#c40202,wmo,жара Краснодарский край,2026-08-23T03:30:00+00:00,Russia,0.5111269264302991,2,1,ru,ESB,Europe
 'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,лесной пожар в республике башкортостан,2026-08-24T03:32:00+00:00,Russia,0.5105392772352103,2,1,ru,ESB,Europe
+'d7b5dc98dc',extremes,Flood,#030ba1,wmo,наводнение россия,2026-08-19T03:26:00+00:00,Russia,0.5097324888950031,3,1,ru,ESB,Europe
 'b426b7cca7',extremes,Heat Wave,#c40202,wmo,жара алтайский край,2026-08-14T04:24:00+00:00,Russia,0.5089445547559136,2,1,ru,ESB,Europe
 '56dc5e1ecc',extremes,Heat Wave,#c40202,wmo,жара республика адыгея,2026-08-23T03:30:00+00:00,Russia,0.5084752665807213,2,1,ru,ESB,Europe
 '14dd6bd84a',extremes,Thunderstorm,#53785a,meteo,гроза украина,2026-08-28T14:32:00+00:00,Ukraine,0.5066567098756146,2,1,ru,WCE,Europe
@@ -157,7 +157,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9296c9f081',extremes,Thunderstorm,#53785a,wmo,радуйся Беларусь,2026-08-22T03:22:00+00:00,Belarus,0.4729085132486216,2,1,ru,WCE,Europe
 'd05d7b6ebc',extremes,Fog,#d60d2b,wmo,туман Псковская область,2026-08-27T13:00:00+00:00,Russia,0.4726549791832916,2,1,ru,ESB,Europe
 '11ed526089',extremes,Thunderstorm,#53785a,wmo,суровая погода на юге Амурской области,2026-08-23T03:30:00+00:00,Russia,0.4725048341283691,2,1,ru,ESB,Europe
-'c54798ae88',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Молдове,2026-08-24T03:32:00+00:00,Moldova,0.47222379876741805,2,1,ru,WCE,Europe
+'c54798ae88',extremes,Wildfire,#d60d2b,wmo,лесной пожар в Молдове,2026-08-24T03:32:00+00:00,Moldova,0.472223798767418,2,1,ru,WCE,Europe
 '8df18a8426',extremes,Fog,#d60d2b,wmo,туман Краснодарского края,2026-08-12T04:23:00+00:00,Russia,0.471440651170384,2,1,ru,ESB,Europe
 '22c6635163',extremes,Fog,#d60d2b,wmo,туман Минская область,2026-09-04T07:23:00+00:00,Belarus,0.4707283390022615,2,1,ru,WCE,Europe
 '5a90c66caf',extremes,Precipitation,#d60d2b,wmo,ливень Эстония,2026-08-22T03:22:00+00:00,Estonia,0.4700190066175219,2,1,ru,NEU,Europe
@@ -189,7 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45ae0aee05',extremes,Fog,#d60d2b,wmo,туман республика башкортостан,2026-08-19T03:26:00+00:00,Russia,0.4561241861014184,3,1,ru,ESB,Europe
 '4e13fe3c45',extremes,Fog,#d60d2b,wmo,туман Челябинская область,2026-08-17T03:28:00+00:00,Russia,0.4558871197194263,3,1,ru,ESB,Europe
 '3298e986c8',extremes,Snow&Ice,#d60d2b,wmo,мороз республика татарстан,2026-08-30T08:30:00+00:00,Russia,0.4558353748458796,3,1,ru,ESB,Europe
-'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,лесной пожар Ульяновская область,2026-08-24T03:32:00+00:00,Russia,0.45539248437964636,3,1,ru,ESB,Europe
+'5fbb195efb',extremes,Wildfire,#d60d2b,wmo,лесной пожар Ульяновская область,2026-08-24T03:32:00+00:00,Russia,0.4553924843796463,3,1,ru,ESB,Europe
 'bbb3b03037',extremes,Snow&Ice,#d60d2b,wmo,мороз Пензенская область,2026-08-28T14:32:00+00:00,Russia,0.4550335878150666,3,1,ru,ESB,Europe
 '2e538bfb03',extremes,Fog,#d60d2b,wmo,туман эвенкийский м.р.,2026-08-25T03:27:00+00:00,Russia,0.454220390452112,3,1,ru,ESB,Europe
 '673ae5e083',extremes,Fog,#d60d2b,wmo,туман тюменской области,2026-08-19T03:26:00+00:00,Russia,0.4541585836665715,3,1,ru,ESB,Europe
