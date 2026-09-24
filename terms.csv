@@ -11,8 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f635f9286a',extremes,Storm,#b3b2b1,wmo,штормовой нагон Свердловская область,2026-08-27T13:00:00+00:00,Russia,0.4268514225240836,3,1,ru,ESB,Europe
 'e33f5d7d80',extremes,Flood,#030ba1,wmo,затопление Еврейской автономной области,2026-09-03T07:20:00+00:00,Russia,0.4262927672784097,3,1,ru,ESB,Europe
 '7ef041e594',extremes,Thunderstorm,#53785a,wmo,град Ростовская область,2026-09-04T07:23:00+00:00,Russia,0.4259776752142086,3,1,ru,ESB,Europe
-'42487fa38d',extremes,Drought,#edc291,edo,засуха россия,2026-08-29T09:19:00+00:00,Russia,0.425467768743045,3,1,ru,,
-'d5197c0b14',extremes,Wildfire,#d60d2b,wmo,лесной пожар саратовская область,2026-08-26T03:34:00+00:00,Russia,0.423884128642433,3,1,ru,ESB,Europe
 '5b302ce6b4',extremes,Wildfire,#d60d2b,effis,лесной пожар в Украине,2026-09-02T07:16:00+00:00,Ukraine,0.4220437114634343,3,1,ru,WCE,Europe
 'd6251b7520',extremes,Flood,#030ba1,wmo,затопление ленинградской области,2026-09-05T07:05:00+00:00,Russia,0.4217350662194053,3,1,ru,ESB,Europe
 '83d5f3e86a',extremes,Storm,#b3b2b1,wmo,шторм Карачаево-Черкесская республика,2026-08-30T08:30:00+00:00,Russia,0.4211827024164744,3,1,ru,ESB,Europe
@@ -64,7 +62,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f892b42e3d',extremes,Snow&Ice,#d60d2b,wmo,лед Кемеровской области,2026-09-01T07:58:00+00:00,Russia,0.3861441244531095,4,1,ru,ESB,Europe
 '4bd5418f6e',extremes,Snow&Ice,#d60d2b,wmo,снежная республика бурятия,2026-09-02T07:16:00+00:00,Russia,0.3854606658916121,4,1,ru,ESB,Europe
 '26b382bb6b',extremes,Snow&Ice,#d60d2b,wmo,ледяная республика алтай,2026-09-03T07:20:00+00:00,Russia,0.3848321059933833,4,1,ru,ESB,Europe
-'11f6834477',extremes,Snow&Ice,#d60d2b,wmo,лед Новосибирской области,2026-09-02T07:16:00+00:00,Russia,0.38475208633512203,4,1,ru,ESB,Europe
+'11f6834477',extremes,Snow&Ice,#d60d2b,wmo,лед Новосибирской области,2026-09-02T07:16:00+00:00,Russia,0.384752086335122,4,1,ru,ESB,Europe
 'd1edb9ebdb',extremes,Snow&Ice,#d60d2b,wmo,ледяная республика хакасия,2026-09-08T07:23:00+00:00,Russia,0.3847196705582862,4,1,ru,ESB,Europe
 'b357e635b3',extremes,Snow&Ice,#d60d2b,wmo,холодный Алтайский край,2026-09-02T07:16:00+00:00,Russia,0.3839893221494305,4,1,ru,ESB,Europe
 '36d971b235',extremes,Fog,#d60d2b,wmo,туман туруханский м.р.,2026-08-30T08:30:00+00:00,Russia,0.3836875471794979,4,1,ru,ESB,Europe
@@ -76,5 +74,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9e5bd6fbf',extremes,Fog,#d60d2b,wmo,туман республика хакасия,2026-09-03T07:20:00+00:00,Russia,0.3706072432808697,4,1,ru,ESB,Europe
 '59ba4a4410',extremes,Wildfire,#d60d2b,wmo,пожарный центр Красноярского края,2026-08-31T08:51:00+00:00,Russia,0.3652566427163958,4,1,ru,ESB,Europe
 '02ca7e604c',extremes,Wildfire,#d60d2b,effis,лесной пожар украина им. нет данных,2026-08-27T13:00:00+00:00,Ukraine,0.3641617293563532,4,1,ru,WCE,Europe
+'42487fa38d',extremes,Drought,#edc291,edo,засуха россия,2026-08-29T09:19:00+00:00,Russia,0.36194763343158826,4,1,ru,,
 'eab6319b02',extremes,Flood,#030ba1,wmo,наводнение šilutė d. мун.,2026-08-27T13:00:00+00:00,Lithuania,0.352149788090452,4,1,ru,WCE,Europe
 'c1fb9b89b9',extremes,Snow&Ice,#d60d2b,wmo,мороз омской области,2026-09-03T07:20:00+00:00,Russia,0.3319831576471813,5,1,ru,ESB,Europe
